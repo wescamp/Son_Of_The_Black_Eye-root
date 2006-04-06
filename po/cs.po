@@ -11,14 +11,13 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2006-04-04 11:20+0200\n"
+"PO-Revision-Date: 2006-04-06 10:53+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: KBabel 1.11.2\n"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:4
@@ -127,8 +126,7 @@ msgid "Me? I'll show you if I'm a coward!"
 msgstr "Já? Však já vám ukážu, jaký jsem zbabělec!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:149
-msgid ""
-"It is not time for quarreling! I will contain them, go find reinforcements."
+msgid "It is not time for quarreling! I will contain them, go find reinforcements."
 msgstr "Teď není čas na hádky! Postarám se o ně a vy najděte posily."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:153
@@ -330,8 +328,7 @@ msgstr ""
 msgid ""
 "Reinforcements, at last. We don't have much time, the Orcish hordes are on "
 "their way. To the attack!"
-msgstr ""
-"Posily, konečně. Nemáme moc času, skřetí hordy jsou na cestě. Do útoku!"
+msgstr "Posily, konečně. Nemáme moc času, skřetí hordy jsou na cestě. Do útoku!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:395
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
@@ -343,8 +340,7 @@ msgid "They are too numerous now, RETREAT!"
 msgstr "Je jich příliš mnoho! ÚSTUP!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:419
-msgid ""
-"The Great Horde at last! I was beginning to think they would never come."
+msgid "The Great Horde at last! I was beginning to think they would never come."
 msgstr "Mocná horda, konečně! Už jsem se začínal bát, že nikdy nedorazí."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:424
@@ -442,8 +438,7 @@ msgstr ""
 "je zakreslena na mapě, než se slunce dostane vysoko."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:138
-msgid ""
-"Stay alert! This oasis is known to be a den of outlaws and desert pillagers."
+msgid "Stay alert! This oasis is known to be a den of outlaws and desert pillagers."
 msgstr ""
 "Zůstávejte ve střehu! Ta oáza je známá jako brloh zločinců a pouštních "
 "nájezdníků."
@@ -451,8 +446,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:156
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:161
 msgid "We've done it! Now we need some rest, before we continue our journey."
-msgstr ""
-"Podařilo se! Předtím než budeme pokračovat v cestě si chvíli odpočineme."
+msgstr "Podařilo se! Předtím než budeme pokračovat v cestě si chvíli odpočineme."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:4
 msgid "End Of Peace"
@@ -475,8 +469,7 @@ msgstr ""
 "Všechny je pobijme a navraťme tuto zemi našim lidem!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:112
-msgid ""
-"We are attacked by these humans! Hurry up, we must defend our fathers' land!"
+msgid "We are attacked by these humans! Hurry up, we must defend our fathers' land!"
 msgstr ""
 "Jsme napadeni těmito lidmi! Do zbraně! Budeme bránit naši otčinu do poslední "
 "kapky krve!!"
@@ -586,8 +579,7 @@ msgstr "Musíme něco udělat!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:238
 msgid "I know what we do. Kill elves and help Inarix cross."
-msgstr ""
-"Vím, co budeme dělat. Zabíjet elfy; tak pomůžeme Inarixovi přejít řeku."
+msgstr "Vím, co budeme dělat. Zabíjet elfy; tak pomůžeme Inarixovi přejít řeku."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:242
 msgid "It won't be that easy! Our enemies are well entrenched."
@@ -632,8 +624,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:344
 msgid "It won't be said that Elves were braver than us, everyone attack!"
-msgstr ""
-"Nikdo nebude moci říct, že jsou elfové statečnější než my, všichni do útoku!"
+msgstr "Nikdo nebude moci říct, že jsou elfové statečnější než my, všichni do útoku!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:398
 msgid "At the saurians! Rip them to pieces, every last one of them!"
@@ -712,10 +703,8 @@ msgid "Really? What would you drink with it? Mint cordial?"
 msgstr "Vážně? A co bys z něj pil? Mátový odvar?"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:126
-msgid ""
-"Exasperated, Kapou'e launched an attack on his fellow orc Shan Taum the Smug."
-msgstr ""
-"A tak rozzuřený Kapou'e zaútočil na svého spojence, Shan Tuma samolibého."
+msgid "Exasperated, Kapou'e launched an attack on his fellow orc Shan Taum the Smug."
+msgstr "A tak rozzuřený Kapou'e zaútočil na svého spojence, Shan Tuma samolibého."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:145
 msgid ""
@@ -926,8 +915,7 @@ msgid "..."
 msgstr "..."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:171
-msgid ""
-"Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
+msgid "Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
 msgstr ""
 "A tak Kapou'e vyrazil do beznadějně vypadajícího boje, aby vysvobodil Barag "
 "Gór z obležení."
@@ -953,8 +941,7 @@ msgstr "Konečne ustupují!"
 msgid ""
 "We're not out of the woods yet. I can see that more are pouring from the "
 "forest. We are not yet safe."
-msgstr ""
-"Ještě nejsme venku z lesa. Vidím že přicházejí další. Nejsme tady v bezpečí."
+msgstr "Ještě nejsme venku z lesa. Vidím že přicházejí další. Nejsme tady v bezpečí."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:244
 msgid ""
@@ -966,8 +953,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:248
 msgid "Yes, I need to ask for assistance from the whole council. I'm with you."
-msgstr ""
-"Ano, jen se nejprve potřebuju zeptat o svolení Velkého sněmu. Jsem s tebou."
+msgstr "Ano, jen se nejprve potřebuju zeptat o svolení Velkého sněmu. Jsem s tebou."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:252
 msgid ""
@@ -1015,8 +1001,7 @@ msgstr "Ničí náš hrad. Zachraňte mé veselé elfy!"
 msgid ""
 "At your service, Etheliel. Let us push these evil creatures back to their "
 "quag!"
-msgstr ""
-"Jak si přeješ Ethelieli. Zaženeme tyhle hnusáky zpět bažin, odkud přišli."
+msgstr "Jak si přeješ Ethelieli. Zaženeme tyhle hnusáky zpět bažin, odkud přišli."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:4
 msgid "To the harbour of Tirigaz"
@@ -1036,8 +1021,7 @@ msgstr "Ma-Rana"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:158
 msgid "Ahhh, I'm so tired. It was a good idea to halt in such a quiet place."
-msgstr ""
-"Ahhh, jsem tak unaven! Už bylo načase utábořit se na nějakém klidném místě."
+msgstr "Ahhh, jsem tak unaven! Už bylo načase utábořit se na nějakém klidném místě."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:162
 msgid "It is too quiet. Just plain boring."
@@ -1118,10 +1102,8 @@ msgid "What are these orcs doing here? They should be too tired to live."
 msgstr "Co tu dělají ti skřeti? Zřejmě jsou příliš unaveni vlastním životem."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:133
-msgid ""
-"I've never pushed so far, we are crossing the border of the Black Eye lands."
-msgstr ""
-"Ještě nikdy jsem nebyl tak daleko. Za těmito značkami končí země Černého oka."
+msgid "I've never pushed so far, we are crossing the border of the Black Eye lands."
+msgstr "Ještě nikdy jsem nebyl tak daleko. Za těmito značkami končí země Černého oka."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:149
 msgid "Grüü"
@@ -1257,7 +1239,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:4
 msgid "Orcish Leader"
-msgstr ""
+msgstr "Skřetí vůdce"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:27
 msgid ""
@@ -1267,24 +1249,29 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"Skřetí vůdci jsou náčelníky kmene. To oni vedou svůj lid do bitvy a dělají "
+"významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, ale "
+"jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
+"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
+"součást každé bitvy: pokud skřetí armáda přijde o vůdce, bitva je ztracena."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr ""
+msgstr "čepel"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
-msgstr ""
+msgstr "luk"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
@@ -1294,11 +1281,11 @@ msgstr ""
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
-msgstr ""
+msgstr "bodnutí"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Skřetí vládce"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -1308,10 +1295,15 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"Skřetí vládci jsou náčelníky kmene.To oni vedou svůj lid do bitvy a dělají "
+"významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, ale "
+"jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
+"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
+"součást každé bitvy: pokud skřetí armáda přijde o vládce, bitva je ztracena."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Skřetí šaman"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1322,34 +1314,40 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:107
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:183
 msgid "impact"
-msgstr ""
+msgstr "úder"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:46
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:122
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:198
 msgid "curse"
-msgstr ""
+msgstr "prokletí"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:51
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "vysátí"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Skřetí šaman začátečník"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1361,10 +1359,17 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život. Šamani začátečníci jsou mladí a "
+"energičtí, jejich schopnost vrhat kouzla však potřebuje zlepšit."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Starý skřetí šaman"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1376,10 +1381,17 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život.Staří šamani jsou odborníci v magii, i "
+"když jejich fyzická síla již upadá."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Skřetí monarcha"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -1389,20 +1401,28 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"Skřetí monarchové jsou náčelníky kmene.To oni vedou svůj lid do bitvy a "
+"dělají významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, "
+"ale jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
+"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
+"součást každé bitvy: pokud skřetí armáda přijde o monarchu, bitva je "
+"ztracena."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr ""
+msgstr "Strážní věž"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
+"Strážní věže jsou vhodná místa k odhalení nepřátel a metání nejrůznějších "
+"předmětů balistami."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
-msgstr ""
+msgstr "balista"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:17
 msgid "Ouch! This hurts!"
@@ -1695,3 +1715,4 @@ msgstr "Pirátská galeona"
 #~ msgstr ""
 #~ "&orcish-grunt.png,Bručoun,(nejsnažší);*&orcish-warrior.png,Rváč;&orcish-"
 #~ "warlord.png,Válečník,(nejobtížnějsí)"
+
