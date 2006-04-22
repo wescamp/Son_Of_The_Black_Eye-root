@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-04-22 16:48+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:4
 msgid "Black Flag"
@@ -1265,7 +1265,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:4
 msgid "Orcish Leader"
-msgstr ""
+msgstr "Orchledare"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:27
 msgid ""
@@ -1275,24 +1275,28 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"Orchledarna leder stammen, fattar viktiga beslut och leder sitt folk i "
+"strid. De är svåra motståndare som är skickligast med svärdet, även om de "
+"också bär pilbåge. Deras naturliga ledarskapsförmåga gör dem värdefulla i "
+"strid, men om ledaren besegras, så förloras striden."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
-msgstr ""
+msgstr "pilbåge"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
@@ -1302,11 +1306,11 @@ msgstr ""
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Orchhövding"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -1316,10 +1320,14 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"Orchhövdingarna är stammens ledare. De fattar viktiga beslut och leder sitt "
+"folk i strid. De är svåra motståndare som är skickligast med svärdet, även "
+"om de också bär pilbåge. Deras naturliga ledarskapsförmåga gör dem "
+"värdefulla i strid, men om hövdingen besegras, så förloras striden."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Orchschaman"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1330,34 +1338,39 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Orchernas schamaner är orchmagins väktare. De hålls högt i ära och bildar "
+"Orchernas Råd, som fattar viktiga beslut för hela orchsamhället, och medlar "
+"i konflikter mellan stammarna. Schamanerna är fysiskt svaga för att vara "
+"orcher, men är goda besvärjare och kan förbanna sina fiender, vilket "
+"försvagar deras livskraft."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:107
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:183
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:46
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:122
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:198
 msgid "curse"
-msgstr ""
+msgstr "förbannelse"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:51
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "suga livskraft"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Orchschamannovis"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1369,10 +1382,16 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Orchernas schamaner är orchmagins väktare. De hålls högt i ära och bildar "
+"Orchernas Råd, som fattar viktiga beslut för hela orchsamhället, och medlar "
+"i konflikter mellan stammarna. Schamanerna är fysiskt svaga för att vara "
+"orcher, men är goda besvärjare och kan förbanna sina fiender, vilket "
+"försvagar deras livskraft. Schamannoviser är unga och flitiga, men deras "
+"magikunskaper tarvar förbättring."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Gammal orchschaman"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1384,10 +1403,16 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Orchernas schamaner är orchmagins väktare. De hålls högt i ära och bildar "
+"Orchernas Råd, som fattar viktiga beslut för hela orchsamhället, och medlar "
+"i konflikter mellan stammarna. Schamanerna är fysiskt svaga för att vara "
+"orcher, men är goda besvärjare och kan förbanna sina fiender, vilket "
+"försvagar deras livskraft. De gamla schamanerna har bemästrat magin, men "
+"deras fysiska styrka har avtagit med åren."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Orchhärskare"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -1397,20 +1422,26 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"Orchhärskarna är klanernas ledare. De fattar viktiga beslut och leder sitt "
+"folk i strid. De är svåra motståndare som är skickligast med svärdet, även "
+"om de också bär pilbåge. Deras naturliga ledarskap gör dem mycket värdefulla "
+"i strid, men om härskaren dör, så förloras striden."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr ""
+msgstr "Vakttorn"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
+"Vakttorn är bra platser att sikta fiender ifrån och sedan skjuta diverse "
+"saker på dem med ballistor."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
-msgstr ""
+msgstr "ballista"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:17
 msgid "Ouch! This hurts!"
@@ -1483,30 +1514,3 @@ msgstr ""
 #: Son_Of_The_Black_Eye/utils/utils.cfg:193
 msgid "Pirate Galleon"
 msgstr "Piratgaljon"
-
-#~ msgid "Son of the Black Eye (chapter I)"
-#~ msgstr "Svartögats Son (Kapitel I)"
-
-#~ msgid "Grunt"
-#~ msgstr "Soldat"
-
-#~ msgid "(challenging)"
-#~ msgstr "(utmanande)"
-
-#~ msgid "Warrior"
-#~ msgstr "Krigare"
-
-#~ msgid "(difficult)"
-#~ msgstr "(svårt)"
-
-#~ msgid "Warlord"
-#~ msgstr "Krigsherre"
-
-#~ msgid "(experts only)"
-#~ msgstr "(endast experter)"
-
-#~ msgid ""
-#~ "Let orcish leader Kapou'e join up with the runaway Tribes council and "
-#~ "free his enslaved people."
-#~ msgstr ""
-#~ "Förena orchledaren Kapou'e med stamrådet och befria hans förslavade folk."
