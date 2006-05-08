@@ -1,33 +1,22 @@
-# translation of cs.po to Czech
-# Czech translations for Battle for Wesnoth package.
-# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
-# Copyright (C) 2004 Wesnoth development team
-# This file is distributed under the same license as the Battle for Wesnoth package.
-#
-# Czech Wesnoth translation team, Yeti <yeti@physics.muni.cz> et al, 2004.
-# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle of Wesnoth\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2006-04-06 10:53+0200\n"
-"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
-"Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
+"PO-Revision-Date: 2006-04-04 18:59+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: KBabel 1.11.2\n"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:4
 msgid "Black Flag"
-msgstr "Černá vlajka"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:23
 msgid "Defeat Slowhand"
-msgstr "Poraž Slowhanda"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:27
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:28
@@ -43,7 +32,7 @@ msgstr "Poraž Slowhanda"
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:27
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:28
 msgid "Death of Kapou'e"
-msgstr "Kapou'e zemře"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:31
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:32
@@ -57,7 +46,7 @@ msgstr "Kapou'e zemře"
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:31
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:32
 msgid "Death of Grüü"
-msgstr "Grüü zemře"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:35
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:32
@@ -69,15 +58,15 @@ msgstr "Grüü zemře"
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:209
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:59
 msgid "Turns run out"
-msgstr "Vyprší počet kol"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:54
 msgid "Transport Galleon"
-msgstr "Dopravní galeona"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:56
 msgid "Transport"
-msgstr "Doprava"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:66
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:53
@@ -90,58 +79,54 @@ msgstr "Doprava"
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:48
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:49
 msgid "Kapou'e"
-msgstr "Kapou'e"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:80
 msgid "Slowhand"
-msgstr "Slowhand"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:99
 msgid "Kult The Red"
-msgstr "Kult Červený"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:129
 msgid "So here is Tirigaz."
-msgstr "Tak tohle je Tirigaz."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:133
 msgid ""
 "Looks like they are facing attack from pirates of the High Sea. We should "
 "help them."
-msgstr "Zdá se, že čelí útoku námořních pirátů. Měli bychom jim pomoci."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:137
 msgid "I propose that Gork, you and I call for reinforcements."
-msgstr "Navrhuji, abychom Gork, ty a já nejprve sehnali nějaké posily."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:141
 msgid ""
 "Call for reinforcements? Do you mean you don't want to fight for our "
 "brothers? Are you a coward, Vraurk?"
 msgstr ""
-"Posily? Vypadá to, jako bys nechtěl bojovat za své bratry! Jsi snad "
-"zbabělec, Vraurku?"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:145
 msgid "Me? I'll show you if I'm a coward!"
-msgstr "Já? Však já vám ukážu, jaký jsem zbabělec!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:149
 msgid ""
 "It is not time for quarreling! I will contain them, go find reinforcements."
-msgstr "Teď není čas na hádky! Postarám se o ně a vy najděte posily."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:153
 msgid "This is a wise choice. Good luck, son of the Black Eye."
-msgstr "Moudrá volba. Hodně štěstí, synu Černého oka."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:160
 msgid ""
 "Haha! Our plan is going well, let's surround them on land while our allies "
 "attack them from the sea!"
 msgstr ""
-"Haha! Náš plán se daří. Obklíčíme je na břehu, zatímco naši spojenci na ně "
-"zaútočí z moře!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:169
 msgid ""
@@ -149,50 +134,40 @@ msgid ""
 "find forces for a counter attack. We can't defeat those pirates without "
 "naval forces, but we can still wipe humans out of this region."
 msgstr ""
-"Utočí na nás z obou stran! Grüe, zadrž je, než se dostanu k Tirigazu a "
-"přivedu posily k protiútoku. Ačkoli tyto piráty nemůžeme porazit bez "
-"námořních jednotek, můžeme z této oblasti vyhnat lidi."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:173
 msgid "I love this strategy, chief!"
-msgstr "Miluji tuto strategii, veliteli!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:241
 msgid "Pillage! Let's plunder these orcs!"
-msgstr "Do útoku! Na skřety!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:252
 msgid "Aaaargh! I die!"
-msgstr "Aaargh! Umírám!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:256
 msgid "Finally you paid for all of what you did to my Orc brothers!"
-msgstr "Teď jsi zaplatil za vše, cos provedl mým sktřetím bratům!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:266
 msgid ""
 "We're back! We have bad news, the humans are regrouping on our tails, we "
 "must leave."
 msgstr ""
-"Jsme zpět. A přinášíme špatné zprávy. Za námi se blíží lidé a přicházejí jim "
-"další a další posily. Musíme pryč."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:270
 msgid ""
 "But where is the rest of the council? We haven't made such a long journey "
 "just to flee!"
 msgstr ""
-"Ale kde jsou představitelé Velkého sněmu? Nešli jsme přece tak dlouhou cestu "
-"nadarmo?!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:274
 msgid ""
 "We had news from them, all of them fled to the East, near the Mourned Hills. "
 "I think we should go for them as soon as possible and evacuate this city."
 msgstr ""
-"Dostali jsme od nich zprávu, že se v zájmu své bezpečnosti přesunuli dále na "
-"východ -- k Mournedským horám. Měli bychom opustit toto město a jít pro ně "
-"tak rychle, jak to jen půjde."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:278
 msgid ""
@@ -200,58 +175,52 @@ msgid ""
 "scorpions and outlaws. And bypassing it would take ages! Not to mention "
 "after this desert, we'll have to cross the Silent Forest!"
 msgstr ""
-"Ale Mournedské hory leží až za pouští smrti. A ta se jen hemží obřími "
-"jedovatými škorpióny a zbojníky. Přejít tuhle poušť zabere celou věčnost. A "
-"to ani nemluvím o Mlčícím lese, kterým pak budeme muset projít, když se "
-"dostaneme přes poušť."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:282
 msgid ""
 "So we have no choice ... I've never tasted scorpions but sure, this journey "
 "promises to be fun."
 msgstr ""
-"Nemáme na výběr... A škorpióny jsem ještě nikdy neokusil, takže tahle cesta "
-"slibuje dostatek povyražení."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:4
 msgid "Clash of Armies"
-msgstr "Střet armád"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:23
 msgid "Defend Prestim successfully for four days"
-msgstr "Ubraň Prestim po dobu čtyř dnů"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:27
 msgid "Destruction of a tower of Prestim"
-msgstr "Zničení Prestimské věže"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:39
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:106
 msgid "Death of Inarix"
-msgstr "Inarix zemře"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:86
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:153
 msgid "Mkel"
-msgstr "Mkel"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:112
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:174
 msgid "Oumph"
-msgstr "Oumph"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:138
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:384
 msgid "Earl Lanbec'h"
-msgstr "Hrabě Lanbec'h"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:191
 msgid "So here we are, they are preparing to assault."
-msgstr "Tak jsme tu. Přípravy na útok jsou v plném proudu."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:196
 msgid "Prestim's walls are rock hard, they'll break clean off on them."
-msgstr "Zdi Prestimu jsou jako skála. Nikdo je nepokoří."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:201
 msgid ""
@@ -259,93 +228,81 @@ msgid ""
 "built on three towers. If one of them were destroyed, the breach would allow "
 "humans to enter Prestim... needless to say, this would be the end for us."
 msgstr ""
-"Nejsem si tak jist. Každá pevnost má svou slabinu. Prestimské opevnění je "
-"založeno na třech věžích. Jakmile bude jedna zničena, průlom dovolí lidem "
-"dostat se do Prestimu ... a nemusím snad dodávat, že to by byl máš konec."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:206
 msgid ""
 "I've received messengers from the Council, saying that they are regrouping "
 "tribes into the Great Horde."
 msgstr ""
-"Obdržel jsem zprávu od Velikého sněmu. Kmeny spojily své síly v jedno "
-"vojsko, Mocnou hordu."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:211
 msgid "Great! When do they arrive?"
-msgstr "Výtečně! A kdy dorazí sem?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:216
 msgid "No sooner than four days hence. I fear it will be too late."
-msgstr "Bohužel nejdříve za čtyři dny. Obávám se, že už bude pozdě."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:221
 msgid "I don't think so, there is still a way..."
-msgstr "To si nemyslím. Stále je tu jedna možnost..."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:226
 msgid "Which one?"
-msgstr "Jaká?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:231
 msgid ""
 "Most forces will cross the river by the ford where the bridge previously "
 "stood. If we manage to defend it, we might still have a chance."
 msgstr ""
-"Podle mě se nejvíce nepřátel pokusí přebrodit řeku v místech, kde dříve "
-"stávaly mosty. Jestliže ubráníme tato místa, máme šanci."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:236
 msgid "And if we fail?"
-msgstr "A když ne?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:241
 msgid ""
 "Then they will assault Prestim, five against one. We'll just have to pray to "
 "Mother Earth."
 msgstr ""
-"Potom zaútočí na Prestim v přesile pět na jednoho, a nám zbudou jen modlitby "
-"k Matce zemi."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:246
 msgid "Great."
-msgstr "Vynikající."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:251
 msgid "Then, the battle for Prestim began."
-msgstr "A tak začala bitva o Prestim."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:263
 msgid "Plouf"
-msgstr "Plouf"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:272
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:358
 msgid "We arrive to honor our alliance, Earl Lanbec'h."
 msgstr ""
-"Hlásím, že jsme dorazili. Připraveni k boji za slávu naší aliance a hraběte "
-"Lanbec'ha."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:362
 msgid ""
 "Reinforcements, at last. We don't have much time, the Orcish hordes are on "
 "their way. To the attack!"
 msgstr ""
-"Posily, konečně. Nemáme moc času, skřetí hordy jsou na cestě. Do útoku!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:395
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
-msgstr "Tak jsme zde! Braňte Prestim! My je zatlačíme do řeky!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:400
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:410
 msgid "They are too numerous now, RETREAT!"
-msgstr "Je jich příliš mnoho! ÚSTUP!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:419
 msgid ""
 "The Great Horde at last! I was beginning to think they would never come."
-msgstr "Mocná horda, konečně! Už jsem se začínal bát, že nikdy nedorazí."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:424
 msgid ""
@@ -353,40 +310,34 @@ msgid ""
 "the morale of humans. Now they are retreating to their fortresses and will "
 "not venture out anytime soon."
 msgstr ""
-"Ubránit Prestim před takovou přesilou byl hrdinský kousek, který zjevně "
-"nalomil morálku lidí. Teď ustupují. Zalezou do svých pevností a už je tu "
-"nikdy neuvidíme."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:429
 msgid ""
 "It is now time to show them who we are and to lead the Great Horde in "
 "pursuit! We will not rest until we destitute Earl Lanbec'h!"
 msgstr ""
-"Je načase jim ukázat, kdo je tu pánem. Vyšleme Mocnou hordu, aby "
-"pronásledovala ustupující jednotky. Nedáme jim spát, dokud nedostaneme "
-"hraběte Lanbec'ha!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:434
 msgid "End of Chapter I"
-msgstr "Konec Kapitoly I"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:435
 msgid ""
 "Kapou'e will come back in Son of the Black Eye, chapter II: 'The Great "
 "Horde'."
-msgstr "Kapou'e se vrátí v kapitole II, Syn Černého oka: 'Mocná horda'."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:451
 msgid "No! The walls of Prestim are destroyed, we are done!"
-msgstr "Ne! Zdi Prestimu jsou v troskách. Jsme ztraceni!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:4
 msgid "The Desert of Death"
-msgstr "Poušť smrti"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:24
 msgid "Defeat Ar Dant"
-msgstr "Poraž Ar Danta"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:36
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:38
@@ -395,117 +346,96 @@ msgstr "Poraž Ar Danta"
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:35
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:36
 msgid "Death of a Shaman"
-msgstr "Šaman zemře"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:67
 msgid "Ar Dant"
-msgstr "Ar Dant"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:118
 msgid ""
 "It's been two days since we entered this desert. I have never been so hot "
 "and we have nearly finished our food."
 msgstr ""
-"Už to jsou dva dny, co se plahočíme touhle pouští. Nikdy jsem nezažil takové "
-"horko, a navíc nám docházejí zásoby jídla."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:122
 msgid ""
 "I'm hungry and we found no giant scorpion yet. Me sure, it would be "
 "delicious."
 msgstr ""
-"Mám hlad a zatím jsme nenašli žádného pouštního škorpióna. Určitě by chutnal "
-"skvěle."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:126
 msgid ""
 "I hope we won't find one! They are terrible armored beasts and your troll "
 "clubs are useless against their heavy shells."
 msgstr ""
-"Já doufám, že žádného ani nenajdeme. Jsou to obrovské obrněné potvory a s "
-"jejich tvrdým krunýřem si ani tvoje trolí palice neporadí."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:130
 msgid ""
 "I've been told the best way to defeat them is to attack their eyes with "
 "sharp blades. But I, too, hope we won't meet them."
 msgstr ""
-"Slyšel jsem, že je lze nejsnáze zabít, když zaútočíš na jejich oči ostrou "
-"čepelím. Ale také doufám, že žádného nepotkáme."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:134
 msgid ""
 "The sun is rising, we should resume our journey and find this oasis "
 "mentioned on the map before the sun gets high."
 msgstr ""
-"Vychází slunce; měli bychom pokračovat v cestě. Zkusíme najít oázu, která tu "
-"je zakreslena na mapě, než se slunce dostane vysoko."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:138
 msgid ""
 "Stay alert! This oasis is known to be a den of outlaws and desert pillagers."
 msgstr ""
-"Zůstávejte ve střehu! Ta oáza je známá jako brloh zločinců a pouštních "
-"nájezdníků."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:156
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:161
 msgid "We've done it! Now we need some rest, before we continue our journey."
 msgstr ""
-"Podařilo se! Předtím než budeme pokračovat v cestě si chvíli odpočineme."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:4
 msgid "End Of Peace"
-msgstr "Konec míru"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:24
 msgid "Defeat Albert and his troops"
-msgstr "Poraž Alberta a jeho tlupu"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:67
 msgid "Albert"
-msgstr "Albert"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:108
 msgid ""
 "Look, companions! Those orcs don't imagine they are living their last day. "
 "Let's slay all of them and give this land back to our people!"
 msgstr ""
-"Hleďme! Tihle skřeti jistě netuší, že dnešek je jejich posledním dnem. "
-"Všechny je pobijme a navraťme tuto zemi našim lidem!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:112
 msgid ""
 "We are attacked by these humans! Hurry up, we must defend our fathers' land!"
 msgstr ""
-"Jsme napadeni těmito lidmi! Do zbraně! Budeme bránit naši otčinu do poslední "
-"kapky krve!!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:116
 msgid "The battle begun."
-msgstr "A bitva začala."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:127
 msgid "Argh! I die! But other humans will go and slay you, filthy orcs!"
 msgstr ""
-"Uh. Argh. Umírám, ale lidé, kteří přijdou po nás, vás zničí, vy špinaví "
-"skřeti!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:135
 msgid "Hurrah! Victory!"
-msgstr "Hohooo! Vítězství je naše!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:139
 msgid ""
 "We are victorious this time, but humans are organizing themselves in a huge "
 "army. We have just defeated a vanguard, they will soon overwhelm us."
 msgstr ""
-"Tentokrát jsme zvítězili, ale lidé se seskupují v obrovskou armádu. Porazili "
-"jsme pouze jejich předvoj, brzo nás vytlačí."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:143
 msgid "What should we do, chief?"
-msgstr "A co bude dál, veliteli?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:147
 msgid ""
@@ -513,40 +443,34 @@ msgid ""
 "assistance. Some of them live in Barag Gór in the lands of the free tribes. "
 "We must leave, now!"
 msgstr ""
-"Musíme odvést můj lid do bezpečí a požádat o pomoc Velký sněm. Někteří jeho "
-"členové žijí v Barag Gór, v zemi svobodných kmenů. Musíme odejít, hned teď!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:151
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
 msgstr ""
-"Ale svobodné kmeny jsou až za pohořím Haag a ty hory se jenom hemží "
-"trpaslíky a divokými troly."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:155
 msgid ""
 "We have no choice, we shall pass. The trolls have been our allies in the "
 "past--maybe they can help us. Hurry up, we must leave now."
 msgstr ""
-"Nemáme na výběr. Jediná šance je projít. Snad alespoň trolové na nás nebudou "
-"útočit. Přece jen to kdysi bývali naši spojenci. A dost řečí, vyrazíme."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:74
 msgid "Saving Inarix"
-msgstr "Záchrana Inarixe"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:94
 msgid "Bring Inarix and at least four saurians to the fort on River Gork"
-msgstr "Přiveď Inarixe a alespoň čtyři ještěráky do pevnosti na řece Gork"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:110
 msgid "Death of more than 5 saurians"
-msgstr "Zabití více jak pěti ještěráků"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:118
 msgid "Plonk"
-msgstr "Plonk"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:218
 msgid ""
@@ -554,13 +478,10 @@ msgid ""
 "fortified bridge over the Gork river was taken this morning by a small "
 "commando of elves, we have already tried to assault it twice without success."
 msgstr ""
-"Posily, konečně! Ať jste kdo jste, vítejte v Prestimu! Opevněný most přes "
-"řeku Gork byl dnes ráno napaden předvojem elfů. Dvakrát jsme se jej marně "
-"pokoušeli dobýt zpět."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:222
 msgid "Ah! They are no match against my mace."
-msgstr "Ále! Na můj palcát jsou krátcí."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:226
 msgid ""
@@ -568,30 +489,24 @@ msgid ""
 "are still trapped on the other side of the river some miles away. They won't "
 "be able to cross the river."
 msgstr ""
-"Je to horší, než se zdá. Zvědové přinesli zprávy, že ještěráci, naši "
-"přátelé, které vede Inarix, se dostali do obklíčení na druhém břehu řeky. "
-"Cestu k nám mají uzavřenu."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:230
 msgid ""
 "Elves and dwarves have joined humans against us and have set up camp nearby. "
 "Humans will arrive soon. We must destroy the southern bridge on the river."
 msgstr ""
-"Elfové a trpaslíci se spojili s lidmi. Utábořili se nedaleko a brzy dorazí "
-"až sem. Musíme zničit jižní most. Tím jejich postup zpomalíme."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:234
 msgid "We must do something!"
-msgstr "Musíme něco udělat!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:238
 msgid "I know what we do. Kill elves and help Inarix cross."
 msgstr ""
-"Vím, co budeme dělat. Zabíjet elfy; tak pomůžeme Inarixovi přejít řeku."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:242
 msgid "It won't be that easy! Our enemies are well entrenched."
-msgstr "To nebude tak jednoduché! Naši nepřátelé jsou dobře připraveni."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:246
 msgid ""
@@ -599,151 +514,127 @@ msgid ""
 "crossed. Any warriors trapped on the bridge or on the other side of the "
 "river will perish!"
 msgstr ""
-"Poškodíme jižní most, jakmile ho většina Ještěří armády překročí. Všichni "
-"bojovníci, kteří zůstanou na mostě nebo na opačné straně řeky zemřou!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:268
 msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind are on our tails, we "
 "must hurry up."
 msgstr ""
-"Tak jsme tu, přátelé. Hrabě Lanbec'h a jeho jednotky jsou nám v patách. "
-"Musíme si pospíšit."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:297
 msgid "Hurry up! The southern bridge is going to explode! Retreat! "
-msgstr "Rychle! Jižní most vyletí do vzduchu! Ústúúúp!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:326
 msgid ""
 "We've had too many casualties to be able to resist the humans, we have no "
 "choice but to surrender."
 msgstr ""
-"Máme příliš mnoho ztrát, než abychom ustáli další útok. Nezbývá nám, než se "
-"vzdát."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:340
 msgid ""
 "This has taken too much time, we should send all of our troops and send "
 "these creatures back to hell."
 msgstr ""
-"To nám zabere příliš mnoho času, měli bychom použít všechny naše síly a "
-"poslat tyto stvoření do pekla."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:344
 msgid "It won't be said that Elves were braver than us, everyone attack!"
 msgstr ""
-"Nikdo nebude moci říct, že jsou elfové statečnější než my, všichni do útoku!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:398
 msgid "At the saurians! Rip them to pieces, every last one of them!"
-msgstr "Na ještěráky! Rozsekejte je do jednoho na kousky!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:402
 msgid "It is too late, we are defeated."
-msgstr "Příliš pozdě. Jsme poraženi."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:4
 msgid "Shan Taum The Smug"
-msgstr "Shan Tum zvaný Samolibý"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:23
 msgid "Survive the Shan Taum menace for 20 turns"
-msgstr "Odolej silám Shan Tauma po 20 tahů"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:62
 msgid "Shan Taum"
-msgstr "Shan Taum"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:90
 msgid "At last, here are the mourned hills! I hope everything will be OK."
-msgstr "Konečně, zde jsou ty oplakávané kopce! Snad bude všechno v pořádku."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:94
 msgid "Why?"
-msgstr "Proč"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:98
 msgid ""
 "Only trolls don't know that these lands are ruled by Shan Taum the Smug, who "
 "was a rival for Black Eye Karun."
 msgstr ""
-"Takhle se může zeptat jen trol... Tomu místu vládne Shan Tum, zvaný "
-"Samolibý. Dlouholetý soupeř Karuna Černé oko."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:102
 msgid "I doubt he would welcome the son of the Black Eye."
-msgstr "Pochybuji, že by rád uvítal syna Černého oka."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:106
 msgid ""
 "Who is that? Kapou'e! What are you doing in my lands you ridiculous born "
 "loser?"
 msgstr ""
-"Koho to sem čerti nesou? Kapou'e! Copak hledá takový nanicovatý chcípáček v "
-"mé zemi?"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:110
 msgid ""
 "Hold on, Shan Taum. We are not here to quarrel, we are here to escort our "
 "brothers and to deliberate about what we have to do."
 msgstr ""
-"Zadrž, Shan Tume. Nepřišli jsme se s tebou hádat. Jsme tu jako doprovod "
-"našich bratrů a abychom se poradili, co uděláme."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:114
 msgid ""
 "Bwahaha! You are nothing! Where is your land? You became a beggar. You are "
 "as pathetic as your father!"
 msgstr ""
-"Hahaha! Ty nulo! Kde máš svoji zemi? Stal ses žebrákem! Jsi stejně ubohý "
-"jako tvůj otec!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:118
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I'll make "
 "a mug out of your skull!"
 msgstr ""
-"Jak se opovažuješ takto mluvit o mém otci, ty ubohý zbabělče? Udělám si "
-"hrnek ze tvé lebky!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:122
 msgid "Really? What would you drink with it? Mint cordial?"
-msgstr "Vážně? A co bys z něj pil? Mátový odvar?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:126
 msgid ""
 "Exasperated, Kapou'e launched an attack on his fellow orc Shan Taum the Smug."
 msgstr ""
-"A tak rozzuřený Kapou'e zaútočil na svého spojence, Shan Tuma samolibého."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:145
 msgid ""
 "What is this? Are you mad!? Humans are besieging our fortress at Prestim and "
 "you are fighting each other!?"
 msgstr ""
-"Co to má znamenat? Zešíleli jste? Lidé obléhají pevnost Prestim a vy tady "
-"bojujete mezi sebou?"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:149
 msgid "Well, ermmm..."
-msgstr "Hmmm... no..."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:153
 msgid ""
 "Kapou'e, rumors tell you made a long trip to seek assistance from us, "
 "escorting Pirk, Gork and Vraurk. The council is grateful for that."
 msgstr ""
-"Kapou'e. Slyšeli jsme, že jsi podstoupil dlouhou cestu, abys vyhledal naši "
-"pomoc a doprovodil Pirka, Gorka a Vraurka. Veliký sněm ti za to děkuje."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:157
 msgid "I know what you want from us but I'm afraid we can't help you."
-msgstr "Vím, co žádáš, ale obávám se, že ti nebudeme moci pomoci."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:161
 msgid "Really? But my people..."
-msgstr "Opravdu? Ale moji lidé..."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:165
 msgid ""
@@ -751,25 +642,20 @@ msgid ""
 "us some unity was your father, Black Eye Karun. Hearing rumors of your "
 "exploits, we understood you are a worthy son of your father."
 msgstr ""
-"Nechápeš to. Skřeti byli po dlouhá léta rozděleni. Jediný, kdo nás určitým "
-"způsobem sjednotil, byl tvůj otec Karun Černé oko. Podle toho, co jsme o "
-"tobě slyšeli, jsi opravdu hoden odkazu tvého otce."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:169
 msgid ""
 "This is true. Now we are pressured from all sides by humans and elves; we "
 "need a leader that can unite all banners. This one is YOU!"
 msgstr ""
-"To je pravda. A teď, když jsme pod tlakem lidí a elfů, potřebujeme vůdce, "
-"který by sjednotil naše národy pod jedinou vlajku. Tím vůdcem budeš TY!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:173
 msgid "Well, I'm not sure I deserve that..."
-msgstr "Ehm, Opravdu? Myslíte, že jsem toho hoden?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:177
 msgid "Did you hear? There is a battle waiting for us at Prestim!"
-msgstr "Ale no tak! U Prestimu nás čeká bitva. Pořádná bitva."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:181
 msgid ""
@@ -777,9 +663,6 @@ msgid ""
 "of the river and your people won't be safe. You are the only one that can "
 "help us defend Prestim!"
 msgstr ""
-"Kapou'e, padne-li Prestim, získají lidé velmi silné postavení na téhle "
-"straně řeky, a tvé kmeny nikdy nebudou v bezpečí. Jsi jediný, kdo nám může "
-"pomoci zachránit Prestim!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:185
 msgid ""
@@ -788,35 +671,32 @@ msgid ""
 "decide if we have to form the Great Horde again and give you the leadership "
 "of it."
 msgstr ""
-"Nech své lidi zde, Kapou'e, pro tuto chvíli jsou v bezpečí, a jdi bránit "
-"Prestim. Náš sněm, který je nyní opět úplný, mezitím rozhodne, zda je nutné "
-"opět spojit naše vojska do Mocné hordy a učinit tě jejím velitelem."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:199
 msgid "Nooo! Don't kill me, I surrender to you, little earthworm."
-msgstr "Neee! Nezabíjejte mě. Vzdávám se, ty malý bídný červe."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:4
 msgid "Silent Forest"
-msgstr "Tichý les"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:24
 msgid "Chase all elves from the western bank of river Bork"
-msgstr "Pronásleduj všechny elfy ze západního břehu řeky Bork"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:67
 msgid "Lucile"
-msgstr "Lucile"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:83
 msgid "Raceme"
-msgstr "Raceme"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:118
 msgid ""
 "So here is the Silent Forest ... why is it named that way? Is it really that "
 "silent?"
-msgstr "Tam před námi je Tichý les. Proč se tak jmenuje? Je opravdu tak tichý?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:122
 msgid ""
@@ -824,20 +704,16 @@ msgid ""
 "hunt there and fish in the Bork river. But now, no one would enter there "
 "voluntarily."
 msgstr ""
-"Řekl bych, že nebyl vždy tak tichý. Mnoho lovců z různých kmenů v něm lovilo "
-"a rybařilo v řece Bork. Teď by do něj však nikdo nevstoupil dobrovolně."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:126
 msgid "Some people say these woods are haunted."
-msgstr "Někdo dokonce říká, že je ten les začarovaný."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:130
 msgid ""
 "The fact is that few people entered this forest and returned home safe. Most "
 "likely, this forest is full of elvish renegades."
 msgstr ""
-"No, není moc těch, kteří vstoupili do toho lesa a šťastně se vrátili domů, "
-"ale to bude spíše tím, že je tam plno elfích odpadlíků."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:134
 msgid ""
@@ -845,263 +721,235 @@ msgid ""
 "elvish poachers. If we ever meet some, I'll push them into the Bork river "
 "with great delight."
 msgstr ""
-"Tak i tak musíme najít místo k odpočinku. Ozbrojeni jsme dostatečně, a s "
-"partou efích zlodějíčků si poradíme. Uděláme jim takový tanec, že se zastaví "
-"až v řece Bork. Nejlépe na dně."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:143
 msgid ""
 "What is that? Orcs entering our forest? Fools! None of them will return "
 "alive!"
 msgstr ""
-"Kdo se to sem hrne? Že by skřeti? Ti si tedy věří, hlupáci. Dám za to krk, "
-"že žádný z nich se odtud živý nedostane."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:147
 msgid "I agree. We'll attack them on both sides."
-msgstr "Souhlasím. Zaútočíme na ně z obou stran."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:176
 msgid "No more elves? Where are you cowards!?"
-msgstr "Žádní elfové? Kde jste, vy baby!?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:180
 msgid ""
 "Don't shout that loud, stupid troll. Do you remember we are in the Silent "
 "Forest? Perhaps there more are to come."
 msgstr ""
-"Neřvi tak nahlas, hloupý trole. Zapomněl jsi, že jsme v Tichém lese? Vsadím "
-"se, že jich je tady ještě spousta."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:184
 msgid ""
 "I don't think so. They must have fled. Now that this forest has been cleared "
 "of elves, we can have a rest and then continue our journey."
 msgstr ""
-"Neřekl bych. Utíkali, co jim nohy stačili. Když jsme teď vyčistili les od "
-"elfů, můžeme si odpočinout a pak pokračovat dál."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:4
 msgid "The Siege Of Barag Gór"
-msgstr "Obléhání pevnosti Barag Gór"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:26
 msgid "Rescue the Shamans"
-msgstr "Záchrana šamana"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:97
 msgid "Etheliel"
-msgstr "Etheliel"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:115
 msgid "Rugh"
-msgstr "Rugh"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:147
 msgid "Here is Barag Gór."
-msgstr "Zde je Barag Gór."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:151
 msgid ""
 "Oh no! They are besieged by elves. We must help our brothers to get rid of "
 "this mob. But these filthy elves are so numerous."
 msgstr ""
-"A sakra! Je obležena elfy. Musíme pomoci našim bratrům zbavit se té chátry. "
-"Jen kdyby těch špinavých elfů nebylo tolik."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:155
 msgid "I have a subtle plan, chief."
-msgstr "Veliteli, mám lstivý plán."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:159
 msgid "Which plan?"
-msgstr "Jaký plán?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:163
 msgid "We go and we kill all of them. What do you think?"
-msgstr "Půjdeme, a všechny je pobijeme. Co ty na to?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:167
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:171
 msgid ""
 "Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
 msgstr ""
-"A tak Kapou'e vyrazil do beznadějně vypadajícího boje, aby vysvobodil Barag "
-"Gór z obležení."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:189
 msgid "Jetto"
-msgstr "Jetto"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:206
 msgid ""
 "Freedom! Many thanks, Son of The Black Eye. I'm Jetto, master of assassins, "
 "now you can count on the assassins guild to help you in your quest!"
 msgstr ""
-"Svoboda! Tisíceré díky, synu Černého Oka. Já jsem Jetto, mistr starobylého "
-"společenství zabijáků. Od této chvíle můžeš počítat s pomocí celého "
-"zabijáckého spolku."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:236
 msgid "They are retreating at last!"
-msgstr "Konečne ustupují!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:240
 msgid ""
 "We're not out of the woods yet. I can see that more are pouring from the "
 "forest. We are not yet safe."
 msgstr ""
-"Ještě nejsme venku z lesa. Vidím že přicházejí další. Nejsme tady v bezpečí."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:244
 msgid ""
 "You are right, we have to leave to a safer place. You have helped us. Would "
 "you help us again and escort us to the Harbour of Tirigaz?"
 msgstr ""
-"Máš pravdu. Musíme najít bezpečnější místo. Pomohli jste nám. Pomohli byste "
-"nám opět a doprovodili nás do přístavu Trigaz?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:248
 msgid "Yes, I need to ask for assistance from the whole council. I'm with you."
 msgstr ""
-"Ano, jen se nejprve potřebuju zeptat o svolení Velkého sněmu. Jsem s tebou."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:252
 msgid ""
 "Excellent. This is a dangerous journey, as we have to take a road near the "
 "elvish forest. This is the road near that yellow farm."
 msgstr ""
-"Výborně. Je to nebezpečná cesta. Musíme se vydat cestou, která prochází "
-"kolem elfského lesa. Je to ta cesta poblíž žluté usedlosti."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:259
 msgid "Bring the Shamans and then Kapou'e to the signpost"
-msgstr "Přiveď šamana a Kapou'e na vyznačené místo"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:303
 msgid ""
 "We're safe, finally. Hurry up Kapou'e, come with us, we need to reach "
 "Tirigaz as soon as possible."
 msgstr ""
-"Konečně jsme v bezpečí. Pospěš Kapou'e, pojď s námi. Musíme se dostat do "
-"Tirigazu co nejdříve."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:309
 msgid "Bring Kapou'e to the signpost"
-msgstr "Přiveď Kapou'ea ke značce"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:346
 msgid "Filiel"
-msgstr "Filiel"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:353
 msgid "Aha! Surprise! You thought you could cross elvish lands safely!"
 msgstr ""
-"Helemese. Překvapení! To si vážně myslíte, že můžete jen tak projít zemí "
-"elfů!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:385
 msgid "We've made it! Our journey is still long. Hurry up, my people!"
-msgstr "Podařilo se! Před námi je ještě dlouhá cesta. Pospěšte!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:405
 msgid "They are destroying our castle! To my rescue my merry Elves!"
-msgstr "Ničí náš hrad. Zachraňte mé veselé elfy!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:417
 msgid ""
 "At your service, Etheliel. Let us push these evil creatures back to their "
 "quag!"
 msgstr ""
-"Jak si přeješ Ethelieli. Zaženeme tyhle hnusáky zpět bažin, odkud přišli."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:4
 msgid "To the harbour of Tirigaz"
-msgstr "Cesta do přístavu Tirigaz"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:43
 msgid "Defeat all enemy leaders"
-msgstr "Poraž všechny nepřátelské velitele"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:101
 msgid "Na-Mana"
-msgstr "Na-Mana"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:128
 msgid "Ma-Rana"
-msgstr "Ma-Rana"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:158
 msgid "Ahhh, I'm so tired. It was a good idea to halt in such a quiet place."
 msgstr ""
-"Ahhh, jsem tak unaven! Už bylo načase utábořit se na nějakém klidném místě."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:162
 msgid "It is too quiet. Just plain boring."
-msgstr "Je až příliš klidné. Myslím, že to nebyl dobrý plán."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:166
 msgid "Shut up, I just heard something."
-msgstr "Ticho! Něco jsem zaslechl."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:170
 msgid ""
 "You're right. I can see something is moving in these hills. Looks like there "
 "are undead there."
-msgstr "Taky to slyším. Bylo to ze strany od hor. Zdá se, že tam jsou nemrtví."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:174
 msgid "Excellent! It is time for exercise!"
-msgstr "Skvěle! Čas na rozcvičku!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:188
 msgid "Hmmm, what neat bottle! What is it?"
-msgstr "Hmmm, co je to za láhev?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:192
 msgid "It is written H.O.L.Y W.A.T.E.R"
-msgstr "Je tu napsáno --s.v.ě.c.e.n.á v.o.d.a--"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:196
 msgid "I'm thirsty ... *gulp* *gulp*"
-msgstr "Mám žízeň... *glo glo glo*"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:200
 msgid "Ahhh, that was yummy!"
-msgstr "Fuj, to bylo dobré."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:212
 msgid "The day is coming, these night creatures will soon return to the pit."
-msgstr "Máme vyhráno. Přichází den, a ty noční potvory zalezou do svých děr."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:216
 msgid "Grüü, are you forgetting we are ALSO night creatures?"
-msgstr "Grüe, zapomínáš snad že jsme TAKÉ noční tvorové?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:220
 msgid "Err... well..."
-msgstr "Eee.. No jo..."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:4
 msgid "Toward Mountains of Haag"
-msgstr "Cesta pohořím Haag"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:25
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:197
 msgid "Move Kapou'e to the end of the mountains"
-msgstr "Dostaň Kapou'e z hor ven"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:77
 msgid "Kwili"
-msgstr "Kwili"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:91
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:141
 msgid "Blemaker"
-msgstr "Blemaker"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:115
 msgid ""
@@ -1109,98 +957,84 @@ msgid ""
 "are near now. But beware, there are dwarves and wild trolls around. Hurry "
 "up! I can see the sign post that indicates their land."
 msgstr ""
-"Už máme hory skoro za sebou. Zbývá projít poslední úsek k území svobodných "
-"kmenů. Ale dávejte pozor, stále ještě můžeme narazit na trpaslíky nebo "
-"troly. Honem! Vidím už značky označující jejich území."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:119
 msgid "What are these orcs doing here? They should be too tired to live."
-msgstr "Co tu dělají ti skřeti? Zřejmě jsou příliš unaveni vlastním životem."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:133
 msgid ""
 "I've never pushed so far, we are crossing the border of the Black Eye lands."
 msgstr ""
-"Ještě nikdy jsem nebyl tak daleko. Za těmito značkami končí země Černého oka."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:149
 msgid "Grüü"
-msgstr "Grüü"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:157
 msgid "Toughkon"
-msgstr "Toughkon"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:165
 msgid "Pe"
-msgstr "Pe"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:174
 msgid "Look! Dwarves are fighting against orcs!"
-msgstr "Pohleďte! Trpaslíci zaútočili na skřety."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:178
 msgid "Father, we should help them. Orcs are our allies."
 msgstr ""
-"Otče, myslím, že bychom měli skřetům pomoci. Učil jsi mě, že skřeti jsou "
-"našimi spojenci."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:182
 msgid ""
 "I don't know if we should do that. Orcs have been our allies in the past, "
 "but they have always treated us as fools."
 msgstr ""
-"Nevím, zda tohle platí i dnes. Dříve byli našimi spojenci, ale vždy s námi "
-"zacházeli jako s hlupáky."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:186
 msgid ""
 "But Father, we don't know what they are seeking there, maybe this is a good "
 "occasion to get rid of these dwarves."
 msgstr ""
-"Otče, sice nevíme, proč tady jsou, možná je to však dobrá příležitost "
-"vyřídit si to s těmi zákeřnými trpaslíky."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:190
 msgid ""
 "You are right, my son. We will help our orcish friends. But take care of "
 "you ... I would be desperate if something would happen to you."
 msgstr ""
-"Máš pravdu, můj synu. Pomůžeme tedy skřetům. Ale dej na sebe pozor... Jestli "
-"se ti něco stane..."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:221
 msgid "Argh! I'm done. My people is doomed!"
-msgstr "Ááá! Je po mně. Můj lid je ztracen!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:235
 msgid "Father! Oh no!"
-msgstr "Otče! Neeee!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:239
 msgid "Filthy dwarves! Now I'm to kill you to the last!"
-msgstr "Špinaví trpaslíci. Konečně vás zničíme!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:250
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:50
 msgid "Oh no, I'm defeated."
-msgstr "Ale ne, jsem poražen."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:259
 msgid ""
 "My son! I should have never brought him to this fight. Now we are to return "
 "to our caverns, and we will never go back."
 msgstr ""
-"Můj synu! Nikdy jsem tě neměl pustit do této bitvy. Odebereme se do svých "
-"jeskyň a nikdy se již nevrátíme na tento krutý svět."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:268
 msgid "Our troll friends are finished. Without them there is no hope."
-msgstr "Naši trolí přátelé byli poraženi. Bez nich nemáme žádnou naději."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:282
 msgid "Argh! I die!"
-msgstr "Uh. Umírám."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:308
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:331
@@ -1209,21 +1043,16 @@ msgid ""
 "green hills! The land of the free tribes is near now. I can see the walls of "
 "Barag Gór in the distance."
 msgstr ""
-"Zvládli jsme to! Dokázali jsme projít pohořím Haag. Pohleďte na ty zelené "
-"vršky! Země svobodných kmenů už není daleko. V dálce už vidím hradby "
-"pevnosti Barag-Gor."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:312
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you like to join us "
 "in our journey with your son? Your help would be appreciated!"
 msgstr ""
-"Blemaku, díky za pomoc v boji. Nepřidáš se k nám na naší pouti se svým "
-"synem? Ocenili bychom vaši pomoc."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:317
 msgid "Father, I'd like to join them. Would you mind it?"
-msgstr "Otče, rád bych se k nim přidal. Nejsi proti?"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:321
 msgid ""
@@ -1231,33 +1060,26 @@ msgid ""
 "But take care, there are plenty of creatures that seek our end, like elves "
 "or humans. They are as clever as merciless."
 msgstr ""
-"Synu, jsi už dost starý, aby ses vydal poznávat svět. Já, já musím zůstat "
-"zde. Ale dávej pozor, venku jistě potkáš spoustu zlořádů usilujících o náš "
-"konec, jako jsou elfové a lidé. A jsou stejně mazaní jako nelítostní."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:325
 msgid "Thanks, father. Don't worry, I'll take care of myself."
-msgstr "Díky, otče, a neměj obavy. Dokážu se o sebe postarat."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:335
 msgid ""
 "Grüü, many thanks for your help in this fight. I'm sorry about your father. "
 "Would you like to join us in our journey? Your help would be appreciated!"
 msgstr ""
-"Grüü, mnohé díky za pomoc v této bitvě. Je mi moc líto, že se tvůj otec "
-"nedočkal této chvíle. Přidáš se k nám? Ocenili bychom tvou pomoc."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:339
 msgid ""
 "My father would have come to help you. I would insult his memory not to help "
 "you. I come!"
 msgstr ""
-"Můj otec vám chtěl pomoci. Pošpinil bych jeho čest, kdybych vám nepomohl. "
-"Jdu s vámi!"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:4
 msgid "Orcish Leader"
-msgstr "Skřetí vůdce"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:27
 msgid ""
@@ -1267,29 +1089,24 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
-"Skřetí vůdci jsou náčelníky kmene. To oni vedou svůj lid do bitvy a dělají "
-"významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, ale "
-"jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
-"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
-"součást každé bitvy: pokud skřetí armáda přijde o vůdce, bitva je ztracena."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
-msgstr "meč"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr "čepel"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
-msgstr "luk"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
@@ -1299,11 +1116,11 @@ msgstr "luk"
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
-msgstr "bodnutí"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr "Skřetí vládce"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -1313,15 +1130,10 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
-"Skřetí vládci jsou náčelníky kmene.To oni vedou svůj lid do bitvy a dělají "
-"významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, ale "
-"jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
-"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
-"součást každé bitvy: pokud skřetí armáda přijde o vládce, bitva je ztracena."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr "Skřetí šaman"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1332,40 +1144,34 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
-"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
-"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
-"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
-"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
-"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
-"své nepřátele a vysávat jejich život."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:182
 msgid "staff"
-msgstr "hůl"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:107
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:183
 msgid "impact"
-msgstr "úder"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:46
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:122
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:198
 msgid "curse"
-msgstr "prokletí"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:51
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr "vysátí"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr "Skřetí šaman začátečník"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1377,17 +1183,10 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
-"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
-"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
-"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
-"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
-"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
-"své nepřátele a vysávat jejich život. Šamani začátečníci jsou mladí a "
-"energičtí, jejich schopnost vrhat kouzla však potřebuje zlepšit."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr "Starý skřetí šaman"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1399,17 +1198,10 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
-"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
-"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
-"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
-"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
-"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
-"své nepřátele a vysávat jejich život.Staří šamani jsou odborníci v magii, i "
-"když jejich fyzická síla již upadá."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr "Skřetí monarcha"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -1419,44 +1211,36 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
-"Skřetí monarchové jsou náčelníky kmene.To oni vedou svůj lid do bitvy a "
-"dělají významná rozhodnutí. Tito velitelé jsou z nutnosti vyzbrojeni lukem, "
-"ale jejich skutečné umění je boj mečem; podtrženo sečteno, jsou mocnými "
-"bojovníky. Jejich přirozené vůdcovské schopnosti z nich dělají neocenitelnou "
-"součást každé bitvy: pokud skřetí armáda přijde o monarchu, bitva je "
-"ztracena."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr "Strážní věž"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
-"Strážní věže jsou vhodná místa k odhalení nepřátel a metání nejrůznějších "
-"předmětů balistami."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
-msgstr "balista"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:17
 msgid "Ouch! This hurts!"
-msgstr "Au! To bolí!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:21
 msgid "The council will never be complete again. This is hopeless."
-msgstr "Sněm nebude nikdy úplný. Je to beznadějné."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:38
 msgid "Argh! I'm done. My people are doomed!"
-msgstr "Ááá! Je po mně. Mí lidé jsou ztraceni!"
+msgstr ""
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:62
 msgid "Without Inarix to lead his saurians, there is no hope."
-msgstr "Bez Inarixe, který by vedl své ještěráky, nemáme naději."
+msgstr ""
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:5
 msgid ""
@@ -1465,10 +1249,6 @@ msgid ""
 "peace treaty defined which lands were devoted to orcs or humans. Years that "
 "followed the treaty were prosperous."
 msgstr ""
-"Král Wesnothu Rahul I. uzavřel se skřety mír ve čtvrtém roce své vlády. "
-"Ukončil tak patnáct let trvající válku s vládcem skřetů Karunem, zvaným též "
-"Černé oko. Mírová dohoda stanovila, které země patří lidem a které skřetům. "
-"Následující léta míru byla plná blahobytu."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:10
 msgid ""
@@ -1476,9 +1256,6 @@ msgid ""
 "Orcish tribes and human northern earldoms. Famine led humans to colonize "
 "some orcish lands and to push orcs into the desolate hills."
 msgstr ""
-"Ve třináctém roce vlády Howgartha III. začalo napětí mezi skřetími kmeny a "
-"severními lidskými hrabstvími opět narůstat. Hladomor dovedl lidi k "
-"osidlování skřetího území a vytlačování skřetů do pustých hor."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:15
 msgid ""
@@ -1487,249 +1264,19 @@ msgid ""
 "Lanbec'h decided to definitively address the Orcish menace and conferred a "
 "small army on his son-in-law, Baron Albert."
 msgstr ""
-"To samozřejmě způsobilo násilná skřetí povstání, při nichž skřeti důsledně "
-"vyvražďovali lidské osady a vesnice na svých územích. Potom se hrabě "
-"Lanbec'h rozhodl definitivně vypořádat se skřetí hrozbou, a do oblasti "
-"vyslal menší armádu pod vedením svého zetě Alberta."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:20
 msgid ""
 "Baron Albert personally led a small vanguard with the mission to establish a "
 "bridgehead inside Orcish lands."
 msgstr ""
-"Baron Albert osobně vedl malý předvoj, jehož cílem bylo vytvořit v zemi "
-"skřetů předsunutý tábor a provádět průzkum."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:25
 msgid ""
 "By nightfall his troops reached a mountainous territory, under the authority "
 "of orcish leader Kapou'e, the son of the Black Eye."
 msgstr ""
-"Uprostřed noci jeho skupina dorazila na úpatí hor: do oblasti, kde byl "
-"vůdcem skřetů Kapou'e, Syn Černého oka."
 
 #: Son_Of_The_Black_Eye/utils/utils.cfg:193
 msgid "Pirate Galleon"
-msgstr "Pirátská galeona"
-
-#~ msgid "Son of the Black Eye (chapter I)"
-#~ msgstr "Syn Černého oka (kapitola I)"
-
-#~ msgid "Grunt"
-#~ msgstr "Pěšák"
-
-#~ msgid "(challenging)"
-#~ msgstr "(náročná)"
-
-#~ msgid "Warrior"
-#~ msgstr "Bojovník"
-
-#~ msgid "(difficult)"
-#~ msgstr "(obtížná)"
-
-#~ msgid "Warlord"
-#~ msgstr "Válečník"
-
-#~ msgid "(experts only)"
-#~ msgstr "(pouze pro experty)"
-
-#~ msgid ""
-#~ "Let orcish leader Kapou'e join up with the runaway Tribes council and "
-#~ "free his enslaved people."
-#~ msgstr ""
-#~ "Pomož vůdci skřetů Kapou'eovi spojit se s uprchlou Radou kmenů a "
-#~ "osvobodit svůj zotročený lid."
-
-#~ msgid ""
-#~ "We've succeeded! We've passed through the Mountains of Haag! Look at "
-#~ "these green hills! The land of the free tribes is near now. I can see the "
-#~ "walls of Barag-Gor in the distance."
-#~ msgstr ""
-#~ "Podařilo se! Dokázali jsme projít pohořím Haag. Vidíte ty zelené vršky? "
-#~ "Země svobodných kmenů leží před námi. V dálce už vidím hradby pevnosti "
-#~ "Barag-Gor."
-
-#~ msgid ""
-#~ "It won't be that easy! Our enemies are well entrenchered. And don't "
-#~ "forget, we will sabotage the southern bridge as soon as the bulk of "
-#~ "Saurians army will have crossed!"
-#~ msgstr ""
-#~ "To nebude snadné. Naši nepřátelé se již opevnili, a nezapomínejte, že "
-#~ "budeme potřebovat jednotky na stržení jižního mostu, jakmile po něm "
-#~ "ještěráci přejdou."
-
-#~ msgid ""
-#~ "You are right, we have to go to a safer place. You have helped us. Would "
-#~ "you help us again and escort us to the Harbour of Tirigaz?"
-#~ msgstr ""
-#~ "Máš pravdu. Musíme najít bezpečnější místo. Pomohli jste nám. Pomohli "
-#~ "byste nám opět a doprovodili nás do přístavu Trigaz?"
-
-#~ msgid "Yes, I need to ask for assistance from whole council. I'm with you."
-#~ msgstr ""
-#~ "Ano, jdeme požádat o rady Velký sněm. Máme tedy namířeno stejným směrem."
-
-#~ msgid ""
-#~ "Yes, but I can see that more are pouring from the forest. We are not in "
-#~ "safety."
-#~ msgstr "Ano, ale vidím, že z lesa přicházejí další. Nejsme tady v bezpečí."
-
-#~ msgid ""
-#~ "Excellent. This is a dangerous journey, as we have to take a road near "
-#~ "the elvish forest. This is the road near this yellow farm."
-#~ msgstr ""
-#~ "Výborně. Je to nebezpečná cesta. Musíme se vydat cestou, která prochází "
-#~ "kolem elfského lesa. Je to ta cesta poblíž žluté usedlosti."
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat Slowhand\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Zabij Slowhanda\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Pomalý postup"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defend Prestim successfully for four days\n"
-#~ "Defeat:\n"
-#~ "#Destruction of a tower of Prestim\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of Inarix"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Úspěšně braň Prestim po čtyři dny\n"
-#~ "Porážka:\n"
-#~ "#Zničení některé věže Prestimu\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Smrt Inarixe"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat Ar Dant\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of a Shaman"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Zabij An Danta\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Smrt šamana"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat Albert and his troops\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Poraž Alberta a jeho vojsko\n"
-#~ "Porážka:\n"
-#~ "#Smrt Kapouna\n"
-#~ "#Uplynutí času"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Survive the Shan Taum menace for 20 turns\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of a shaman"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Přežij Shan Tumovu hrozbu 20 kol\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Smrt šamana"
-
-#, fuzzy
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Chase all elves from the western bank of river Bork\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of a Shaman\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Zneškodni všechny elfy z Mlčícího lesa\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Smrt šamana"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Rescue the Shamans\n"
-#~ "@Bring the Shamans and Kapou'e to the sign post\n"
-#~ "Defeat:\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of a Shaman\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Dostaň šamany a Kapouna na značku na severozápadě\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Grüa\n"
-#~ "#Smrt některého z šamanů\n"
-#~ "#Pomalý postup"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill all enemy leaders\n"
-#~ "Defeat:\n"
-#~ "#Turns run out\n"
-#~ "#Death of Kapou'e\n"
-#~ "#Death of Grüü\n"
-#~ "#Death of a Shaman"
-#~ msgstr ""
-#~ "\n"
-#~ "Úkol:\n"
-#~ "@Zabij všechny velitele nepřátel\n"
-#~ "Porážka:\n"
-#~ "#Kapounova smrt\n"
-#~ "#Smrt Gruua\n"
-#~ "#Smrt některého šamana\n"
-#~ "#Pomalý postup"
-
-#~ msgid "Argh!  I'm done.  My people is dommed!"
-#~ msgstr "Ááá! Dostali mě. Mí lidé jsou ztraceni."
-
-#~ msgid ""
-#~ "&orcish-grunt.png,Grunt,(easiest);*&orcish-warrior.png,Warrior;&orcish-"
-#~ "warlord.png,Warlord,(hardest)"
-#~ msgstr ""
-#~ "&orcish-grunt.png,Bručoun,(nejsnažší);*&orcish-warrior.png,Rváč;&orcish-"
-#~ "warlord.png,Válečník,(nejobtížnějsí)"
+msgstr ""
