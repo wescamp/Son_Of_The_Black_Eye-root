@@ -1,20 +1,24 @@
+# translation of de.po to German
 # German translations for Battle for Wesnoth package.
 # Copyright (C) 2004, 2005 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
+# Stefan von Halenbach <vonHalenbach@users.sourceforge.net>, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle for Wesnoth 1.1-svn\n"
+"Project-Id-Version: blackeye-de\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2006-03-06 16:38+0100\n"
-"Last-Translator: Nils Kneuper <crazy-ivanovic  AT   gmx D OT  net>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-06-12 21:15+0200\n"
+"Last-Translator: Stefan von Halenbach <vonHalenbach@users.sourceforge.net>\n"
+"Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: German\n"
 "X-Poedit-Country: GERMANY\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:4
 msgid "Black Flag"
@@ -1300,7 +1304,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:4
 msgid "Orcish Leader"
-msgstr ""
+msgstr "Orkhäuptling"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:27
 msgid ""
@@ -1310,24 +1314,30 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"Orkhäuptlinge sind die Anführer ihres Stammes. Sie sind die, die wichtige "
+"Entscheidungen treffen und Ihre Gefolgschaft in im Kampf anführen. Sie "
+"tragen aus Zweckmäßigkeit einen Bogen mit sich herum, aber sind Geschickter "
+"mit dem Schwert. Alles in allem sind sie gute Krieger. Ihre angeborenen "
+"Führungsqualitäten geben ihnen in einem Kampf eine besondere Bedeutung: Wenn "
+"der Anführer verloren wurde, ist der Kampf ebenso verloren."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
-msgstr ""
+msgstr "Schwert"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr ""
+msgstr "Klingenwaffe"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
-msgstr ""
+msgstr "Bogen"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
@@ -1337,11 +1347,11 @@ msgstr ""
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
-msgstr ""
+msgstr "Stichwaffe"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Orkkriegshäuptling"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -1351,10 +1361,16 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"Orkkriegshäuptlinge sind die Anführer ihres Stammes. Sie sind die, die "
+"wichtige Entscheidungen treffen und Ihre Gefolgschaft in im Kampf anführen. "
+"Sie tragen aus Zweckmäßigkeit einen Bogen mit sich herum, aber sind "
+"Geschickter mit dem Schwert. Alles in allem sind sie gute Krieger. Ihre "
+"angeborenen Führungsqualitäten geben ihnen in einem Kampf eine besondere "
+"Bedeutung: Wenn der Anführer verloren wurde, ist der Kampf ebenso verloren."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Orkschamane"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1365,34 +1381,42 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
+"allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher die "
+"wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
+"verantwortlich ist Streits zu schlichten, die allzu oft zwischen den "
+"verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
+"körperlichen Schwäche (Im Vergleich zu anderen Orks), sind sie im Kampf "
+"durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
+"Flüchen die Lebensenergie Aus zu saugen, nicht zu verachten. "
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "Stab"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:107
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:183
 msgid "impact"
-msgstr ""
+msgstr "Stoss"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:46
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:122
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:198
 msgid "curse"
-msgstr ""
+msgstr "Fluch"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:51
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "Lebensentzug"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Junger Orkschamane"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1404,10 +1428,18 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
+"allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher die "
+"wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
+"verantwortlich ist Streits zu schlichten, die allzu oft zwischen den "
+"verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
+"körperlichen Schwäche (Im Vergleich zu anderen Orks), sind sie im Kampf "
+"durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
+"Flüchen die Lebensenergie Aus zu saugen, nicht zu verachten. "
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Alter Orkschamane"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1419,10 +1451,21 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
+"allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher die "
+"wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
+"verantwortlich ist Streits zu schlichten, die allzu oft zwischen den "
+"verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
+"körperlichen Schwäche (Im Vergleich zu anderen Orks), sind sie im Kampf "
+"durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
+"Flüchen die Lebensenergie Aus zu saugen, nicht zu verachten. Alte "
+"Orkschamanen sind Schamanen, welche Ihre Magischen Fähigkeiten "
+"perfektioniert haben, allerdings hat auch Ihre Körperliche Kraft durch das "
+"hohe Alter weiter abgenommen."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Orkheerführer"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -1432,20 +1475,29 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"Orkhheerführer sind die Anführer ihres Stammes. Sie sind die, die wichtige "
+"Entscheidungen treffen und Ihre Gefolgschaft in im Kampf anführen. Sie "
+"tragen aus Zweckmäßigkeit einen Bogen mit sich herum, aber sind Geschickter "
+"mit dem Schwert. Alles in allem sind sie gute Krieger. Ihre angeborenen "
+"Führungsqualitäten geben ihnen in einem Kampf eine besondere Bedeutung: Wenn "
+"der Heerführer verloren wurde, ist der Kampf ebenso verloren."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr ""
+msgstr "Wachturm"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
+"Wachtürme bieten eine hervorragende Aussicht, um herannahende Feinde "
+"frühzeitig zu erkennen, und allerlei Zeugs mittels Ballistas auf sie "
+"abzufeuern."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
-msgstr ""
+msgstr "Ballista"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:17
 msgid "Ouch! This hurts!"
@@ -1522,40 +1574,3 @@ msgstr ""
 #: Son_Of_The_Black_Eye/utils/utils.cfg:193
 msgid "Pirate Galleon"
 msgstr "Galleone der Piraten"
-
-#~ msgid "Son of the Black Eye (chapter I)"
-#~ msgstr "Schwarzauges Sohn (Kapitel I)"
-
-#~ msgid "Grunt"
-#~ msgstr "Grunzer"
-
-#~ msgid "(challenging)"
-#~ msgstr "(herausfordernd)"
-
-#~ msgid "Warrior"
-#~ msgstr "Krieger"
-
-#~ msgid "(difficult)"
-#~ msgstr "(schwierig)"
-
-#~ msgid "Warlord"
-#~ msgstr "Kriegsherr"
-
-#~ msgid "(experts only)"
-#~ msgstr "(unmöglich)"
-
-#~ msgid ""
-#~ "Let orcish leader Kapou'e join up with the runaway Tribes council and "
-#~ "free his enslaved people."
-#~ msgstr ""
-#~ "Begleitet den Orkhäuptling Kapou'e auf seiner Reise, seinem Stamm Frieden "
-#~ "und Freiheit zu bringen."
-
-#~ msgid ""
-#~ "We've succeeded! We've passed through the Mountains of Haag! Look at "
-#~ "these green hills! The land of the free tribes is near now. I can see the "
-#~ "walls of Barag-Gor in the distance."
-#~ msgstr ""
-#~ "Wir haben es geschafft! Wir haben das Haag-Gebirge durchquert. Schaut "
-#~ "euch diese grünen Wiesen an. Das Land der Freien Stämme ist nicht mehr "
-#~ "weit. Am Horizont kann man bereits die Zinnen von Barag Gór erkennen."
