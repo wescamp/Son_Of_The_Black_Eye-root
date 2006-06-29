@@ -3,15 +3,15 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle for Wesnoth 1.0.0\n"
+"Project-Id-Version: Battle for Wesnoth 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2005-08-28 09:04+0200\n"
+"PO-Revision-Date: 2006-06-29 16:29+0200\n"
 "Last-Translator: Mark Polo <markpolo@gmail.com>\n"
 "Language-Team: Latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:4
 msgid "Black Flag"
@@ -97,7 +97,6 @@ msgid "So here is Tirigaz."
 msgstr "Ecce Tirigasum."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:133
-#, fuzzy
 msgid ""
 "Looks like they are facing attack from pirates of the High Sea. We should "
 "help them."
@@ -120,7 +119,6 @@ msgid "Me? I'll show you if I'm a coward!"
 msgstr "Egone? Monstrabo tibi si ignavus sum!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:149
-#, fuzzy
 msgid ""
 "It is not time for quarreling! I will contain them, go find reinforcements."
 msgstr ""
@@ -131,7 +129,6 @@ msgid "This is a wise choice. Good luck, son of the Black Eye."
 msgstr "Electio sapiens est. Bona fortuna, fili Oculi Nigri."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:160
-#, fuzzy
 msgid ""
 "Haha! Our plan is going well, let's surround them on land while our allies "
 "attack them from the sea!"
@@ -140,7 +137,6 @@ msgstr ""
 "mari oppugnant!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:169
-#, fuzzy
 msgid ""
 "We are attacked from both sides! Grüü, hold them while I run to Tirigaz to "
 "find forces for a counter attack. We can't defeat those pirates without "
@@ -249,7 +245,6 @@ msgid "Prestim's walls are rock hard, they'll break clean off on them."
 msgstr "Moenia Prestis sunt dura ut saxa, contra ea frangentur."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:201
-#, fuzzy
 msgid ""
 "I'm not so sure. Every fortress has its own weakness. Prestim's walls are "
 "built on three towers. If one of them were destroyed, the breach would allow "
@@ -271,7 +266,6 @@ msgid "Great! When do they arrive?"
 msgstr "Papae! Quando advenient?"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:216
-#, fuzzy
 msgid "No sooner than four days hence. I fear it will be too late."
 msgstr "Post saltem quattuor dies. Temo ne sero sit."
 
@@ -296,7 +290,6 @@ msgid "And if we fail?"
 msgstr "Et si deficimus?"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:241
-#, fuzzy
 msgid ""
 "Then they will assault Prestim, five against one. We'll just have to pray to "
 "Mother Earth."
@@ -405,7 +398,6 @@ msgstr ""
 "iam paene absolvimus alimentum."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:122
-#, fuzzy
 msgid ""
 "I'm hungry and we found no giant scorpion yet. Me sure, it would be "
 "delicious."
@@ -421,7 +413,6 @@ msgstr ""
 "troglodytarum inutiles sunt contra carapacem earum densam."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:130
-#, fuzzy
 msgid ""
 "I've been told the best way to defeat them is to attack their eyes with "
 "sharp blades. But I, too, hope we won't meet them."
@@ -488,7 +479,6 @@ msgid "Hurrah! Victory!"
 msgstr "Papae! Victoria!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:139
-#, fuzzy
 msgid ""
 "We are victorious this time, but humans are organizing themselves in a huge "
 "army. We have just defeated a vanguard, they will soon overwhelm us."
@@ -501,7 +491,6 @@ msgid "What should we do, chief?"
 msgstr "Quid debemos facere, dux?"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:147
-#, fuzzy
 msgid ""
 "We must lead my people to a safe place and ask the Great Council for "
 "assistance. Some of them live in Barag Gór in the lands of the free tribes. "
@@ -511,7 +500,6 @@ msgstr ""
 "petere. Aliqui Bargi Gori in terris tribuum liberorum habitant. Eamus hinc!"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:151
-#, fuzzy
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
@@ -581,7 +569,6 @@ msgid "We must do something!"
 msgstr "Aliquid facere oportet!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:238
-#, fuzzy
 msgid "I know what we do. Kill elves and help Inarix cross."
 msgstr ""
 "Scio quod faciendum est. Dryadales occidere et Inaricem transeuntem "
@@ -601,7 +588,6 @@ msgstr ""
 "transierint. Milites qui in ponte vel ultra flumen excepti sunt peribunt!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:268
-#, fuzzy
 msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind are on our tails, we "
 "must hurry up."
@@ -633,7 +619,6 @@ msgid "It won't be said that Elves were braver than us, everyone attack!"
 msgstr "Non dicetur Dryadales acriores nobis esse: omnes oppugnate!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:398
-#, fuzzy
 msgid "At the saurians! Rip them to pieces, every last one of them!"
 msgstr "Contra lacertas! Scindete eos omnes!"
 
@@ -696,7 +681,6 @@ msgstr ""
 "quam pater tuus!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:118
-#, fuzzy
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I'll make "
 "a mug out of your skull!"
@@ -715,7 +699,6 @@ msgstr ""
 "Exacerbatus Kapouis in parem orcum Sanem Taumum Sui Contentum impetum dedit"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:145
-#, fuzzy
 msgid ""
 "What is this? Are you mad!? Humans are besieging our fortress at Prestim and "
 "you are fighting each other!?"
@@ -728,7 +711,6 @@ msgid "Well, ermmm..."
 msgstr "Ermmmm...."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:153
-#, fuzzy
 msgid ""
 "Kapou'e, rumors tell you made a long trip to seek assistance from us, "
 "escorting Pirk, Gork and Vraurk. The council is grateful for that."
@@ -745,7 +727,6 @@ msgid "Really? But my people..."
 msgstr "Re vera? Sed populus meus..."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:165
-#, fuzzy
 msgid ""
 "You don't understand. Orcs have been divided for ages. The only one who gave "
 "us some unity was your father, Black Eye Karun. Hearing rumors of your "
@@ -782,7 +763,6 @@ msgstr ""
 "Prestim defendendo."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:185
-#, fuzzy
 msgid ""
 "Leave your people here Kapou'e--they are safe for the moment--and go defend "
 "Prestim. In the meantime, now that the council is complete again, we will "
@@ -794,7 +774,6 @@ msgstr ""
 "sit te duce."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:199
-#, fuzzy
 msgid "Nooo! Don't kill me, I surrender to you, little earthworm."
 msgstr "Non! Noli me occidere, me dedo, vermis parve."
 
@@ -821,7 +800,6 @@ msgid ""
 msgstr "Ecce silva tacita... cur ita nominatur? Esne vere tam tacita?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:122
-#, fuzzy
 msgid ""
 "It has not always been that silent. A lot of hunters from tribes used to "
 "hunt there and fish in the Bork river. But now, no one would enter there "
@@ -886,7 +864,6 @@ msgstr ""
 "possumus et tunc iter pergere."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:4
-#, fuzzy
 msgid "The Siege Of Barag Gór"
 msgstr "Obsidium Bargi Gori"
 
@@ -903,7 +880,6 @@ msgid "Rugh"
 msgstr "Rughus"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:147
-#, fuzzy
 msgid "Here is Barag Gór."
 msgstr "Ecce Bargus Gorus."
 
@@ -932,7 +908,6 @@ msgid "..."
 msgstr "..."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:171
-#, fuzzy
 msgid ""
 "Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
 msgstr ""
@@ -995,7 +970,6 @@ msgstr ""
 "primum attingere."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:309
-#, fuzzy
 msgid "Bring Kapou'e to the signpost"
 msgstr "Kapouem ad signum movere"
 
@@ -1084,7 +1058,6 @@ msgid "The day is coming, these night creatures will soon return to the pit."
 msgstr "Venit dies: hae creaturae noctis mox ad fossem regredientur."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:216
-#, fuzzy
 msgid "Grüü, are you forgetting we are ALSO night creatures?"
 msgstr "Gruus, num dediscit nos QUOQUE creaturas noctis esse?"
 
@@ -1200,7 +1173,6 @@ msgstr ""
 "et numquam rursus eveniemus."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:268
-#, fuzzy
 msgid "Our troll friends are finished. Without them there is no hope."
 msgstr "Amici nostri troglodytae nos relinquunt. Sine eis non est spes."
 
@@ -1210,7 +1182,6 @@ msgstr "Eheu! Morior!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:308
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:331
-#, fuzzy
 msgid ""
 "We've succeeded! We've passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
@@ -1220,7 +1191,6 @@ msgstr ""
 "est terra tribuum liberorum nunc. Iam video moenia Bargi Gori longe."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:312
-#, fuzzy
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you like to join us "
 "in our journey with your son? Your help would be appreciated!"
@@ -1247,7 +1217,6 @@ msgid "Thanks, father. Don't worry, I'll take care of myself."
 msgstr "Ago gratias tibi, pater. Noli sollicitari, me ipsum curabo."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:335
-#, fuzzy
 msgid ""
 "Grüü, many thanks for your help in this fight. I'm sorry about your father. "
 "Would you like to join us in our journey? Your help would be appreciated!"
@@ -1265,7 +1234,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:4
 msgid "Orcish Leader"
-msgstr ""
+msgstr "Dux Orcorum"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:27
 msgid ""
@@ -1275,24 +1244,28 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"Duces Orcorum principes sunt tribus eorum. Sententias magni momenti faciunt "
+"et populum in proelium ducunt. Arcum gerunt ex necessitate, sed peritiores "
+"sunt gladio; pugnatores potentes omnino sunt. Peritiae ductus naturales eos "
+"faciunt pretiosos valde in proelio:si perditur Dux, ita proelium."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
-msgstr ""
+msgstr "gladius"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr ""
+msgstr "lamina"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
-msgstr ""
+msgstr "arcus"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
@@ -1302,11 +1275,11 @@ msgstr ""
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
-msgstr ""
+msgstr "infigere"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Dominus Orcorum"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -1316,10 +1289,14 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"Domini Orcorum principes sunt tribus eorum. Sententias magni momenti faciunt "
+"et populum in proelium ducunt. Arcum gerunt ex necessitate, sed peritiores "
+"sunt gladio; pugnatores potentes omnino sunt. Peritiae ductus naturales eos "
+"faciunt pretiosos valde in proelio:si perditur Dominus, ita proelium."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1330,34 +1307,40 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti "
+"communiati toto Orcorum facit et contentiones inter tribus generis huius "
+"litigosi arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines "
+"Orcorum incantatores probi sunt et hostes execrari possunt, haurientes "
+"vitam eorum."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "virga"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:107
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:183
 msgid "impact"
-msgstr ""
+msgstr "incussus"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:46
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:122
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:198
 msgid "curse"
-msgstr ""
+msgstr "maledictio"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:51
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "exhaurire"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum Novitius"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1369,10 +1352,17 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti "
+"communiati toto Orcorum facit et contentiones inter tribus generis huius "
+"litigosi arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines "
+"Orcorum incantatores probi sunt et hostes execrari possunt, haurientes "
+"vitam eorum. Flamines Novitii juvenes sunt et vegeti, sed facultas eorum "
+"incantamenta dicendi etiamnum emendatione caret."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum Senex"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1384,10 +1374,17 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti "
+"communiati toto Orcorum facit et contentiones inter tribus generis huius "
+"litigosi arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines "
+"Orcorum incantatores probi sunt et hostes execrari possunt, haurientes "
+"vitam eorum. Flamines Senes in magicam dominantur, sed vis physica in "
+"aetate minuiti est."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Rex Orcorum"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -1397,20 +1394,26 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"Reges Orcorum principes sunt tribus eorum. Sententias magni momenti faciunt "
+"et populum in proelium ducunt. Arcum gerunt ex necessitate, sed peritiores "
+"sunt gladio; pugnatores potentes omnino sunt. Peritiae ductus naturales eos "
+"faciunt pretiosos valde in proelio:si perditur Rex, ita proelium."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr ""
+msgstr "Specula"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
+"Speculae loca sunt bona ex quibus inimicos videre potes et posthac "
+"conicere res varias in eos ballistis."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
-msgstr ""
+msgstr "ballista"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:17
 msgid "Ouch! This hurts!"
@@ -1421,7 +1424,6 @@ msgid "The council will never be complete again. This is hopeless."
 msgstr "Nequaquam erit concilium integrum. Spes abest."
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:38
-#, fuzzy
 msgid "Argh! I'm done. My people are doomed!"
 msgstr "Eheu! Finitus sum. Populus meus damnatur!"
 
@@ -1430,7 +1432,6 @@ msgid "Without Inarix to lead his saurians, there is no hope."
 msgstr "Sine Inarice ducenti lacertas, spes non est."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:5
-#, fuzzy
 msgid ""
 "Rahul I, King of Wesnoth, concluded peace with orcs in the fourth year of "
 "his reign. He ended a 15 year war with Black Eye Karun, ruler of the orcs. A "
@@ -1443,7 +1444,6 @@ msgstr ""
 "foedum sequuntur prospere erant."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:10
-#, fuzzy
 msgid ""
 "In the thirteenth year of Howgarth III, tensions began to rise between "
 "Orcish tribes and human northern earldoms. Famine led humans to colonize "
@@ -1454,7 +1454,6 @@ msgstr ""
 "constituerunt et orcos in colles desertos pepulerunt."
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:15
-#, fuzzy
 msgid ""
 "Of course, this caused violent orcish riots as orcs systematically "
 "slaughtered human colonies and villages that were on their lands. Then, Earl "
