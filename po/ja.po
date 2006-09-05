@@ -1,10 +1,17 @@
+# Japanese translations for Battle for Wesnoth package.
+# Copyright (C) 2005-2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Automatically generated, 2005.
+# naoki iimura <amatubu@gmail.com>, 2005.
+# Nobuhito Okada <okyada@gmail.com>, 2006.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 18:59+0200\n"
-"PO-Revision-Date: 2005-08-20 17:10:08+0900\n"
-"Last-Translator: naoki iimura <amatubu@gmail.com>\n"
+"PO-Revision-Date: 2006-09-05 13:50+0900\n"
+"Last-Translator: Nobuhito OKADA <okyada@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -95,7 +102,6 @@ msgid "So here is Tirigaz."
 msgstr "さて、ここが Tirigaz だ。"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:133
-#, fuzzy
 msgid ""
 "Looks like they are facing attack from pirates of the High Sea. We should "
 "help them."
@@ -118,7 +124,6 @@ msgid "Me? I'll show you if I'm a coward!"
 msgstr "私が？ 私が臆病者かどうか見せてやる！"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:149
-#, fuzzy
 msgid ""
 "It is not time for quarreling! I will contain them, go find reinforcements."
 msgstr ""
@@ -129,7 +134,6 @@ msgid "This is a wise choice. Good luck, son of the Black Eye."
 msgstr "賢い考えだ。黒眼の子よ、幸運を祈る。"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:160
-#, fuzzy
 msgid ""
 "Haha! Our plan is going well, let's surround them on land while our allies "
 "attack them from the sea!"
@@ -138,7 +142,6 @@ msgstr ""
 "つらを取り囲むのだ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:169
-#, fuzzy
 msgid ""
 "We are attacked from both sides! Grüü, hold them while I run to Tirigaz to "
 "find forces for a counter attack. We can't defeat those pirates without "
@@ -249,7 +252,6 @@ msgid "Prestim's walls are rock hard, they'll break clean off on them."
 msgstr "Prestim の防壁は岩のように固い。防壁は奴らをきれいに片付けるだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:201
-#, fuzzy
 msgid ""
 "I'm not so sure. Every fortress has its own weakness. Prestim's walls are "
 "built on three towers. If one of them were destroyed, the breach would allow "
@@ -273,9 +275,8 @@ msgid "Great! When do they arrive?"
 msgstr "すばらしい！ 彼はいつ到着するのだ？"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:216
-#, fuzzy
 msgid "No sooner than four days hence. I fear it will be too late."
-msgstr "最低でも 4 日かかる。遅すぎなければよいが。"
+msgstr "今から 4 日以上はかかる。遅すぎなければよいが。"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:221
 msgid "I don't think so, there is still a way..."
@@ -298,7 +299,6 @@ msgid "And if we fail?"
 msgstr "それでもし失敗したら？"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:241
-#, fuzzy
 msgid ""
 "Then they will assault Prestim, five against one. We'll just have to pray to "
 "Mother Earth."
@@ -409,7 +409,6 @@ msgstr ""
 "んどなくなってしまった。"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:122
-#, fuzzy
 msgid ""
 "I'm hungry and we found no giant scorpion yet. Me sure, it would be "
 "delicious."
@@ -425,7 +424,6 @@ msgstr ""
 "固い殻には通用しないだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:130
-#, fuzzy
 msgid ""
 "I've been told the best way to defeat them is to attack their eyes with "
 "sharp blades. But I, too, hope we won't meet them."
@@ -494,37 +492,34 @@ msgid "Hurrah! Victory!"
 msgstr "万歳！ 勝利だ！"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:139
-#, fuzzy
 msgid ""
 "We are victorious this time, but humans are organizing themselves in a huge "
 "army. We have just defeated a vanguard, they will soon overwhelm us."
 msgstr ""
 "今回は我々が勝ったが、人間どもは巨大な軍を組織している。我々はまだ前衛隊を倒"
-"しただけで、奴らは強力になりつつある。"
+"しただけで、奴らはまもなく我々を圧倒するだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:143
 msgid "What should we do, chief?"
 msgstr "隊長、我々はなにをすべきでしょう？"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:147
-#, fuzzy
 msgid ""
 "We must lead my people to a safe place and ask the Great Council for "
 "assistance. Some of them live in Barag Gór in the lands of the free tribes. "
 "We must leave, now!"
 msgstr ""
-"我々は我が一族を安全な場所に導き、偉大なる評議会に援助を約束させなければなら"
-"ない。彼らのうちの何人かが自由民族の地の Barag Gor に住んでいる。さあ、我々は"
-"ここを立ち去らなければならない！"
+"我々は我が一族を安全な場所に導き、大評議会に援助を請わなければならない。彼ら"
+"のうちの何人かが自由民族の地の Barag Gór に住んでいる。さあ、我々はここを立ち"
+"去らなければならない！"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:151
-#, fuzzy
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
 msgstr ""
-"しかし自由民族の地は Hagg の山地を越えたところです。これらの山々にはドワーフ"
-"族や野生のトロルがいて荒し回っています。"
+"しかし自由民族の地は Hagg の山地を越えたところです。これらの山々はドワーフ族"
+"や野生のトロルに荒らされています。"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:155
 msgid ""
@@ -588,11 +583,10 @@ msgid "We must do something!"
 msgstr "なんとかしなければ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:238
-#, fuzzy
 msgid "I know what we do. Kill elves and help Inarix cross."
 msgstr ""
-"俺たちがしなければならないことはわかっている。エルフ族を殺し、Inarix が川を渉"
-"るのを助けるのだ。"
+"俺たちがすることはわかっている。エルフ族を殺し、Inarix が川を渉るのを助けるの"
+"だ。"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:242
 msgid "It won't be that easy! Our enemies are well entrenched."
@@ -608,7 +602,6 @@ msgstr ""
 "の向こう岸で捕まった戦士は死ぬだろう！"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:268
-#, fuzzy
 msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind are on our tails, we "
 "must hurry up."
@@ -638,9 +631,8 @@ msgid "It won't be said that Elves were braver than us, everyone attack!"
 msgstr "エルフ族が我々よりも勇敢だったと言われる訳にはいかない、皆、攻撃だ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:398
-#, fuzzy
 msgid "At the saurians! Rip them to pieces, every last one of them!"
-msgstr "トカゲ族を攻撃せよ！ 奴らを死ぬまで切り裂け！"
+msgstr "トカゲ族を攻撃せよ！ 最後の一匹まで奴らを切り裂け！"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:402
 msgid "It is too late, we are defeated."
@@ -702,7 +694,6 @@ msgstr ""
 "たのだ。お前はお前の父親と同じように哀れだ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:118
-#, fuzzy
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I'll make "
 "a mug out of your skull!"
@@ -722,20 +713,18 @@ msgstr ""
 "た。"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:145
-#, fuzzy
 msgid ""
 "What is this? Are you mad!? Humans are besieging our fortress at Prestim and "
 "you are fighting each other!?"
 msgstr ""
 "これは何事だ？ お前たちは気が狂っているのか？ 人間どもが Prestim で我々の砦を"
-"包囲しようとしているというのに、お前たちは互いに戦っているのか！？"
+"包囲しているというのに、お前たちは互いに戦っているのか！？"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:149
 msgid "Well, ermmm..."
 msgstr "ああ、いや……"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:153
-#, fuzzy
 msgid ""
 "Kapou'e, rumors tell you made a long trip to seek assistance from us, "
 "escorting Pirk, Gork and Vraurk. The council is grateful for that."
@@ -754,7 +743,6 @@ msgid "Really? But my people..."
 msgstr "まさか？ しかし我が同胞は……"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:165
-#, fuzzy
 msgid ""
 "You don't understand. Orcs have been divided for ages. The only one who gave "
 "us some unity was your father, Black Eye Karun. Hearing rumors of your "
@@ -791,7 +779,6 @@ msgstr ""
 "我々を助けられるのはお前だけなのだ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:185
-#, fuzzy
 msgid ""
 "Leave your people here Kapou'e--they are safe for the moment--and go defend "
 "Prestim. In the meantime, now that the council is complete again, we will "
@@ -804,7 +791,6 @@ msgstr ""
 "う。"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:199
-#, fuzzy
 msgid "Nooo! Don't kill me, I surrender to you, little earthworm."
 msgstr "やめてくれ！ 私を殺さないでくれ。小さなミミズのようなお前に降伏する。"
 
@@ -833,15 +819,14 @@ msgstr ""
 "か？"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:122
-#, fuzzy
 msgid ""
 "It has not always been that silent. A lot of hunters from tribes used to "
 "hunt there and fish in the Bork river. But now, no one would enter there "
 "voluntarily."
 msgstr ""
 "いつもそんなふうに静かだったわけではない。部族からたくさんの猟師が以前はよく"
-"そこで狩りをし、また Bork 川で釣りをしていた。しかし今では、強制でもされない"
-"限り中に入ろうとはしないだろう。"
+"そこで狩りをし、また Bork 川で釣りをしていた。しかし今では、誰も自から進んで"
+"中に入ろうとはしないだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:126
 msgid "Some people say these woods are haunted."
@@ -897,7 +882,6 @@ msgstr ""
 "なった。休憩して旅を続けることができる。"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:4
-#, fuzzy
 msgid "The Siege Of Barag Gór"
 msgstr "Barag Gór の包囲"
 
@@ -914,7 +898,6 @@ msgid "Rugh"
 msgstr "Rugh"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:147
-#, fuzzy
 msgid "Here is Barag Gór."
 msgstr "ここが Barag Gór だ。"
 
@@ -943,7 +926,6 @@ msgid "..."
 msgstr "……"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:171
-#, fuzzy
 msgid ""
 "Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
 msgstr ""
@@ -1009,7 +991,6 @@ msgstr ""
 "け早く Tirigaz に着く必要があります。"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:309
-#, fuzzy
 msgid "Bring Kapou'e to the signpost"
 msgstr "Kapou'e を道しるべまで移動させる"
 
@@ -1096,7 +1077,6 @@ msgid "The day is coming, these night creatures will soon return to the pit."
 msgstr "朝が近づいてきた。やつら夜の生き物どもはもうすぐ穴に戻っていくだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:216
-#, fuzzy
 msgid "Grüü, are you forgetting we are ALSO night creatures?"
 msgstr "Grüü、お前は我々も夜の生き物だということを忘れたのか？"
 
@@ -1215,7 +1195,6 @@ msgstr ""
 "り、再び戻ってくることはないだろう。"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:268
-#, fuzzy
 msgid "Our troll friends are finished. Without them there is no hope."
 msgstr "我々のトロルの友は終わりだ。彼らがいなければ望みはない。"
 
@@ -1225,23 +1204,21 @@ msgstr "ああ！ 私は死ぬ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:308
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:331
-#, fuzzy
 msgid ""
 "We've succeeded! We've passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
 "Barag Gór in the distance."
 msgstr ""
 "うまくいった！ 我々は Haag の山地を通り抜けた！ この緑の丘を見ろ！ 自由民族の"
-"地は近い。Barag-Gor の防壁が遠くに見える。"
+"地は近い。Barag Gór の防壁が遠くに見える。"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:312
-#, fuzzy
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you like to join us "
 "in our journey with your son? Your help would be appreciated!"
 msgstr ""
 "Blemaker、この戦いにおける援護にとても感謝している。あなたの息子とともに我々"
-"の旅に加わる気はないか？ あなたたちの助けは非常に歓迎だ！"
+"の旅に加わる気はないか？ あなたたちの助けは歓迎だ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:317
 msgid "Father, I'd like to join them. Would you mind it?"
@@ -1262,13 +1239,12 @@ msgid "Thanks, father. Don't worry, I'll take care of myself."
 msgstr "ありがとう、親父。心配はいらない、俺は自分の面倒は自分で見る。"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:335
-#, fuzzy
 msgid ""
 "Grüü, many thanks for your help in this fight. I'm sorry about your father. "
 "Would you like to join us in our journey? Your help would be appreciated!"
 msgstr ""
 "Grüü、この戦いにおける援護にとても感謝している。あなたの父のことは残念だっ"
-"た。我々の旅に加わる気はないか？ あなたの助けは非常に歓迎だ！"
+"た。我々の旅に加わる気はないか？ あなたの助けは歓迎だ！"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:339
 msgid ""
@@ -1290,6 +1266,10 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"オークの支配者は彼らの部族の族長です。彼らは重要な決定を下し、戦闘時には 彼ら"
+"の民を統率します。彼らは必要に応じて弓も使用しますが、剣技に非常に長けて お"
+"り、全員が強力な戦士です。生来の統率技能によって、彼らは戦闘時には非常に 貴重"
+"な存在となります。この支配者が死亡したら、戦闘も敗北です。"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
@@ -1301,7 +1281,7 @@ msgstr "剣"
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
-msgstr "剣"
+msgstr "斬撃"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
@@ -1331,10 +1311,14 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"オークの支配者は彼らの部族の族長です。彼らは重要な決定を下し、戦闘時には 彼ら"
+"の民を統率します。 彼らは必要に応じて弓も使用しますが、剣技に非常に 長けてお"
+"り、全員が強力な戦士です。生来の統率技能によって、戦闘時には彼らは 非常に貴重"
+"な存在となります。この支配者が死亡したら、戦闘も敗北です。"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "オークの呪術師"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
 msgid ""
@@ -1345,6 +1329,11 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"オークの呪術師はオークの魔法の守護者です。オークの部族の中で尊敬され、オーク"
+"の評議会を組織しますが、そこではオークコミュニティー全体に対する重要な決定を"
+"下したり、この論争好きの種族の部族間に起こる多くの衝突を仲裁したりします。肉"
+"体的な弱点はありますが(オークとしては)、オークの呪術師は呪文を唱えるのがうま"
+"く、敵を呪って生命力を奪うことも可能です。"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
@@ -1368,11 +1357,11 @@ msgstr "呪い"
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "生命吸収"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "オークの見習い呪術師"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:103
 msgid ""
@@ -1384,10 +1373,16 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"オークの呪術師はオークの魔法の守護者です。オークの部族の中で尊敬され、オーク"
+"の評議会を組織しますが、そこではオークコミュニティー全体に対する重要な決定を"
+"下したり、この論争好きの種族の部族間に起こる多くの衝突を仲裁したりします。肉"
+"体的な弱点はありますが(オークとしては)、オークの呪術師は呪文を唱えるのがうま"
+"く、敵を呪って生命力を奪うことも可能です。見習い呪術師はまだ若く精力的です"
+"が、彼等の呪文をかける能力にはまだ改善の必要があります。"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "オークの老呪術師"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:179
 msgid ""
@@ -1399,6 +1394,12 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"オークの呪術師はオークの魔法の守護者です。オークの部族の中で尊敬され、オーク"
+"の評議会を組織しますが、そこではオークコミュニティー全体に対する重要な決定を"
+"下したり、この論争好きの種族の部族間に起こる多くの衝突を仲裁したりします。肉"
+"体的な弱点はありますが(オークとしては)、オークの呪術師は呪文を唱えるのがうま"
+"く、敵を呪って生命力を奪うことも可能です。老呪術師は魔術に熟達していますが、"
+"肉体的な力は年齢とともに衰えてきています。"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
@@ -1412,16 +1413,22 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"オークの君主は彼らの部族の族長です。彼らは重要な決定を下し、戦闘時には 彼らの"
+"民を統率します。 彼らは必要に応じて弓も使用しますが、剣技に非常に 長けてお"
+"り、全員が強力な戦士です。生来の統率技能によって、戦闘時には彼らは 非常に貴重"
+"な存在となります。この支配者が死亡したら、戦闘も敗北です。"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
-msgstr ""
+msgstr "見張塔"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:17
 msgid ""
 "Watch Towers are good places from which to spot enemies and then shoot "
 "miscellaneous items at them with ballistas."
 msgstr ""
+"見張塔は、敵を捉えたり、その敵に向かって投石砲を用いて種々の道具を放つのに良"
+"い場所です。"
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:20
 msgid "ballista"
@@ -1436,7 +1443,6 @@ msgid "The council will never be complete again. This is hopeless."
 msgstr "評議会が再び完成することはないだろう。もう望みはない。"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:38
-#, fuzzy
 msgid "Argh! I'm done. My people are doomed!"
 msgstr "ああ！ 私は終わりだ。我が一族は破滅だ！"
 
@@ -1445,7 +1451,6 @@ msgid "Without Inarix to lead his saurians, there is no hope."
 msgstr "Inarix にトカゲ族を率いてもらわなければ、望みはない。"
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:5
-#, fuzzy
 msgid ""
 "Rahul I, King of Wesnoth, concluded peace with orcs in the fourth year of "
 "his reign. He ended a 15 year war with Black Eye Karun, ruler of the orcs. A "
@@ -1458,7 +1463,6 @@ msgstr ""
 "た。"
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:10
-#, fuzzy
 msgid ""
 "In the thirteenth year of Howgarth III, tensions began to rise between "
 "Orcish tribes and human northern earldoms. Famine led humans to colonize "
@@ -1469,7 +1473,6 @@ msgstr ""
 "ク族を荒れ果てた丘へと追いやったのだ。"
 
 #: Son_Of_The_Black_Eye/utils/story.cfg:15
-#, fuzzy
 msgid ""
 "Of course, this caused violent orcish riots as orcs systematically "
 "slaughtered human colonies and villages that were on their lands. Then, Earl "
