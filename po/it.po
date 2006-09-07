@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-01 13:30+0200\n"
-"PO-Revision-Date: 2006-08-30 13:46+0100\n"
-"Last-Translator: Brivido <brivido(at)gmail.com>\n"
+"POT-Creation-Date: 2006-04-04 18:59+0200\n"
+"PO-Revision-Date: 2006-09-01 22:02+0100\n"
+"Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,32 +19,32 @@ msgid "Defeat Slowhand"
 msgstr "Sconfiggi Slowhand"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:27
-#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:31
-#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:28
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:28
-#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:98
-#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:27
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:28
+#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:31
+#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:98
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:30
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:263
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:313
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:29
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:201
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:47
+#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:27
+#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:28
 msgid "Death of Kapou'e"
 msgstr "Morte di Kapou'e"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:31
-#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:35
-#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:32
-#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:102
-#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:31
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:32
+#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:35
+#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:102
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:34
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:267
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:317
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:205
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:51
+#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:31
+#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:32
 msgid "Death of Grüü"
 msgstr "Morte di Grüü"
 
@@ -69,15 +69,15 @@ msgid "Transport"
 msgstr "Trasporto"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:66
-#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:72
-#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:49
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:53
-#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:139
-#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:48
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:53
+#: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:72
+#: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:139
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:83
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:63
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:87
+#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:48
+#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:49
 msgid "Kapou'e"
 msgstr "Kapou'e"
 
@@ -177,7 +177,7 @@ msgid ""
 "But where is the rest of the council? We haven't made such a long journey "
 "just to flee!"
 msgstr ""
-"Ma dov'è il resto del concilio? Non abbiamo viaggiato così a lungo per poi "
+"Ma dov'è il resto del consiglio? Non abbiamo viaggiato così a lungo per poi "
 "fuggire!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:274
@@ -371,8 +371,8 @@ msgid ""
 "Kapou'e will come back in Son of the Black Eye, chapter II: 'The Great "
 "Horde'."
 msgstr ""
-"Kapou'e tornerà di nuovo in Il figlio di Black Eye capitolo II: 'La Grande "
-"Orda'."
+"Kapou'e tornerà di nuovo in Il figlio di Black Eye capitolo II: \"La Grande "
+"Orda\"."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:451
 msgid "No! The walls of Prestim are destroyed, we are done!"
@@ -386,12 +386,12 @@ msgstr "Il deserto della morte"
 msgid "Defeat Ar Dant"
 msgstr "Morte di Ar Dant"
 
-#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:36
-#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:35
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:36
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:38
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:271
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:55
+#: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:35
+#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:36
 msgid "Death of a Shaman"
 msgstr "Morte di uno sciamano"
 
@@ -445,8 +445,8 @@ msgid ""
 msgstr ""
 "State attenti! Queste oasi sono rifugi di fuorilegge e predoni del deserto."
 
-#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:161
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:156
+#: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:161
 msgid "We've done it! Now we need some rest, before we continue our journey."
 msgstr ""
 "Ce l'abbiamo fatta! Adesso dobbiamo riposarci un po' prima di riprendere il "
@@ -568,7 +568,7 @@ msgid ""
 "are still trapped on the other side of the river some miles away. They won't "
 "be able to cross the river."
 msgstr ""
-"E' terribile, i nostri scout ci hanno detto che i nostri alleati sauri "
+"È terribile, i nostri scout ci hanno detto che i nostri alleati sauri "
 "condotti da Inarix sono ancora bloccati dall'altre parte del fiume ad alcune "
 "miglia di distanza. Non riusciranno ad attraversare il ponte."
 
@@ -645,7 +645,7 @@ msgstr "Contro i sauri! Uccideteli uno ad uno!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:402
 msgid "It is too late, we are defeated."
-msgstr "E' troppo tardi, ci hanno sconfitto."
+msgstr "È troppo tardi, ci hanno sconfitto."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:4
 msgid "Shan Taum The Smug"
@@ -764,7 +764,7 @@ msgid ""
 "This is true. Now we are pressured from all sides by humans and elves; we "
 "need a leader that can unite all banners. This one is YOU!"
 msgstr ""
-"E' vero. Adesso siamo circondati da ogni lato dagli uomini e dagli elfi; "
+"È vero. Adesso siamo circondati da ogni lato dagli uomini e dagli elfi; "
 "abbiamo bisogno di un comandante che possa riunire tutti i nostri stendardi. "
 "Questa persona sei TU!"
 
@@ -823,8 +823,8 @@ msgid ""
 "So here is the Silent Forest ... why is it named that way? Is it really that "
 "silent?"
 msgstr ""
-"Eccoci dunque nella Foresta Silenziosa ... perché si chiama così? E' davvero "
-"così silenziosa?"
+"Eccoci dunque nella «foresta silenziosa» ... perché si chiama così? È "
+"davvero così silenziosa?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:122
 msgid ""
@@ -916,7 +916,7 @@ msgid ""
 "Oh no! They are besieged by elves. We must help our brothers to get rid of "
 "this mob. But these filthy elves are so numerous."
 msgstr ""
-"Oh no! E' sotto l'assedio degli elfi. Dobbiamo aiutare i nostri fratelli a "
+"Oh no! È sotto l'assedio degli elfi. Dobbiamo aiutare i nostri fratelli a "
 "liberarsi da questa gente. Ma questi sporchi elfi sono numerosi."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:155
@@ -984,8 +984,8 @@ msgid ""
 "Excellent. This is a dangerous journey, as we have to take a road near the "
 "elvish forest. This is the road near that yellow farm."
 msgstr ""
-"Eccellente. E' un viaggio pericoloso poiché dovremmo prendere una strada "
-"vicina alla foresta degli elfi. E' la strada vicino alla fattoria gialla."
+"Eccellente. È un viaggio pericoloso poiché dovremmo prendere una strada "
+"vicina alla foresta degli elfi. È la strada vicino alla fattoria gialla."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:259
 msgid "Bring the Shamans and then Kapou'e to the signpost"
@@ -1048,12 +1048,12 @@ msgstr "Ma-Rana"
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:158
 msgid "Ahhh, I'm so tired. It was a good idea to halt in such a quiet place."
 msgstr ""
-"Ahhh, sono così stanco. E' stata una buona idea fermarci in un posto così "
+"Ahhh, sono così stanco. È stata una buona idea fermarci in un posto così "
 "tranquillo."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:162
 msgid "It is too quiet. Just plain boring."
-msgstr "E' troppo tranquillo. Solo noia piatta."
+msgstr "È troppo tranquillo. Solo noia piatta."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:166
 msgid "Shut up, I just heard something."
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:174
 msgid "Excellent! It is time for exercise!"
-msgstr "Eccellente! E' l'ora dell'esercizio!"
+msgstr "Eccellente! È ora di fare un po' di esercizio!"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:188
 msgid "Hmmm, what neat bottle! What is it?"
@@ -1293,31 +1293,31 @@ msgstr ""
 "combattenti potenti. Per la loro naturale attitudine al comando sono molto "
 "preziosi nella battaglia: quando si perde il capo, si perde la battaglia."
 
-#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
+#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:32
 msgid "sword"
 msgstr "spada"
 
-#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:31
+#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:31
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:33
 msgid "blade"
 msgstr "lama"
 
-#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:49
+#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:49
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:56
 msgid "bow"
 msgstr "arco"
 
-#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
-#: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:50
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:47
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:123
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:199
-#: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
+#: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:50
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:22
+#: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:50
+#: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:57
 msgid "pierce"
 msgstr "perfora"
 
@@ -1470,7 +1470,7 @@ msgstr "Ouch! Questo fa male!"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:21
 msgid "The council will never be complete again. This is hopeless."
-msgstr "Il concilio non sarà mai più completo. Questa è la fine."
+msgstr "Il consiglio non sarà mai più completo. Questa è la fine."
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:38
 msgid "Argh! I'm done. My people are doomed!"
