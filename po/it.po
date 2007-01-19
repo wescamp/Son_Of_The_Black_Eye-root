@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2007-01-04 14:17+0100\n"
+"PO-Revision-Date: 2007-01-19 13:35+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -161,15 +161,20 @@ msgid ""
 "pass. Kapou'e started to recognize the lands about them and sure enough, "
 "they soon found themselves back in Kapoue's lands."
 msgstr ""
+"Dopo aver travolto il il blocco dei nani, l'orda proseguì oltre passo. "
+"Kapou'e cominciò a riconoscere la zona attorno aloro e presto fu abbastanza "
+"sicuro di ritrovarsi di nuovo nelle terre di Kapou'e."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:240
 msgid ""
 "Well look at this boys, we are home. I told you we would return one day."
 msgstr ""
+"Be', guardate ragazzi, siamo a casa. Ve l'avevo detto che un giorno saremmo "
+"tornati."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:245
 msgid "Boy did they ever build this place up."
-msgstr ""
+msgstr "Ragazzo, non hanno mai sviluppato questo posto."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:250
 msgid ""
@@ -177,10 +182,13 @@ msgid ""
 "won't work to engage them head on while they sneak the shamans out the back "
 "door."
 msgstr ""
+"Ascoltatemi, gente. Il nostro obiettivo principale è salvare gli sciamani. "
+"Non servirà a niente inggaggiarli in combattimento a testa bassa, mentre di "
+"nascosto fanno uscire gli sciamani dalla porta di dietro."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:255
 msgid "What were you thinking chief?"
-msgstr ""
+msgstr "Cosa sta pensando, capo?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:260
 msgid ""
@@ -189,6 +197,10 @@ msgid ""
 "take your trolls and circle around to the Northwest. If all goes well we "
 "will have the surrounded."
 msgstr ""
+"I miei uomini conoscono bene la terra. Flair'Tar e Al'Brock, voi due fate "
+"un'esplorazione e disponetevi a cerchio a nord-est e a sud-est "
+"rispettivamente. Grüü, prendi i tuoi troll e disponili in cerchio a nord-"
+"ovest. Se tutto va bene, li avremo circondati."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:265
 msgid "I like this plan chief!"
@@ -196,7 +208,7 @@ msgstr "I like this plan chief!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:270
 msgid "You always like his plans Grüü."
-msgstr ""
+msgstr "Ti piacciono sempre i suoi piani, Grüü."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:275
 msgid ""
@@ -206,13 +218,15 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:280
 msgid "Well, he has the right idea anyway."
-msgstr ""
+msgstr "Bene, la sua è una buona idea, comunque."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:285
 msgid ""
 "Good, everyone move out. I will stay here and start the attack. I want "
 "everyone to be in position by first watch at the latest. Is that clear?"
 msgstr ""
+"Bene, muoviamoci. I resterò qua e comincerò l'attacco. Voglio che tutti "
+"siano in posizione entro l'alba. Tutto chiaro?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:290
 msgid "Yeah sure."
@@ -220,7 +234,7 @@ msgstr "Sì, certo."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:295
 msgid "Whatever."
-msgstr ""
+msgstr "Perfetto."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:378
 msgid "I am in position cheif."
@@ -228,19 +242,19 @@ msgstr "Sono in posizione, capo."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:383
 msgid "Awesome. Now were are the others..."
-msgstr ""
+msgstr "Perfetto. Adesso dove sono gli altri..."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:428
 msgid "We made it."
-msgstr ""
+msgstr "Ci siamo."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:433
 msgid "Good, but where is Grüü?"
-msgstr ""
+msgstr "Bene, ma dov'è Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:438
 msgid "Dumb trolls, you can never rely on them."
-msgstr ""
+msgstr "Stupidi trolls, non ci puoi mai contare."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:490
 msgid "I'm here chief!"
@@ -251,6 +265,8 @@ msgid ""
 "Bloody hell Grüü! You were supposed to be in position by first watch. It is "
 "now dawn!"
 msgstr ""
+"Per tutti i demoni dell'inferno, Grüü! Avresti dovuto essere in posizione "
+"prima che spuntasse il sole. Adesso è l'alba!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:500
 msgid "Errr sorry, there were some humans in way. We squash no problem."
@@ -261,10 +277,12 @@ msgid ""
 "Whatever, better late then never. Anyhow people we got them. Let nobody "
 "escape and everyone keep an eye out for the shamans."
 msgstr ""
+"Comunque, meglio tardi che mai. In ogni caso gente, li abbiamo. Non lasciate "
+"scappare nessuno e che tutti tengano un'occhio sugli sciamani."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:510
 msgid "Sounds simple enough."
-msgstr ""
+msgstr "Sembra abbastanza semplice."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:550
 msgid "Ok, buddy, we want some answers!"
@@ -280,19 +298,19 @@ msgstr "SPEEK!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:565
 msgid "....well, what do you want to know."
-msgstr ""
+msgstr "...be', cosa vuoi sapere?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:570
 msgid "You can start by telling us who told you to strike at Borstep."
-msgstr ""
+msgstr "Potresti cominciare a dirci chi vi ha detto di colpire a Borstep."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:575
 msgid "Uh.... we have intelligence."
-msgstr ""
+msgstr "Uh... abbiamo un servizio informazioni."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:580
 msgid "Don't make me hurt you more."
-msgstr ""
+msgstr "Non fatemi più male."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:585
 msgid ""
@@ -726,7 +744,7 @@ msgstr "Siamo giunti per onorare la nostra alleanza, Earl Lanbec'h."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:332
 msgid "Ahh shoot! They have mermen on their side."
-msgstr ""
+msgstr "Ahh merda! Hanno i nereidi dalla loro parte."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:422
 msgid ""
@@ -819,7 +837,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:180
 msgid "Good morning Shan Taum."
-msgstr "Buongriono, Shan Taum."
+msgstr "Buongiorno, Shan Taum."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:185
 msgid "What... Kapou'e! What on earth are you doing here."
@@ -986,7 +1004,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:187
 msgid "We don't have any other choice. If we remain here we will surely die."
-msgstr ""
+msgstr "Non abbiamo altra scelta. Se rimaniamo qua, moriremo di sicuro."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:212
 #, fuzzy
@@ -999,7 +1017,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:224
 msgid "There you go Grüü, there is your giant scorpion!"
-msgstr ""
+msgstr "Va' laggiuù, Grüü, là c'è il tuo scorpione gigante!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:229
 msgid "Oh great, perfect timing."
@@ -1007,54 +1025,54 @@ msgstr "Magnifico, perfetto tempismo."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:234
 msgid "Yeah, I am really hungry."
-msgstr ""
+msgstr "Sì, sono veramente affamato."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:239
 msgid "That is not what I meant!"
-msgstr ""
+msgstr "Non è quello che intendevo!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:257
 msgid "Ahh finally! Lunchtime!"
-msgstr ""
+msgstr "Ah, finalmente! Ora di pranzo!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:262
 msgid "You trolls are just sick!"
-msgstr ""
+msgstr "Voi troll siete proprio malati!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:267
 msgid "YUCK! Disgusting! These things taste horrible!"
-msgstr ""
+msgstr "YUCK! Disgustoso! Questa roba ha un gusto orribile!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:286
 msgid ""
 "I don't know if you should have eaten that Grüü, you don't look so good."
-msgstr ""
+msgstr "Non so se avresti dovuto mangiarla, Grüü, non ha un bell'aspetto."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:291
 msgid "Ugg... I feel sick."
-msgstr ""
+msgstr "Ugg... mi sento male."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:296
 msgid "Hmmm, it seems that scorpions are poisonous."
-msgstr ""
+msgstr "Hm, sembra che questi scorpioni siano velenosi."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:301
 msgid "But what about Grüü?"
-msgstr ""
+msgstr "E Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:306
 msgid ""
 "Ahh, he will be ok in a few minuets. He is a troll after all. Right Grüü?"
-msgstr ""
+msgstr "Ah, starà bene tra pochi minuti. Dopo tutto è un troll. Giusto, Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:311
 msgid " *puke*"
-msgstr ""
+msgstr "(vomita)"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:325
 msgid ""
 "Hold it right there! This oasis is ours! Begone or you all will be killed!"
-msgstr ""
+msgstr "Fermi là! Questa oasi non vi appartiene! Andatevene o sarete uccisi!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:330
 msgid ""
@@ -1062,20 +1080,24 @@ msgid ""
 "out of food and water. There is no way we can keep going without stopping at "
 "this oasis."
 msgstr ""
+"Guarda amico, siamo nel mezzo di una tempesta di sabbia senza acqua e senza "
+"cibo. Non possiamo proseguire senza fermarci prima in questa oasi."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:335
 msgid "I don't care, get lost!"
-msgstr ""
+msgstr "Non me ne frega niente, andatevene!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:340
 msgid "It's no use reasoning with them Kapou'e, they aren't going to listen."
-msgstr ""
+msgstr "È inutile tentare di discutere con loro, Kapou'e, non ci ascoltano."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:345
 msgid ""
 "Yeah, I can see that. Well, I guess we have to clean these rabble out of "
 "here. Get to it people!"
 msgstr ""
+"Già, lo vedo. Be', penso che dovremo ripulire questo posto da questa "
+"marmaglia. Avanti gente!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:351
 msgid "Defeat Ar Dant"
@@ -1091,11 +1113,11 @@ msgstr "...acqua..."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:389
 msgid "...Come... on .... people.... we have .... to .... keep.... going...."
-msgstr ""
+msgstr "...Coraggio... gente... do...dobbiamo... andare... avanti..."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:394
 msgid ".... can't.... the .... heat.... is.... too..... much...."
-msgstr ""
+msgstr "...non ...non ce la faccio... fa'... troppo... caldo..."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:4
 msgid "The Dwarvish Stand"
@@ -1625,12 +1647,14 @@ msgid ""
 "Ha ha, very funny human. You think we are dumb enough to fall for that? We "
 "haven't forgotten what you people did to my father."
 msgstr ""
+"Ah ah, sei molto divertente, uomo. Credi che io sia così stupido da "
+"cascarci? Non abbiamo dimenticato cosa la tua gente fece a mio padre."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:705
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:824
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:947
 msgid "What in the world are you talking about?"
-msgstr ""
+msgstr "Ma di cosa diavolo stai parlando?"
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:710
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:829
@@ -1639,6 +1663,8 @@ msgid ""
 "I am Kapou'e, son of the Black Eye Karun. Twenty seven years ago you people "
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
+"Sono Kapou'e, figlio di Karun Occionero. Ventisette anni fa la tua gente ha "
+"assassinato mio padre dopo averlo invitato a unirsi all'alleanza del nord."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:715
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:834
@@ -1648,6 +1674,9 @@ msgid ""
 "of the matter. I know nothing of his assassination. As a matter of fact, I "
 "was there when the orcish messenger brought Rahul Karun's reply."
 msgstr ""
+"Cosa? Ci dissero che aveva declinato il nostro invito e che la decisione era "
+"irrevocabile. Non so nulla dell'omicidio. In effetti ero presente quando il "
+"messaggero degli orchi portò la risposta di Rahul Karun."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:720
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:839
@@ -1776,7 +1805,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:529
 msgid "Not today my friend. *whistles*"
-msgstr ""
+msgstr "Non oggi, amico mio. (fischia)"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:600
 msgid ""
@@ -1933,7 +1962,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:451
 msgid "Shut up, I'm in charge here not you!"
-msgstr ""
+msgstr "Sta' zitto, qua sono io il capo non tu!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:470
 msgid "Hurry up! The southern bridge is going to explode! Retreat! "
@@ -3069,7 +3098,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:377
 msgid "Sounds like fun. Alright boys, lets go!"
-msgstr ""
+msgstr "Sembra divertente. Andiamo, ragazzi!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:439
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:462
