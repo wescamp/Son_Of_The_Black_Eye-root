@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: blackeye-de\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2006-11-09 22:23+0100\n"
-"Last-Translator: Peter Schaefer <peter.schaefer@gmail.com>\n"
+"PO-Revision-Date: 2007-02-28 20:48+0100\n"
+"Last-Translator: Stefan vonHalenbach <vonHalenbach users.sf net>\n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,10 +21,9 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye.cfg:8
 msgid "Son of the Black Eye (Updated)"
-msgstr "Schwarzauges Sohn(aktualisiert)"
+msgstr "Schwarzauges Sohn (aktualisiert)"
 
 #: Son_Of_The_Black_Eye.cfg:15
-#, fuzzy
 msgid "Grunt"
 msgstr "Grunzer"
 
@@ -50,7 +49,7 @@ msgstr "(Nur für Experten)"
 
 #: Son_Of_The_Black_Eye.cfg:17
 msgid " Compleate! Version 1.2 Last updated 9/30/06."
-msgstr ""
+msgstr "Komplett! Version 1.2 Letztes update am 30.09.2006."
 
 #: Son_Of_The_Black_Eye.cfg:17
 msgid ""
@@ -71,7 +70,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:4
 msgid "Back Home"
-msgstr "Zurück zuhause"
+msgstr "Zurück Zuhause"
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:23
 #: Son_Of_The_Black_Eye/scenarios/Giving_Some_Back.cfg:30
@@ -178,11 +177,10 @@ msgstr ""
 msgid ""
 "Well look at this boys, we are home. I told you we would return one day."
 msgstr ""
-"Schaut, Jungs, wir sind daheim. IchI sagte euch, dass wir eines Tages "
+"Schaut, Jungs, wir sind daheim. Ich sagte euch, dass wir eines Tages "
 "zurückkehren würden."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:245
-#, fuzzy
 msgid "Boy did they ever build this place up."
 msgstr "Junge, diesen Platz haben sie wirklich verstärkt."
 
@@ -212,7 +210,6 @@ msgstr ""
 "kreise im Nordwesten. Wenn alles gut geht, werden wir Sie umzingelt haben."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:265
-#, fuzzy
 msgid "I like this plan chief!"
 msgstr "Plan gut. Grüü machen das schon!"
 
@@ -301,15 +298,13 @@ msgstr "Hört sich einfach genug an."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:550
 msgid "Ok, buddy, we want some answers!"
-msgstr "Ok, Freund, wir wollen einige Antworten!"
+msgstr "Ok, Freundchen, wir wollen jetzt einige Antworten von dir!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:555
-#, fuzzy
 msgid "Ugh!"
 msgstr "Ugh!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:560
-#, fuzzy
 msgid "SPEEK!"
 msgstr "Rrede!"
 
@@ -322,7 +317,6 @@ msgid "You can start by telling us who told you to strike at Borstep."
 msgstr "Fang damit an, uns zu sagen, wer dir befahl Borstep anzugreifen."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:575
-#, fuzzy
 msgid "Uh.... we have intelligence."
 msgstr "Äh.. wir haben Informationen."
 
@@ -341,7 +335,8 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:590
 msgid "Pah, don't try to break the unity of the horde with your stupid lies!"
 msgstr ""
-"Pah, versuch nicht die Einheit der Horde mit deinen dummen Lügen zu brechen!"
+"Pah, versuch nicht die Einheit der Horde mit deinen dummen Lügen auseinander "
+"zu bringen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:595
 msgid ""
@@ -350,7 +345,7 @@ msgid ""
 "eye or something like that."
 msgstr ""
 "Nein wirklich, es ist alles wahr. Er ist eifersüchtig auf einen jungen "
-"Emporkömmling namens Kapou'e. Er sagt alle  Schamanen 'kriechen ihm in den "
+"Emporkömmling namens Kapou'e. Er sagt alle Schamanen 'kriechen ihm in den "
 "Hintern' nur weil sein Vater ein schwarzes Auge hatte oder so."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:600
@@ -358,12 +353,12 @@ msgid ""
 "Refer to Black Eye Karun with respect you little vermin. Now where are the "
 "shamans?"
 msgstr ""
-"Rde von Schwarzauge Karun mit Respekt, du kleines Ungeziefer. Wo sind jetzt "
+"Rede von Schwarzauge Karun mit Respekt, du kleines Ungeziefer. Wo sind jetzt "
 "die Schmanen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:605
 msgid "They're.... the humans killed them."
-msgstr "Sie sind .. Die Menschen haben sie getötet.,"
+msgstr "Sie sind .. Die Menschen haben sie getötet."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:610
 msgid "You lie!"
@@ -383,11 +378,11 @@ msgstr "Ok, Häuptling."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:630
 msgid " *a few minutes later*"
-msgstr "*einige Minuten später*"
+msgstr " *einige Minuten später*"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:635
 msgid "Chief! It's true, the shamans have been murdered!"
-msgstr "Häuptling! Es ist wahr, die Schamanen sind ermordet worden."
+msgstr "Häuptling! Es ist wahr! Die Schamanen sind ermordet worden."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:640
 msgid ""
@@ -404,16 +399,15 @@ msgstr "Was sollen wir mit diesem tun, Häuptling?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:650
 msgid "Throw him in the lake. If he freezes to death all the better."
-msgstr "Werft ihn in den See. Wer er erfriert, um so besser."
+msgstr "Werft ihn in den See. Wenn er erfriert, um so besser."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:22
 msgid "Black Flag"
 msgstr "Schwarze Flagge"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:41
-#, fuzzy
 msgid "Defeat Slowhand and Harman"
-msgstr "Besiegt Ogdan den Langsamen"
+msgstr "Besiegt Ogdan den Langsamen und Haman"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:76
 msgid "Slowhand"
@@ -429,13 +423,12 @@ msgid "Transport"
 msgstr "Transportgalleone"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:220
-#, fuzzy
 msgid "Landing Galleon"
 msgstr "Transportgalleone"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:229
 msgid "So here is Tirigaz. But what in the world is going on?."
-msgstr "Das also ist Tirigaz. Aber was um aller Welt ist hier los?"
+msgstr "Das also ist Tirigaz. Aber was in aller Welt ist hier los?"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:233
 msgid ""
@@ -454,8 +447,8 @@ msgid ""
 msgstr ""
 "Hört zu, wenn wir uns mit dem Rest des großen Rates treffen wollen, müssen "
 "wir diesen Angriff abwehren. Ihr Schamanen versteckt euch im Wald bis wir "
-"sie besiegen. Es wird schneller und einfacher sein, als wenn wir uns darum "
-"sorgen müssen, euch zu beschützen."
+"sie besiegen. Es wird so schneller gehen und einfacher sein, als wenn wir "
+"uns darum sorgen müssen, euch zu beschützen."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:242
 msgid "This is a wise choice. Good luck, son of the Black Eye."
@@ -466,20 +459,20 @@ msgid ""
 "Haha! Our plan is going well, let's surround them on land while our allies "
 "attack them from sea!"
 msgstr ""
-"Haha! Alles läuft nach Plan. Wir umzingeln sie auf Land, während unsere "
+"Haha! Alles läuft nach Plan. Wir umzingeln sie an Land, während unsere "
 "Verbündeten vom Meer aus zuschlagen."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:266
 msgid "Look people, a party of orcs approaches from the north."
-msgstr "Schaut Leute, eine Gruppe von Orks nähert sich aus dem Norden an."
+msgstr "Schaut Leute! Eine Gruppe von Orks nähert sich aus dem Norden."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:271
 msgid "Greetings from Kapou'e, Son of the Black Eye Karun."
-msgstr "Grüße von Kapou'e, son von Schwarzauge Karun."
+msgstr "Grüße von Kapou'e, Sohn von Schwarzauge Karun."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:276
 msgid "Son of the great Black Eye Karun?! You do us honor chief."
-msgstr "Sohn des großen Schwarzauge Karun?! Ihr ehrt uns Häuptling."
+msgstr "Sohn des großen Schwarzauge Karun?! Es ist uns eine Ehre, Häuptling."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:281
 msgid "Ahh don't worry about it, just tell me what's going on here."
@@ -494,8 +487,8 @@ msgid ""
 msgstr ""
 "Ich weiss es nicht wirklich, ein Tag war ruhig und friedlich und dann zeigte "
 "sich eine Menschenflotte und spuckte Menschen aus. Wir versuchten sie zurück "
-"zu halten sogut wir konnten, aber sie schafften es, die nördliche Festung zu "
-"erobern. und dann kamen menschliche Verstärkungen aus ihren Siedlungen im "
+"zu halten so gut wir konnten, aber sie schafften es, die nördliche Festung "
+"zu erobern. und dann kamen menschliche Verstärkungen aus ihren Siedlungen im "
 "Süden."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:291
@@ -503,7 +496,6 @@ msgid "Are the shamans safe?"
 msgstr "Sind die Schmanen sicher?"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:296
-#, fuzzy
 msgid ""
 "When we realized that there was no way we could hold the humans off, we sent "
 "them east to a place near the Mourned Hills along with most of our women and "
@@ -523,14 +515,14 @@ msgid ""
 "gained on the land."
 msgstr ""
 "Eine weise Entscheidung. Wir sind eigentlich gekommen um mit den Schamanen "
-"zu reden, aber während wir hier sind müssen wir unseren Brüdern in Not "
+"zu reden, aber während wir hier sind, müssen wir unseren Brüdern in Not "
 "helfen. Grüü, hilf sie hier aufzuhalten während ich zu Festung laufe und "
-"Kräfte zum Gegenangriff organisiere. Obwohl wir sie auf See nicht besiegen "
-"können ohne eigene Flotte, können wir ihren Brückenkopf an Land abwehren."
+"Kräfte zum Gegenangriff organisiere. Wir können sie auf See ohne eigene "
+"Flotte nicht besiegen, aber wir können ihren Vorstoß an Land zurückdrängen."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:306
 msgid "I love this strategy, chief!"
-msgstr "Plan gut. Grüü machen das schon!"
+msgstr "Plan gut, Häuptling!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:374
 msgid "Pillage! Let's plunder these orcs!"
@@ -566,12 +558,10 @@ msgid ""
 "Mourned Hills. If we want to meet them we must go after them."
 msgstr ""
 "Danke, abe ich bringe Neuigkeiten. Da die Streitkräfte hier sich der "
-"Niederlage sicher waren haben sie die Schamanen nach Osten nahe den "
-"Trauerhügeln geschickt. Wenn wir sie treffen wollen, müssen wir ihnen "
-"hinterher."
+"Niederlage sicher waren, haben sie die Schamanen nach Osten in die Nähe der "
+"Trauerhügeln geschickt. Wenn wir sie treffen wollen, müssen wir ihnen folgen."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:415
-#, fuzzy
 msgid ""
 "Oh great. That means we have to cross the Desert of Death which is full of "
 "poisonous giant scorpions and outlaws. And bypassing it would take ages! Not "
@@ -579,11 +569,10 @@ msgid ""
 msgstr ""
 "Die Trauerhügel liegen hinter der Todeswüste. Dort wimmelt es nur so von "
 "giftigen Riesenskorpionen und Banditen. Und umgehen können wir sie auch "
-"nicht. Das würde Jahre dauern! Außerdem, selbst wenn wir es schaffen, die "
-"Wüste zu durchqueren, bleibt immer noch der Stille Wald."
+"nicht. Das würde Jahre dauern! Außerdem, selbst wenn wir es schaffen die "
+"Wüste zu durchqueren, bleibt immer noch der stille Wald."
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:419
-#, fuzzy
 msgid ""
 "Well we have no choice ... I've never tasted scorpions but I am sure they "
 "are good. This journey promises to be fun."
@@ -608,9 +597,8 @@ msgid "Braga"
 msgstr "Braga"
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:81
-#, fuzzy
 msgid "Meato"
-msgstr "Jetto"
+msgstr "Meato"
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:92
 msgid "Ragvan"
@@ -699,9 +687,10 @@ msgid ""
 "under my control by the time we are through here."
 msgstr ""
 "Ok Leute, wenn wir es nach Bitok schaffen wollen, und dann vor dem Frühling "
-"zurück nach Dorset, dann müssen wir Bwegung in die Sache bringen. Wir ziehen "
-"so früh wie möglich los. Besiegt alle Widerstände, die im Weg stehen, ich "
-"will dieses Gebiet fest unter meiner Kontrolle sobald wir hier durch sind."
+"zurück nach Dorset zu sein, dann müssen wir Bewegung in die Sache bringen. "
+"Wir ziehen so früh wie möglich los. Besiegt alle Widerstände, die im Weg "
+"stehen, ich will dieses Gebiet fest unter meiner Kontrolle haben, sobald wir "
+"hier durch sind."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:770
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:286
@@ -721,9 +710,10 @@ msgid "Got this tribe under control."
 msgstr "Habe diesen Stamm unter Kontrolle."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:216
-#, fuzzy
 msgid "This is what you get for deserting the Son of the Black Eye."
-msgstr "Eine weise Entscheidung. Ich wünsche euch Glück, Kapou'e."
+msgstr ""
+"Dies ist der Lohn für das Desertieren aus der Truppe vom Sohn des "
+"Schwarzauges."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:4
 msgid "Clash of Armies"
@@ -735,7 +725,7 @@ msgstr "Verteidigt Prestim für vier Tage"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:27
 msgid "Destruction of a tower of Prestim"
-msgstr "Zerstörung eines Turm von Prestim"
+msgstr "Zerstörung eines Turms von Prestim"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:117
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:208
@@ -766,7 +756,6 @@ msgstr ""
 "Prestims Mauern hart wie Grüüs Faust. Feinde nicht werden kommen durch."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:258
-#, fuzzy
 msgid ""
 "I'm not that sure. Every fortress has its own weakness. Prestim's walls are "
 "built on three towers. If one of them is destroyed, a breach will allow "
@@ -778,13 +767,12 @@ msgstr ""
 "die Sztadt eindringen... Dann iszt allesz szu szpät."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:263
-#, fuzzy
 msgid ""
 "We've received messengers from the Council, saying that they are regrouping "
 "tribes into the Great Horde."
 msgstr ""
 "Der Große Rat hat mir eine Nachricht zukommen lassen, dass sie die Stämme "
-"überzeugen konnten, die Große Horde erneut zu bilden."
+"überzeugen konnten, die große Horde erneut zusammenzurufen."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:268
 msgid "Great! When do they arrive?"
@@ -816,15 +804,16 @@ msgid "And if we fail?"
 msgstr "Und wenn wir versagen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:298
-#, fuzzy
 msgid ""
 "Then they will assault Prestim at five versus one. We'll just have to do the "
 "best we can."
-msgstr "Dann werden szie die Sztadt einnehmen."
+msgstr ""
+"Dann werden sie die Stadt Prestim mit fünf Kriegern zu einem Krieger "
+"angreifen. Wir müssen das beste tun, was in unserer Macht steht."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:303
 msgid "Great."
-msgstr "Tun wir es."
+msgstr "Großartig."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:308
 msgid "Then, the battle for Prestim began."
@@ -837,7 +826,7 @@ msgstr "Das Meervolk ist hier, um seinen Anteil zu leisten, Graf Lanbec'h."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:332
 msgid "Ahh shoot! They have mermen on their side."
-msgstr "Ach nein! Sie haben Meer-Leute auf Ihrer Seite."
+msgstr "Ach nöö! Sie haben Meereskämpfer auf Ihrer Seite."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:422
 msgid ""
@@ -850,8 +839,8 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:446
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
 msgstr ""
-"Auf sie, Krieger. Treibt sie zum Fluss! Zeigt ihnen woraus Orks geschnitzt "
-"sind!"
+"Auf sie, Krieger. Treibt sie zum Fluss! Zeigt ihnen aus welchem Holz Orks "
+"geschnitzt sind!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:451
 msgid "They are too numerous now, RETREAT!"
@@ -908,8 +897,8 @@ msgid ""
 msgstr ""
 "Kapou'e und seine Anhänger marschierten im Eilmarsch über die gefrorenen "
 "Nordlande. Den Orks kam es wie ein andauernder Albtraum aus Frieren, "
-"Marschieren und Kämpfen. Nahrung war rar und die Vorräte die sie von den "
-"rebellierenden Stämmen nahmen wurden streng rationiert. Viele der "
+"Marschieren und Kämpfen vor. Nahrung war rar und die Vorräte die sie von den "
+"rebellierenden Stämmen nahmen, wurden streng rationiert. Viele der "
 "schwächeren Orks, die nicht im Kampf starben, starben aus Erschöpfung, oder "
 "fielen zurück und froren zu Tode."
 
@@ -922,10 +911,10 @@ msgid ""
 "surely be exterminated."
 msgstr ""
 "Während dieses Albtraums trieb Kapou'e sich und seine Männer gnadenlos "
-"vorwärts. Diie Frühlingsschmelze wäre bald mit ihnen und mit ihm die "
-"Menschenarmee die Earl Lanbec'h ohne Zweifek sammelte. Bis dahin, wo die "
-"Orks auf die eine oder andere Art vereint waren, würden sie getrennt und "
-"zerstreut sein und sicher ausgelöscht werden."
+"vorwärts. Die Frühlingsschmelze wäre bald mit ihnen, und ebenso die "
+"Menschenarmee die Graf Lanbec'h ohne Zweifel jetzt zusammenrief. Bis dahin, "
+"wo die Orks auf die eine oder andere Art vereint waren, würden sie getrennt "
+"und zerstreut sein und sicher ausgelöscht werden."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:144
 msgid ""
@@ -942,15 +931,15 @@ msgid ""
 "Finally, after over three months, Kapou'e and his exhausted but hardened "
 "army arrived at Bitok, just before the spring thaw."
 msgstr ""
-"Endlich, nach über drei Monaten erreichten Kapou'e und seine erschöpfte aber "
-"abgehärtete  Armee Bitok, genau vor der Frühjahrsschmelze."
+"Endlich, nach über drei Monaten erreichten Kapou'e und seine erschöpfte, "
+"aber abgehärtete Armee die Stadt Bitok, kurz bevor die Frühjahrsschmelze "
+"einsetzte."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:180
 msgid "Good morning Shan Taum."
 msgstr "Guten Morgen Shan Taum."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:185
-#, fuzzy
 msgid "What... Kapou'e! What on earth are you doing here."
 msgstr "Was... Kapou'e! Was zum Teufel tust du hier?"
 
@@ -968,11 +957,11 @@ msgstr ""
 "alten Freund meines Vaters, der zufälligerweise Informationen an die "
 "Menschen gibt, der verantwortlich ist für den Tod der Hälfte des großen "
 "Rates, und der zufälligerweise auch veranwortlich ist für den Tod von "
-"hunderten unserer Brüder, und für direkt verantwortlich ist für den blutigen "
-"Bürgerkrieg gerade dann wenn wir am Rande der totalen Auslöschung stehen!"
+"hunderten unserer Brüder, und direkt verantwortlich ist für den blutigen "
+"Bürgerkrieg, der gerade dann tobt, wenn wir am Rande der totalen Auslöschung "
+"stehen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:196
-#, fuzzy
 msgid "........"
 msgstr "......."
 
@@ -999,7 +988,7 @@ msgid ""
 "kid for me. I'll be in my keep."
 msgstr ""
 "Wie kannst du es wagen mich als Verräter zu beschuldigen, du kleiner "
-"Scheissehaufen. Orga, töte dieses Kind für mich. Ich bin in meiner Festung."
+"Scheisshaufen! Orga, töte dieses Kind für mich. Ich bin in meiner Festung."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:223
 msgid "Yes sir!"
@@ -1007,7 +996,7 @@ msgstr "Ja, Herr!"
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:238
 msgid "What! Get back here you gutless coward!"
-msgstr "Was! Komm zurück hier her, du rückgratloser Feigling!"
+msgstr "Was? Komm zurück, du rückgratloser Feigling!"
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:270
 msgid ""
@@ -1016,36 +1005,34 @@ msgid ""
 "think they left him?"
 msgstr ""
 "Heh Häuptling, das ist komisch. Shan Taun hat anscheinend nicht viele seiner "
-"Leute da. Aber ihm wurde doch die Kontrolle über die Hälfte der Großen Horde "
+"Leute da. Aber ihm wurde doch die Kontrolle über die Hälfte der großen Horde "
 "gegeben. Denkst Du, sie haben ihn verlassen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:276
-#, fuzzy
 msgid ""
 "I doubt it. Shan Taun knows how to fake people out. I bet he sent them out "
 "like we did to clobber the other tribes to his rule. In any case, it sure is "
 "convenient for us."
 msgstr ""
 "Ich bezweifle es. Shan Taun weiss wie man Leute täuscht. Ich wette er hat "
-"sie ausgesendet um die anderen Stämme zu schlagen so wie wir es taten. In "
-"jedem Fall ist es bequem für uns."
+"sie ausgesendet, um die anderen Stämme zu schlagen, so wie wir es taten. In "
+"jedem Fall ist es so ganz Praktisch für uns."
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:286
 msgid ""
 "Ok, we crushed this pocket of resistance too. Now where in the word did that "
 "coward Shan Taun run off to?"
 msgstr ""
-"Okay, wir haben dieses Widerstandsnest zermalmt. Jetzt, wohin in aller Welt "
-"ist der Feigling Shan Taun verschwunden?"
+"Okay, wir haben dieses Widerstandsnest zermalmt. Wohin in aller Welt ist "
+"jetzt der Feigling Shan Taun verschwunden?"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:4
 msgid "The Desert of Death"
 msgstr "Die Todeswüste"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:24
-#, fuzzy
 msgid "Reach the Oasis"
-msgstr "Rettet die Schamanen"
+msgstr "Erreicht die Oase"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:36
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:38
@@ -1059,7 +1046,7 @@ msgstr "Ein Schamane fällt in der Schlacht"
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:40
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:367
 msgid "Time Runs Out"
-msgstr "Zeitrahmen überschritten"
+msgstr "Rundenlimit überschritten"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:68
 msgid "Ar Dant"
@@ -1108,7 +1095,6 @@ msgid "Ack! This blasted sand!"
 msgstr "Ah! Dieser verfluchte Sand."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:161
-#, fuzzy
 msgid ""
 "I'm hungry and we found no giant scorpion yet. I'm sure it would be "
 "delicious."
@@ -1125,7 +1111,6 @@ msgstr ""
 "und deine Keule ist nutzlos gegen ihren harten Panzer."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:169
-#, fuzzy
 msgid ""
 "I've been told the best way to defeat them is to attack their eyes with "
 "sharp blades, or pierce them with arrows. But I hope too we won't meet them."
@@ -1158,7 +1143,6 @@ msgstr ""
 "Wir haben keine andere Wahl. Wenn wir bleiben werden wir sicher sterben."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:212
-#, fuzzy
 msgid ""
 "Finally we've done it! Now let's wait out this sandstorm, resupply and get "
 "some rest before we continue on our journey."
@@ -1168,7 +1152,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:224
 msgid "There you go Grüü, there is your giant scorpion!"
-msgstr "Da, für dich Grüü, da ist dein Riesenskorpion!"
+msgstr "Naalso Grüü. Da ist dein Riesenskorpion!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:229
 msgid "Oh great, perfect timing."
@@ -1207,7 +1191,7 @@ msgstr "Ugh.. Ich fühl' mich krank."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:296
 msgid "Hmmm, it seems that scorpions are poisonous."
-msgstr "Hmm, scheint dass Skorpione giftig sind."
+msgstr "Hmm, scheint so, dass Skorpione giftig sind."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:301
 msgid "But what about Grüü?"
@@ -1222,12 +1206,12 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:311
 msgid " *puke*"
-msgstr "*spuck*"
+msgstr " *spuck*"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:325
 msgid ""
 "Hold it right there! This oasis is ours! Begone or you all will be killed!"
-msgstr "Stoppt wo ihr seid! Diese Oase ist unsere. Geht oder werdet getötet!"
+msgstr "Stoppt wo ihr seid! Diese Oase ist unsere. Geht, oder werdet getötet!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:330
 msgid ""
@@ -1235,9 +1219,9 @@ msgid ""
 "out of food and water. There is no way we can keep going without stopping at "
 "this oasis."
 msgstr ""
-"Schau Kumpel, wir sind in der Mitte eines Sandsturn, und wir haben fast "
-"keine Nahrung und Wasser mnehr.  Wir können nicht weiter ohne einen Stop an "
-"dieser Oase."
+"Schau Kumpel, wir sind in der Mitte eines Sandsturms, und wir haben fast "
+"keine Nahrung und Wasser mehr.  Wir können nicht weiterziehen, ohne eine "
+"kurze Pause an dieser Oase."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:335
 msgid "I don't care, get lost!"
@@ -1245,7 +1229,7 @@ msgstr "Ist mir egal, verschwindet!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:340
 msgid "It's no use reasoning with them Kapou'e, they aren't going to listen."
-msgstr "Es ist sinnlos, Kapou'e, sie werden nicht zu hören."
+msgstr "Es ist sinnlos, Kapou'e, sie werden nicht zuhören."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:345
 msgid ""
@@ -1276,7 +1260,6 @@ msgid ".... can't.... the .... heat.... is.... too..... much...."
 msgstr "...können...nicht...die...Hitze...ist...zu...viel..."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:4
-#, fuzzy
 msgid "The Dwarvish Stand"
 msgstr "Die Verteidigungslinie der Zwerge"
 
@@ -1373,13 +1356,12 @@ msgstr ""
 "ging."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:140
-#, fuzzy
 msgid ""
 "Breaking camp the following dusk the horde set out in hot pursuit. By the "
 "third day they caught up with their enemies."
 msgstr ""
-"Sie brachen die folgende Morgendämmerung auf, dem Feind auf den Fersen. In "
-"der dritten Nacht hatten sie ihre Feinde eingeholt."
+"Sie brachen die folgende Morgendämmerung auf, dem Feind auf den Fersen. Am "
+"dritten Tag hatten sie ihre Feinde eingeholt."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:190
 msgid ""
@@ -1391,7 +1373,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:228
 msgid "Blast it, the orcs have caught up to us."
-msgstr "Verdammt, die Orks haben mit uns aufgeholt."
+msgstr "Verdammt, die Orks haben uns eingeholt."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:233
 msgid ""
@@ -1401,17 +1383,16 @@ msgid ""
 msgstr ""
 "Elfe, unsere Art kann unter diesen Bedingungen besser und schneller kämpfen "
 "als deine Art. Nimm die Ork-Gefangenen und eile nach Melmog. Wir mutigen "
-"Zwerge werden diese orkische Bedrohung  zermalmen!"
+"Zwerge werden diese orkische Bedrohung zermalmen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:238
-#, fuzzy
 msgid ""
 "Very well, but our human allies shall also stay behind and help you. After "
 "all, we ARE dealing with the Son of the Black Eye here."
 msgstr ""
 "Also gut, aber unsere menschlichen Allierten soll auch zurück bleiben und "
-"euch helfen. Denn trotz allem kämpfen wir hier mit einem Sohn von "
-"Schwarzauge."
+"euch helfen. Denn immerhin kämpfen wir hier gegen einen Sohn von Schwarzauge "
+"Karun."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:243
 msgid "Pah, have it your way then. Now hurry on your way elf."
@@ -1449,7 +1430,6 @@ msgid "Albert"
 msgstr "Albert"
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:93
-#, fuzzy
 msgid ""
 "Rahul I, head of the Northern Alliance, concluded peace with orcs during the "
 "4th year of his leadership. He ended a 15 year war with Black Eye Karun, "
@@ -1459,8 +1439,7 @@ msgstr ""
 "König Rahul der I. von Wesnoth hatte im vierten Jahr seiner Herrschaft mit "
 "den Orks Frieden geschlossen. Damit beendete er einen 15 Jahre währenden "
 "Krieg mit Karun Schwarzauge, dem Heerführer aller Orks. Ein Friedensvertrag "
-"bestimmte, welche Gebiete den Orks und welche den Menschen gehören sollten. "
-"Die Jahre, die auf den Frieden folgten, waren unbeschwert."
+"bestimmte, welche Gebiete den Orks und welche den Menschen gehören sollten."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:98
 msgid ""
@@ -1493,7 +1472,7 @@ msgid ""
 "descended into inner squabbling. Thus the years that followed were "
 "relatively peaceful and prosperous - for the humans anyway."
 msgstr ""
-"Der Friedensvertrag hielt trotzdem. zum Teil weil der Vertrag - obwohl "
+"Der Friedensvertrag hielt trotzdem. Zum Teil weil der Vertrag - obwohl "
 "arrangiert von der Nordallianz - zwischen den lokalen Königreichen galt und "
 "keine direkte Verbindung zur Norddallianz hatte. Der andere Grund - "
 "vielleicht der Hauptgrund -  dass der Vertrag hielt war, dass mit dem Tod "
@@ -1502,19 +1481,18 @@ msgstr ""
 "friedfertig - zumindest für die Menschen."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:108
-#, fuzzy
 msgid ""
 "In the thirteenth year of Howgarth III - the successor of Rahul I, tension "
 "began to rise between Orcish tribes and human northern earldoms. Famine led "
 "humans to colonize some orcish lands and to push orcs to desolated hills."
 msgstr ""
-"Im dreizehnten Jahr Howgarths des III stieg die Spannung zwischen den "
-"orkischen Stämmen und den Grafschaften des Nordens. Eine Hungersnot zwang "
-"die Menschen dazu, einige der orkischen Gebiete zu kolonisieren und deren "
-"Einwohner in die wüsten Hügel zu verdrängen."
+"Im dreizehnten Jahr Howgarths des III- dem Nachfolger von Rahul dem I, stieg "
+"die Feindschaft zwischen den orkischen Stämmen und den Grafschaften des "
+"Nordens wieder an. Eine Hungersnot zwang die Menschen dazu, einige der "
+"orkischen Gebiete zu kolonisieren und deren orkische Einwohner in die wüsten "
+"Hügel zu verdrängen."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:113
-#, fuzzy
 msgid ""
 "Of course, this caused violent orcish riots as orcs systematically "
 "slaughtered human colonies and villages that were on their lands. Then, earl "
@@ -1647,23 +1625,23 @@ msgstr ""
 "vereinen und die Menschen zermalmen."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:265
-#, fuzzy
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These moutains are "
 "infested of dwarves and wild trolls."
 msgstr ""
 "Aber das Gebiet der Freien Stämme liegt hinter dem Haag Gebirge. Dieses "
-"Gebirge bewohnen Zwerge und wilde Trolle."
+"Gebirge ist verseucht mit Zwergen und wilden Trollen."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:270
-#, fuzzy
 msgid ""
 "Don't be afraid $name.user_description. The trolls have been our allies in "
 "the past--maybe they can help us. And besides who was ever scared of those "
 "puny dwarves. Hurry up, we must leave as soon as possible."
 msgstr ""
-"Wir haben keine andere Wahl. Früher waren wir mit den Trollen verbündet. "
-"Vielleicht können sie uns helfen. Aber jetzt schnell, sonst ist es zu spät."
+"Wir haben keine andere Wahl $name.user_description. Früher waren wir mit den "
+"Trollen verbündet. Vielleicht können sie uns helfen. Nebenbei gesagt: Wer "
+"hat schon Angst vor ein paar lausigen Zwergen? Aber jetzt schnell, wir "
+"müssen so bald wie möglich aufbrechen."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:285
 msgid "Get real, how can those week little humans be any sort of mach for us!"
@@ -2013,17 +1991,16 @@ msgstr "Nordallianz"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:28
 msgid "Kill Shun Taum and Earl Lanbec'h"
-msgstr ""
+msgstr "Töte Shun Taum und Earl Lanbec'h"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:40
-#, fuzzy
 msgid "Death of Howgarth III"
-msgstr "Inarix fällt in der Schlacht"
+msgstr "Howgarth der Dritte fällt in der Schlacht"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:112
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:86
 msgid "Howgarth III"
-msgstr ""
+msgstr "Howgarth III"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:124
 msgid ""
@@ -2031,6 +2008,11 @@ msgid ""
 "human however, Kapou'e brought along Grüü, as well as one of his most "
 "trusted solders. Earl Lanbec'h however flatly refused to attend the parley."
 msgstr ""
+"So ist es nicht verwunderlich, das Kapou'e zu einem Gespräch mit Howgarth "
+"III. bereit war. Allerdings vertraute Kapou'e den Menschen kein Stück und "
+"brachte deshalb Grüü und einen seiner vertrauensvollsten Soldaten mit. Graf "
+"Lanbec'h lehnte dagegen die Teilnahme an dieser Besprechung von vornherein "
+"kategorisch ab."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:129
 msgid ""
@@ -2049,6 +2031,9 @@ msgid ""
 "his aggression then under the dictates of the Northern Alliance, he himself "
 "would be forced to move against the Earl."
 msgstr ""
+"Howgath der Dritte stimmte zu und fügte dem noch hinzu, das wenn Graf "
+"Lanbec'h sich weigern würde seine Angriffe einzustellen, würde er unter dem "
+"Druck der Nordallianz gezwungen sein, gegen ihn vorzugehen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:139
 msgid ""
@@ -2063,36 +2048,46 @@ msgid ""
 "As they were discussing the matter, a group of orcs suddenly burst from the "
 "surrounding trees and hills and surrounded the parley."
 msgstr ""
+"Als sie gerade darüber diskutierten, wurde die Gesprächsrunde plötzlich von "
+"einer Horde Orks umzingelt, welche aus den umstehenden Bäumen und Hügeln "
+"hervorkamen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:479
 msgid ""
 "Now now now, what do we have here. Collaborating with the enemy again just "
 "like your disgusting father are you?"
 msgstr ""
+"So so so. Was haben wir denn hier? Wieder mit dem Feind zusammenarbeiten, "
+"wie schon euer verabscheuungswürdiger Vater?"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:484
 msgid ""
 "Collaborating with the humans pfff. Look who is talking. What are you doing "
 "here Shan Taum?"
 msgstr ""
+"Mit den Menschen zusammenarbeiten? Niemals. Mit wem glaubt ihr zu sprechen "
+"und was wollt ihr überhaupt hier Shan Taum? "
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:489
 msgid "I am here to do to you what I did to your father."
-msgstr ""
+msgstr "Ich bin hier, um euch das gleiche zu tun, was ich eurem Vater antat."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:494
 msgid "So you did kill my father then."
-msgstr ""
+msgstr "Also habt ihr meinen Vater auf dem Gewissen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:499
 msgid "What did I tell you Kapou'e."
-msgstr ""
+msgstr "Was hab ich dir gesagt, Kapou'e."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:504
 msgid ""
 "Ha ha! Good work Shan Taum. That will teach them. Attack boys, I want Dorset "
 "recaptured by sunset."
 msgstr ""
+"Ha ha! Das war gute Arbeit Shan Taum. Das wird ihnen eine Lehre sein. Los "
+"Jungs, zum Angriff! Ich möchte Dorset noch vor Sonnenuntergang zurückerobert "
+"haben. "
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:509
 msgid ""
@@ -2109,10 +2104,14 @@ msgid ""
 "You and your dammed compromises can go to hell. Your beloved Kapou'e will be "
 "joining you shortly."
 msgstr ""
+"Ihr und eure verdammten Kompromisse könnt meinetwegen zur Hölle fahren. Euer "
+"hochverehrter Kapou'e wird euch bald gesellschaft leisten."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:519
 msgid "You leave us no choice but to take military action against you."
 msgstr ""
+"Ihr lasst uns keine andere Wahl, als millitärische Maßnahmen gegen euch "
+"anzuwenden."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:524
 msgid ""
@@ -2120,10 +2119,14 @@ msgid ""
 "as my orc friend here gives the order. And then your men will automatically "
 "assume that Kapou'e tricked and killed you."
 msgstr ""
+"Ha ha! Sehr lustig Howgarth. Seht euch mal um! Ihr seid tod, sobald ich nur "
+"meinen orkischen Freunden hier, das Kommando dazu erteile. Als Folge davon, "
+"würden eure Männer davon ausgehen, das Kapou'e euch in eine Falle gelockt "
+"und getötet hätte."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:529
 msgid "Not today my friend. *whistles*"
-msgstr ""
+msgstr "Nicht heute mein Freund. *Pfeift*"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:600
 msgid ""
@@ -2137,43 +2140,53 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:605
 msgid "Agreed. Let's get to it."
-msgstr ""
+msgstr "Stimmt. Dann los jetzt, aufgehts."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:625
 msgid ""
 "Blast! The human has escaped. Men, kill this looser and report back to me. I "
 "must get to my camp and assault the city."
 msgstr ""
+"Mist! Der Mensch ist entkommen. Männer, tötet diesen Verlierer und erstattet "
+"mir anschließend Meldung. Ich muss in mein Lager zurückgehen und die Stadt "
+"angreifen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:638
 msgid "Shan Taum big coward. Never want to fight."
-msgstr ""
+msgstr "Shan Taum großer Feigling. Niemals Kämpfen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:755
 msgid "YEAH!"
-msgstr ""
+msgstr "Jawoll!"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:787
 msgid ""
 "Yeah, we finally got the coward. What do you want us to do with him chief?"
 msgstr ""
+"Ja endlich haben wir den Feigling erwischt. Was sollen wir mit ihm tun "
+"Häuptling?"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:792
 msgid ""
 "Stick his head at the end of a pike and let the buzzards pick it clean. I "
 "wasn't joking about making a mug from his skull."
 msgstr ""
+"Spießt sein Haupt auf das spitze Ende einer Lanze und lasst die "
+"Schmeissfliegen die Haut von seinem Schädel abnagen. Ich habe nicht "
+"gescherzt, als ich sagte das ich einen Kaffepot aus seinem hohlen Schädel "
+"machen würde."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:96
 msgid "Saving Inarix"
 msgstr "Rettet Inarix"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:115
-#, fuzzy
 msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to the fort on River Gork"
-msgstr "Führt Inarix und mindestens vier Saurianer zum Fort"
+msgstr ""
+"Um später Saurianer rekrutieren zu können, führt Inarix und mindestens vier "
+"Saurianer zur Festung am Fluss Gork"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:270
 msgid "Plonk"
@@ -2216,9 +2229,10 @@ msgid ""
 "If Inarix falls prey to those humans then we won't be able to count on their "
 "help in this struggle. We must do something!"
 msgstr ""
+"Wenn die Inarix hier gegen die Menschen verlieren, dann werden wir nicht "
+"mehr auf ihre Hilfe zählen können. Wir müssen irgendwas unternehmen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:337
-#, fuzzy
 msgid "I know what we must do. Kill elves and help Inarix cross."
 msgstr ""
 "Grüü wissen, was müssen machen. Machen Elfen und Zwerge kaputt und Inarix "
@@ -2245,23 +2259,28 @@ msgid ""
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends - get them!"
 msgstr ""
+"Hey, seht nur! Der Stamm der Orks, der meinen Aussenposten im stillen Wald "
+"zerstört hat, verstärken die Verteidigungsanlagen von Prestim. Es ist jetzt "
+"an der Zeit, den Tod unserer in der Schlacht gefallenen Mitstreiter zu "
+"rächen. Holt sie euch!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:356
 msgid "Ahhh, it's "
-msgstr ""
+msgstr "Ahhh, es ist "
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:392
-#, fuzzy
 msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind is on our tails, we must "
 "hurry up."
 msgstr ""
-"Presztim iszt nicht mehr weit, mein Freunde. Wir müszszen unsz beeilen. Graf "
-"Lanbec'h und szeine Leute szind unsz dicht auf den Ferszen."
+"Da sind wir nun, mein Freunde. Graf Lanbec'h und seine Leute sind uns dicht "
+"auf den Fersen. Wir sollten uns beeilen."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:417
 msgid "The Saurians are safe chief, should we blow the bridge?"
 msgstr ""
+"Die Saurianer sind jetzt Sicher Häuptling. Sollen wir die Brücke jetzt "
+"sprengen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:422
 msgid "Ah...."
@@ -2269,19 +2288,19 @@ msgstr "Aha ..."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:425
 msgid "Let her blow!"
-msgstr ""
+msgstr "Jagt sie in die Luft!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:441
 msgid "Just wait a sec."
-msgstr ""
+msgstr "Wartet noch einen Moment."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:446
 msgid "Argh! Hurry up, let's get a move on this!"
-msgstr ""
+msgstr "Verdammt! Schneller, los vorwärts!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:451
 msgid "Shut up, I'm in charge here not you!"
-msgstr ""
+msgstr "Halts Maul! Ich habe hier das Kommando, nicht du!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:470
 msgid "Hurry up! The southern bridge is going to explode! Retreat! "
@@ -2289,13 +2308,16 @@ msgstr "Schnell! Die Südbrücke stürzt gleich ein. Rückzug!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:487
 msgid "I hurry up!"
-msgstr ""
+msgstr "Ich mache schon schneller!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:514
 msgid ""
 "Blast it! The saurians have had too many casualties in order for them to be "
 "of any real help to us. We won't be able to recruit them in the future."
 msgstr ""
+"Vergesst es! Die Saurianer hatten sowieso viel zu viele eigene Probleme, um "
+"uns überhaupt eine Hilfe zu sein. Wir werden sie in Zukunft nicht mehr "
+"einberufen können."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:548
 msgid ""
@@ -2387,7 +2409,6 @@ msgstr ""
 "wie dein Vater!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:137
-#, fuzzy
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I'll make "
 "a mug with your skull!"
@@ -2408,7 +2429,6 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:160
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:234
-#, fuzzy
 msgid ""
 "What is this? Are you mad!? Humans are to besiege our fortress at Prestim "
 "and you are fighting each other!?"
@@ -2423,13 +2443,12 @@ msgstr "Also, ähem..."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:168
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:242
-#, fuzzy
 msgid ""
 "Kapou'e, rumors tell you made a long trip to seek assistance from us, and "
 "escorting Pirk, Gork and Vraurk. The council is grateful for that."
 msgstr ""
 "Gerüchte sind an mein Ohr gedrungen, dass ihr, Kapou'e, eine lange Reise "
-"hinter euch gebracht habt, um uns um Unterstützung zu bieten. Der Rat lässt "
+"hinter euch gebracht habt, um uns um Unterstützung zu bitten. Der Rat lässt "
 "euch seinen Dank übermitteln, dass ihr unsere Brüder Pirk, Gork und Vraurk "
 "sicher hierher gebracht habt."
 
@@ -2447,7 +2466,6 @@ msgstr "Wirklich? Aber mein Stamm..."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:180
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:254
-#, fuzzy
 msgid ""
 "You don't understand. Orcs have been divided for ages. The only one who gave "
 "us some unity was your father, Black Eye Karun. Hearing rumors from your "
@@ -2490,7 +2508,6 @@ msgstr ""
 "einzige Hoffnung für Prestim!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:200
-#, fuzzy
 msgid ""
 "Leave your people here Kapou'e--they are safe for the moment--and go defend "
 "Prestim. In the meantime, now that the council is complete again, we will "
@@ -2498,17 +2515,16 @@ msgid ""
 "on it."
 msgstr ""
 "Eure Leute sind müde, Kapou'e. Für den Moment sind sie hier sicher und "
-"sollten sich ausruhen. Ihr aber müsst zur Verteidigung von Prestim eilen. In "
-"der Zwischenzeit werden wir beraten, ob die Zeit der Großen Horde ein "
-"zweites Mal gekommen ist und ob ihr sie anführen sollt. Geht nun..."
+"sollten sich ausruhen. Ihr aber müsst zur Verteidigung von Prestim eilen. "
+"Nun, da der große Rat wieder komplett ist, werden wir in der Zwischenzeit "
+"beraten, ob es wieder an der Zeit ist, die große Horde wieder "
+"zusammenzurufen und ob wir euch dessen Führung anvertrauen können."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:226
-#, fuzzy
 msgid "Nooo! Don't kill me, I surrender to you little earthworm."
-msgstr "Nein! Töte mich nicht. Ich ergebe mich."
+msgstr "Nein! Töte mich nicht. Ich ergebe mich du kleiner Regenwurm."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:274
-#, fuzzy
 msgid ""
 "Go defend Prestim Kapou'e. In the meantime, now that the council is complete "
 "again, we will decide if we have to form the Great Horde again and give you "
@@ -2524,9 +2540,8 @@ msgid "Silent Forest"
 msgstr "Der Stille Wald"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:24
-#, fuzzy
 msgid "Defeat the elves"
-msgstr "Beseitigt alle gegnerischen Anführer"
+msgstr "Besiegt die Elfen"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:95
 msgid "Lucile"
@@ -2541,6 +2556,9 @@ msgid ""
 "As soon as the sandstorm died down, Kapou'e and his men - eager to escape "
 "the searing heat - left the oasis and continued on their trek."
 msgstr ""
+"Sobald der Sandsturm nachgelassen hatte, verliessen Kapou'e und seiner "
+"Gefolgsleute die Oase -um der sengenden Hitze zu entkommen- und den Weg "
+"fortzusetzen. "
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:131
 msgid ""
@@ -2556,83 +2574,88 @@ msgid ""
 "Geez, this this fog and this silence is starting to freak me out. What is "
 "the history behind this place anyway?"
 msgstr ""
+"Meine Güte! Dieser komische Nebel und diese unheimliche Stille, fängt "
+"langsam an mir an die Nerven zu gehen. Was ist über diesen Ort bekannt?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:170
-#, fuzzy
 msgid ""
 "It has not always been like this. A lot of hunters from tribes used to hunt "
 "there and fish in the Bork river. But that all changed a few years ago. Now, "
 "no one would enter there unless forced."
 msgstr ""
 "Früher war das anders. Viele Jäger der ansässigen Stämme haben hier gejagt "
-"und oder im Bork Fische gefangen. Aber nun würde niemand mehr den Wald "
-"freiwillig betreten."
+"und im Fluss Bork Fische gefangen. Das änderte sich vor ein paar Jahren. Nun "
+"würde niemand mehr den Wald betreten, wenn er nicht mit Waffen dazu "
+"gezwungen wird."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:174
 msgid "What happened? Why did people stop coming here?"
-msgstr ""
+msgstr "Was ist passiert? Warum kommt niemand hier her?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:178
-#, fuzzy
 msgid ""
 "The fact is that few people entered this forest and returned home safe. I am "
 "not sure but most likely, this forest is full of elvish renegades."
 msgstr ""
-"Sicher ist zumindest, dass die Leute, die den Wald betreten haben, heil "
-"wieder herausgekommen sind. Wahrscheinlich lebt nur eine Schar von Elfen in "
-"diesem Wald."
+"Sicher ist zumindest, dass nur wenige, die den Wald betreten haben, heil "
+"wieder herausgekommen sind. Ich bin mir nicht Sicher, aber wahrscheinlich "
+"lebt nur eine Schar von Elfen in diesem Wald."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:182
-#, fuzzy
 msgid ""
 "What would elves be doing so far into orcish territory? Anyway, we need some "
 "rest. We are sufficiently armed to cope with a bunch of elvish poachers. If "
 "we ever meet some, we'll cut them to pieces."
 msgstr ""
-"Wir sind stark genug, um es mit einer Bande von Elfen aufzunehmen. Falls wir "
-"wirklich auf sie stoßen sollten, werde ich sie mit Freude im Fluss ersäufen."
+"Was sollen Elfen so tief in orkischem Territorium zu suchen haben? Die "
+"Truppe braucht eine kleine Erholungspause. Wir sind stark genug, um es mit "
+"einer Bande von Elfen aufzunehmen. Falls wir wirklich auf sie stoßen "
+"sollten, werden wir sie in Stücke schneiden."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:196
 msgid "Elves! You were right Pirk, this place is infested with elves."
-msgstr ""
+msgstr "Elfen! Du hattest Recht Pirk. Dieser Ort ist Elfenverseucht."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:201
 msgid "Blast it, the orcs have discovered us."
-msgstr ""
+msgstr "Mist, die Orks haben uns entdeckt."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:206
 msgid "What is your purpose for trespassing on orcish territory?"
-msgstr ""
+msgstr "Was ist der Grund für das unrechtmäßige Betreten von Orkterritorium?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:211
 msgid "Fool, do you really think we are going to tell you?"
-msgstr ""
+msgstr "Idiot, Denkst du wirklich wir würden dir darauf antworten?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:216
 msgid ""
 "Pah, men, capture one of these elves and interrogate him. I am sure that "
 "will get us some answers."
 msgstr ""
+"Püh! Männer, fangt einen dieser Elfen und quetscht ihn aus. Ich bin mir "
+"sicher, das uns das ein paar Antworten bringt."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:229
 msgid "Ok buddy, we want some answers."
-msgstr ""
+msgstr "Okay, Kumpel. Fang an zu singen! Wir wollen ein paar Antworten hören."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:234
 msgid "You might as well go ahead and kill me, I'm not telling you anything."
-msgstr ""
+msgstr "Ihr könnt mich meinetwegen töten. Von mir erfahrt ihr garnichts!"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:239
 msgid "Very well then..."
-msgstr ""
+msgstr "Na gut dann..."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:244
 msgid " *some time later*"
-msgstr ""
+msgstr " *einige Zeit später*"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:249
 msgid "So you elves have set up an enclave here have you. Why is that?"
 msgstr ""
+"Also habt ihr Elfen hier einen Aussenposten errichtet, oder? Warum das?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:254
 msgid ""
@@ -2640,66 +2663,84 @@ msgid ""
 "planning a major assault on you people and if we would assist them they "
 "would give us a large chunk of your territory once the battle was over."
 msgstr ""
+"Nagut nagut. Wir haben vor einiger Zeit eine Vereinbahrung mit den Menschen "
+"abgeschlossen. Sie planten einen Großangriff auf euch und fragten uns, ob "
+"wir ihnen dabei helfen könnten. Sie versprachen uns dafür, im Falle eines "
+"Sieges, einen großen Teil eures Gebietes abzugeben."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:259
 msgid ""
 "Why would you elves want more territory. You guyz already have the "
 "undisputed rule of the whole elvish forest."
 msgstr ""
+"Warum braucht ihr Elfen noch mehr Ländereien? Ihr habt doch schon das "
+"unangefochtene Recht an dem ganzen Wald der Elfen."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:264
 msgid ""
 "Yes, but our prince has been banished from those lands because of "
 "collaborating with humans. He now seeks to carve out an empire for himself."
 msgstr ""
+"Ja, aber unser Prinz wurde von seinen Ländereien verbannt, weil er mit den "
+"Menschen gemeinsame Sache gemacht hat. Er will jetzt versuchen, sich ein "
+"eigenes Königreich aufzubauen."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:269
 msgid ""
 "Hmmm, interesting. So you set up a base here to launch your attacks on us. "
 "Is that right?"
 msgstr ""
+"Hmmm, interessant. Also habt ihr ein Lager hier errichtet, um besser "
+"Angriffe gegen uns zu führen. Ist das so richtig?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:274
 msgid "Yes, that is correct."
-msgstr ""
+msgstr "Ja, das ist Korrekt."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:279
 msgid ""
 "Well folks, it looks like we have our work cut out for us. We must destroy "
 "this enclave."
 msgstr ""
+"Nun, Leute. Es scheint so, als ob sich die zu bewältigende Arbeit gerade vor "
+"uns aufgetan hat. Wir müssen diesen Aussenposten zerstören."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:284
 msgid "With pleasure. But what should I do with this guy?"
-msgstr ""
+msgstr "Mit Vergnügen. Aber was sollen wir mit dem hier jetzt machen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:289
 msgid "Behead him."
-msgstr ""
+msgstr "Rübe ab."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:294
 msgid "Ahhhhh!"
-msgstr ""
+msgstr "Ahhhhh!"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:305
 msgid ""
 "Good work men, we've done it! Now we don't have to worry about these elves "
 "attacking us. Let's get some rest and continue our journey."
 msgstr ""
+"Gute Arbeit Männer! Wir haben es geschafft. Jetzt brauchen wir uns keine "
+"Sorgen mehr über angreifende Elfen zu machen. Lasst uns hier etwas verweilen "
+"um uns auszuruhen, um dann unseren Weg fortzusetzen."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:318
 msgid ""
 "Ahhh! Hurry, somebody go tell the prince that I have been slain  and the "
 "encave has been destroyed."
 msgstr ""
+"Ahhhgh! Schnell, einer muss dem Prinz berichten, das ich besiegt wurde und "
+"das der Aussenposten zerstört wurde."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:331
 msgid "As you command my lady."
-msgstr ""
+msgstr "Wie ihr befiehlt Milady."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:4
 msgid "Epiloge"
-msgstr ""
+msgstr "Epilog- Abspann"
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:98
 msgid ""
@@ -2753,10 +2794,14 @@ msgid ""
 "and swift troll soon became even more well known then Kapou'e himself. Tales "
 "of his courage, bravery and cunning reached as far as Wesnoth itself."
 msgstr ""
+"Grüü war es, der ganz besonders große Freude daran hatte diese Ausflüge zu "
+"begleiten. Der riesige, listige und schnelle Troll wurde im laufe der Zeit "
+"sogar bekannter als Kapou'e selbst. Geschichten von seinem Mut, Tapferkeit "
+"und Gerissenheit waren bis ins ferne Wesnoth zu hören."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:4
 msgid "The Human Army"
-msgstr ""
+msgstr "Die Armee der Menschen"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:25
 msgid "Defeat Lanbec'h"
@@ -2771,22 +2816,30 @@ msgid ""
 "Refusing to yield to fear, Kapou'e rallied his warriors in preparation for "
 "the upcoming battle."
 msgstr ""
+"Kapou'e trieb seine Truppe in unglablichem Tempo an, um für den kommenden "
+"Kampf vorbereitet zu sein und um seinen Kriegern keine Zeit zu geben über "
+"das Kommende nachzudenken, um zu verhindern das jemand Angst bekommt."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:72
 msgid ""
 "He was not disappointed. A few days later the main body of the human army "
 "arrived."
 msgstr ""
+"Er wurde nicht entteuscht. Ein paar Tage später traf der Großteil der Armee "
+"der Menschen ein."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:94
 msgid "So this is the bold orc who has dared kill my son-in-law."
 msgstr ""
+"So, das ist also der mutige Ork, der es wagte meinen Schwiegersohn zu töten."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:98
 msgid ""
 "And this is that stupid human who dares march against Kapou'e - Son of the "
 "Black Eye!"
 msgstr ""
+"Und das ist der dumme Mensch, der es wagt gegen Kapou'e - Sohn des "
+"Schwarzauges zu kämpfen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:102
 msgid "The battle begun."
@@ -2797,96 +2850,113 @@ msgid ""
 "As Kapou'e saw the hardened troops pour out of the human camp, he began to "
 "have second thoughts."
 msgstr ""
+"Als Kapou'e sah, wie die verbesserten Truppen aus dem Fort der Menschen "
+"kamen, stiegen langsam in ihm Zweifel auf."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:117
 msgid "Geez, that is a lot of troops. I am not sure if we can handle them."
 msgstr ""
+"Meinefresse. Das ist eine Riesenarmee. Ich bin mir nicht sicher, ob wir mit "
+"denen Fertig werden können."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:122
 msgid "I told you so!"
-msgstr ""
+msgstr "Das sagte ich euch doch!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:127
 msgid ""
 "Alright, I have learned my lesson. I will no longer ignore the advice of my "
 "supporters. But what should we do now?"
 msgstr ""
+"Na gut. Ich habe meine Lektion gelernt. Ich werde ab sofort nicht mehr die "
+"Hinweise meiner Berater ignorieren. Aber was sollen wir jetzt machen?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:133
 msgid "We must flee! There is no way we can stand up against such a force."
 msgstr ""
+"Wir müssen fliehen! Es gibt keine Möglichkeit gegen so eine große "
+"Streitmacht zu bestehen, geschweige denn zu siegen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:138
 msgid ""
 "The Son of the Black Eye will never 'flee'. But making a 'strategic "
 "withdrawal' is another matter."
 msgstr ""
+"Der Sohn des Schwarzauges wird niemals 'Fliehen'. Aber ein 'strategischer "
+"Rückzug' scheint nicht verkehrt zu sein. "
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:143
-#, fuzzy
 msgid ""
 "My father often spoke of of the shamans of the Great Council who life in "
 "Brag Gor in the lands of the free tribes. We shall go pledge them for "
 "assistance."
 msgstr ""
-"Wir müssen unser Volk an einen sicheren Ort führen und den Großen Rat um "
-"Hilfe ersuchen. Einige der Ratsmitglieder leben in Barag Gór im Land der "
-"Freien Stämme. Wir müssen aufbrechen. Rasch!"
+"Mein Vater sprach häufig von den Schamanen des großen Rates, die in Barag "
+"Gór im Land der Freien Stämme leben. Wir sollten sie besuchen, und sie um "
+"ihre Hilfe bitten."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:148
 msgid ""
 "With their help perhaps we can unite the orcish tribes and crush these "
 "humans."
 msgstr ""
+"Mit ihrer Hilfe können wir vielleicht die orkischen Völker wieder vereinen "
+"und die Menschen in Grund und Boden stampfen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:168
 msgid " $name.user_description!"
-msgstr ""
+msgstr " $name.user_description!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:173
 msgid "Yeah Chief?"
-msgstr ""
+msgstr "Wirklich Häuptling?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:178
 msgid ""
 "You go and gather up our people and assemble them on the road some distance "
 "north of here. We will hold back the humans here until you are finished."
 msgstr ""
+"Du gehst los, und sammelst unsere Truppe zusammen, die sich Nördlich von "
+"hier Irgendwo auf den Weg befindet. Wir halten solange die Stellung gegen "
+"den Angriff der Menschen, bis du wieder zurück gekommen bist."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:183
 msgid "Ok."
-msgstr ""
+msgstr "Ok."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:193
 msgid "Resist until your people are ready to go"
-msgstr ""
+msgstr "Überlebe bis deine Leute bereit sind zu gehen"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:232
 msgid "Chief, we have all our people ready to go. Come on, this way."
 msgstr ""
+"Häuptling! Unsere Leute sind nun bereit zu gehen. Kommt her, hier lang."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:237
 msgid "Took you long enough. Let's go!"
-msgstr ""
+msgstr "Das hat aber auch lange genug gedauert. Aufgehts!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:243
-#, fuzzy
 msgid "Move Kapou'e to the signpost in the Northeast"
-msgstr "Führt Kapou'e zum Ende des Gebirges"
+msgstr "Führt Kapou'e zum Wegweiser im Nordosten"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:277
 msgid "We'll be back you foul humans!"
-msgstr ""
+msgstr "Wir kommen wieder ihr stinkenden Menschen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:282
 msgid "Ha ha! Run you cowardly orcs! This land now belongs to humans!"
 msgstr ""
+"Ha ha! Lauft nur, ihr feigen Orks! Dieses Gebiet gehört nun den Menschen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:287
 msgid ""
 "In your dreams buddy. When the time comes you will pay for all this with "
 "your life!"
 msgstr ""
+"Aber nur im Traum, Kumpel. Wenn die Zeit reif ist, werdet Ihr mit eurem "
+"Leben dafür bezahlen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:4
 msgid "The Siege Of Barag Gór"
@@ -2906,35 +2976,40 @@ msgstr "Rugh"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:137
 msgid "Hida'tul"
-msgstr ""
+msgstr "Hida'tul"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:173
 msgid "Ammon"
-msgstr ""
+msgstr "Ammon"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:209
 msgid "Sammual"
-msgstr ""
+msgstr "Sammual"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:331
 msgid ""
 "When the party finally reached Barag Gór, they were met with a most "
 "startling sight."
 msgstr ""
+"Als die Gruppe endlich Barag Gor erreichte, eröffnete sich ihnen ein "
+"unglaublich schlimmer Anblick."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:336
 msgid ""
 "What the...! Barag Gór is being besieged by elves. I knew the elves were "
 "always jealous of us but what reason do they have to attack us like this!"
 msgstr ""
+"Was zum...! Barag Gor wurde von den Elfen überrannt. Ich wusste ja, das die "
+"Elfen schon immer ein bisschen neidisch auf uns waren, aber was für einen "
+"Grund hatten sie um soetwas anzurichten?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:340
 msgid "What can you expect chief, they're elves after all."
-msgstr ""
+msgstr "Häuptling, was habt ihr erwartet? Es sind eben nur Elfen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:344
 msgid "Hmmm, $name.user_description go find out what they are up to."
-msgstr ""
+msgstr "Hmmm, $name.user_description finde heraus was sie im Schilde führen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:350
 msgid "Sure."
@@ -2944,43 +3019,56 @@ msgstr "Aber sicher."
 msgid ""
 "One more step and you are dead flea-bag. Better run if you value your life."
 msgstr ""
+"Einen Schritt weiter, und du bist Tod, Flohbeutel. Flieh, wenn dir dein "
+"Leben lieb ist."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:393
 msgid ""
 "Quit your boasting little elf. The chief want's to know why you are here "
 "instead of cowering in your dinky little forests."
 msgstr ""
+"Na, nun übertreib mal nicht, Elfchen. Mein Häuptling will blos wissen warum "
+"ihr euch hier herumtreibt, statt euch in euren Wäldchen hinter Büschen zu "
+"verstecken."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:398
 msgid ""
 "Watch your mouth around your betters goblin! And you can tell your chief "
 "that hand the shamans over to us if he wants to be alive by sundown."
 msgstr ""
+"Pass besser auf was du sagst, Goblin! Teile deinem Häuptling mit, dass er "
+"uns die Schamanen übergeben soll, wenn er den Sonnenuntergang noch erleben "
+"möchte."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:403
 msgid "What business to you 'high and mighty' elves have with our shamans?"
 msgstr ""
+"Was haben denn die 'hochherrsschaftlichen Elfen' mit unseren Schamanen vor?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:408
 msgid "Our business with them is none of your concern."
-msgstr ""
+msgstr "Unsere Geschäftsbeziehung mit ihnen, geht euch garnichts an."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:413
 msgid ""
 "Oh yes it is. The shamans are an important part of our society. If you want "
 "us to hand them over you better tell us what you want with them."
 msgstr ""
+"Oh doch, das tut es! Die Schamanen sind ein wichtiger Teil unserer "
+"Gesellschaft. Wenn ihr wollt, das wir sie euch überlassen, dann solltet ihr "
+"uns schon sagen, was ihr mit ihnen wollt."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:419
 msgid "Well... the humans want to.... meet with them."
-msgstr ""
+msgstr "Nun....die Menschen würden gerne mal..... sich mit ihnen unterhalten."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:424
 msgid "Oh, so they paid you to come and get them have they?"
 msgstr ""
+"Oh, verstehe. Also haben sie euch etwas bezahlt, damit ihr die Schamanen für "
+"sie holt, oder?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:429
-#, fuzzy
 msgid "Well..."
 msgstr "Also, ähem..."
 
@@ -2988,28 +3076,32 @@ msgstr "Also, ähem..."
 msgid ""
 "So the 'great and mighty' elves are now nothing but a bunch of mercenaries."
 msgstr ""
+"Also, macht das die 'großen und mächtigen' Elfen nun zu nichts weiter als "
+"einem Haufen von Söldnern, die für Geld alles tun."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:439
 msgid "KILL HIM!!!"
-msgstr ""
+msgstr "TÖTET IHN!!!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:458
 msgid "Hahahahaha! If you can!"
-msgstr ""
+msgstr "Hahahahaha! Wenn ihr könntet!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:493
 msgid "Blast it, he got away."
-msgstr ""
+msgstr "Mist, er ist entkommen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:503
 msgid "So, what news do you bring $name.user_description?"
-msgstr ""
+msgstr "Also, $name.user_description was gibt es für Neuigkeiten?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:508
 msgid ""
 "The elves have been bribed by the humans to capture and deliver the shamans "
 "to them."
 msgstr ""
+"Die Elfen wurden von den Menschen bestochen, um die Schamanen zu fangen und "
+"den Menschen auszuliefern."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:513
 msgid ""
@@ -3017,6 +3109,9 @@ msgid ""
 "can call upon the Great Horde. If they are captured the then all the orcs on "
 "this continent would surely be doomed."
 msgstr ""
+"Nur über meine Leiche! Die Schamanen des großen Rates sind die einzigen, die "
+"die große Horde zusammenrufen kann. Wenn sie gefangen genommen würden, wären "
+"alle Orks dieses Kontinents garantiert verloren."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:518
 msgid "I have a subtle plan, chief."
@@ -3055,71 +3150,88 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:577
 msgid "Jetto, how did you get captured by the likes of these?"
-msgstr ""
+msgstr "Jetto, wie hast du es geschafft dich von denen fangen zu lassen?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:582
 msgid ""
 "The Barag Gór council sent to assassinate the elvish leaders. Unfortunately "
 "I was captured. But not anymore! Those filthy elves shall feel my wrath!"
 msgstr ""
+"Der Rat von Barag Gor sandte uns aus, um die Anführer der Elfen zu ermorden. "
+"Dummerweise wurde ich dabei geschnappt. Doch jetzt bin ich wieder frei und "
+"die stinkenden Elfen sollen meine Rache dafür zu spüren bekommen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:600
 msgid "Hurrah! Reinforcements at last!"
-msgstr ""
+msgstr "Hurra! Endlich Verstärkungen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:605
 msgid ""
 "That's right! Now let's finish driving those filthy elves back into their "
 "forests!"
 msgstr ""
+"Das ist Wahr! Nun lasst uns gemeinsam diese schmutzigen Elfen wieder zurück "
+"in ihren Wald jagen!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:615
 msgid "At last! The siege has been broken."
-msgstr ""
+msgstr "Nun Endlich! Die Belagerung wurde aufgebrochen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:620
 msgid ""
 "Thank you Son of the Black Eye. If you hadn't arrived when you did, I don't "
 "know what would be our fate."
 msgstr ""
+"Habt Dank, Sohn des Schwarzauges. Wenn Ihr etwas später erschienen währt, "
+"dann weiß ich nicht, was unser Schicksal gewesen wäre."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:625
 msgid "No problem! It was fun wasn't it Grüü?"
-msgstr ""
+msgstr "Kein Problem! Es hat Spass gemacht, oder Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:630
 msgid "Hahaha! Yeah!"
-msgstr ""
+msgstr "Hahaha! Jawoll!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:635
 msgid "But actually we have come all the way from our lands to seek your help."
 msgstr ""
+"Aber in Wirklichkeit, sind wir den ganzen Weg von unserer Heimat gekommen, "
+"um euch um Hilfe zu bitten."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:640
 msgid "Why? What's wrong?"
-msgstr ""
+msgstr "Warum? Was ist los?"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:645
 msgid ""
 "Those insolent humans have massed in a huge army and attacked us. We "
 "defeated their vanguard but in the end we were forced to retreat."
 msgstr ""
+"Diese unsäglichen Menschen haben eine riesige Armee zusammengebracht, um uns "
+"anzugreifen. Wir haben ihren ersten Ansturm zurückdrängen können, waren dann "
+"aber doch gezwungen uns selbst zurückzuziehen."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:650
 msgid ""
 "Hmmmm, this situation is very serious. As you know by now they have also "
 "hired these elves to attack us here."
 msgstr ""
+"Hmmm, die Situation scheint wirklich ernst zu sein. Wie Ihr vielleicht schon "
+"mitbekommen habt, haben sie diese Elfen bezahlt, um uns hier anzugreifen. "
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:655
 msgid "Yes. It seems to me that the humans are declaring all out war on us."
 msgstr ""
+"Ja, es scheint so, als ob die Menschen uns alle den Krieg erklärt hätten."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:660
 msgid ""
 "We must give this matter careful consideration. Come inside the city and "
 "we'll discuss it."
 msgstr ""
+"Wir müssen darüber gut nachdenken. Kommt in die Stadt und wir werden das "
+"ausdikutieren."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:4
 msgid "To the harbour of Tirigaz"
@@ -3144,6 +3256,11 @@ msgid ""
 "deal with this massive human uprising. However, in order to do that the "
 "entire Great Council must gather."
 msgstr ""
+"Bei einer Rast von drei Tagen besprach Kapou'e dieses Thema mit den "
+"Schamanen. Es wurde daraufhin beschlossen das es besser währe, wenn die "
+"große Horde wieder zusammengerufen würde, um dem wachsenden menschlichen "
+"Ansturm wiederstehen zu können. Um das zu tun, muss allerdings der große Rat "
+"zusammenkommen und darüber entscheiden."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:209
 msgid ""
@@ -3152,17 +3269,26 @@ msgid ""
 "escort the shamans to the Harbor of Tirigaz where the rest of the council "
 "was residing."
 msgstr ""
+"Da es jetzt offensichtlich wurde, dass die Menschen ihr bestes geben würden, "
+"um das durch Entführung oder Exekution der Schamanen zu verhindern, wurde "
+"Kapou'e befohlen die Schamanen auf ihrer Reise zum Hafen von Tirigaz, wo der "
+"Rest des Rates seinen Sitz hat, zu begleiten und zu beschützen."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:214
 msgid ""
 "Leaving most of his people at Barag Gór, Kapou'e, accompinied by the shamans "
 "and his warriors set off to Tirigaz."
 msgstr ""
+"Die meisten seiner Truppe zurücklassend in Barag Gor, setzte sich Kapou'e in "
+"Begleitung von den Schamanen und seinen Kriegern in Richtung Tirigaz in "
+"Bewegung."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:286
 msgid ""
 "A couple of days into their journey, the party halted to rest for the night."
 msgstr ""
+"Ein paar Tage nachdem sie ihre Reise begonnen haben, hielt die Gruppe an, um "
+"diese Nacht eine Pause einzulegen."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:291
 msgid "Ahhh, I'm so tired. It was a good idea to halt in such a quiet place."
@@ -3192,11 +3318,11 @@ msgstr "Haha. Grüüs Keule kriegen was zu tun."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:313
 msgid "Uh... I don't think so. Let's get out of here!"
-msgstr ""
+msgstr "Oh... das denke ich nicht. Lasst uns von hier verschwinden!"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:318
 msgid "No way! Grüü want to crush some undead."
-msgstr ""
+msgstr "Niemals! Grüü will ein paar Untote zertrümmern."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:323
 msgid ""
@@ -3205,6 +3331,12 @@ msgid ""
 "of turmoil, we don't know what lies ahead, so it is best not to leave any "
 "threats in our rear."
 msgstr ""
+"Grüü hat Recht. Es ist keine gute Idee, diese Untoten hier ungestört zu "
+"lassen. Sie könnten uns den Rückweg und unsere Versorgung abschneiden. In "
+"diesen verrückten Zeiten, in denen alles drunter und drüber geht, wissen wir "
+"nicht was noch alles vor uns liegt. Deshalb wäre es besser, wenn wir dafür "
+"sorgen könnten, dass uns nicht noch zusätzliche Gefahren in den Rücken "
+"fallen."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:328
 msgid "But..."
@@ -3215,10 +3347,13 @@ msgid ""
 "Hush Vraurk, We must trust the Son of the Black Eye in these matters for he "
 "is far more versed in them then we are."
 msgstr ""
+"Schweig still Vraurk. Wir sollten dem Sohn von Schwarzauge Karun in diesem "
+"Fall vertrauen, da er sich auf solcherlei Handwerk viel besser versteht, als "
+"wir das tun."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:338
 msgid "That's right, lets go!"
-msgstr ""
+msgstr "Das stimmt. Dann Los!"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:353
 msgid "Hmmm, what neat bottle! What is it?"
@@ -3275,60 +3410,70 @@ msgid "Blemaker"
 msgstr "Blemaker"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:137
-#, fuzzy
 msgid ""
 "Alright, we have almost crossed the mountains. The lands of the free tribes "
 "must be near now. So far so good. Hey, what are those signs there?"
 msgstr ""
-"Wir haben das Gebirge fast durchquert. Ich spüre, dass das Land der Freien "
-"Stämme nahe ist. Aber hütet euch, denn Zwerge und wilde Trolle sind um uns. "
-"Eilen wir uns. Ich kann das Zeichen, welches ihr Gebiet kennzeichnet, "
-"bereits sehen."
+"Wir haben das Gebirge fast durchquert. Ich spüre, dass das Gebiet der Freien "
+"Stämme nahe ist. So weit, so gut. Hey, was haben diese Zeichen dort zu "
+"bedeuten?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:141
-#, fuzzy
 msgid "Halt! Who goes there?"
-msgstr "Gut! Wann sie wollen kommen?"
+msgstr "Halt! Wer ist da?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:146
 msgid "It is I Kapou'e, Son of the Black eye. What do you want dwarf?"
-msgstr ""
+msgstr "Ich bin Kapou'e, Sohn des Schwarzauge. Was wollt ihr, Zwerg?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:151
 msgid ""
 "Oh, so it's another group of foul orcs eh. Begone or we shall stain our axes "
 "with your blood."
 msgstr ""
+"Ach, schon wieder eine Gruppe von stinkenden Orks. Verschwindet, oder wird "
+"müssen unsere Äxte mit eurem Blut beschmutzen."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:156
 msgid ""
 "Look you little shrimp, we aren't out kill you so why don't you just scamper "
 "away and hide in a cave or something. We'll be through in a few hours."
 msgstr ""
+"Sieh mal, kleiner Wurm, wir sind nicht hergekommen, um jemandem Schaden "
+"zuzufügen. Also warum verkriechst du dich nicht mit deinen Freunden für ein "
+"paar Stunden in einer Höhle und spielt verstecken oder sowas, solange bis "
+"wir hier durchmarschiert sind?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:162
 msgid " *snicker*"
-msgstr ""
+msgstr " *kicher*"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:167
 msgid ""
 "You orcs just think you are so tough don't you? Well we'll show you. "
 "Dwarves, let no orc pass this way alive!"
 msgstr ""
+"Ihr Orks glaubt wohl, das ihr so suuuperschlau seid, oder? Wir werden euch "
+"schon zeigen wo der Hammer hängt! Zwerge, lasst keinen Ork lebend hier "
+"durchkommen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:172
 msgid "Well, it looks like we might have to fight them after all."
-msgstr ""
+msgstr "Nun, es scheint so, als ob wir sowieso gegen sie kämpfen müssen."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:177
 msgid ""
 "Hey chief, I was just thinking - since all dwarves are pretty slow why don't "
 "we just bypass them?"
 msgstr ""
+"Hey Häuptling! Ich habe mir gerade überlegt, da die Zwerge ziemlich langsam "
+"zu Fuß sind, könnten wir doch einfach an ihnen Vorbeiziehen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:182
 msgid "I mean, we could defeat them easily but it would just slow us down."
 msgstr ""
+"Ich meine, wir könnten sie natürlich leicht besiegen, aber das würde uns nur "
+"unnötig aufhalten."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:187
 msgid ""
@@ -3336,12 +3481,17 @@ msgid ""
 "opportunity to uh... 'collect taxes' from the locals. I am sure the gold "
 "would be useful in the future."
 msgstr ""
+"Könnten wir. Aber wenn wir sie besiegen, dann hätten wir die Möglichkeit um "
+"ähh.. 'Steuern' von den Einheimischen zu verlangen. Ich bin mir sicher, das "
+"wir das Gold irgendwann in der Zukunft gut gebrauchen können."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:192
 msgid ""
 "Anyhow, whatever else happens, we have to pass through these mountains. "
 "Let's get to it people."
 msgstr ""
+"Egal, was auch immer passiert, wir müssen diese Berge überqueren. Auf gehts "
+"Leute!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:208
 msgid ""
@@ -3414,13 +3564,12 @@ msgstr ""
 "können sterben hier."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:343
-#, fuzzy
 msgid ""
 "Our troll friends are done. We will desperately need their help in the "
 "coming battles. Without them there is no hope."
 msgstr ""
-"Jetzt, wo wir unsere Verbündeten verloren haben, können wir den Sieg nicht "
-"mehr erringen."
+"Jetzt, wo wir unsere Verbündeten Trolle verloren haben, können wir den Sieg "
+"nicht mehr erringen."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:357
 msgid "Argh! I die!"
@@ -3434,14 +3583,19 @@ msgid ""
 "still alive. The main body along with myself shall continue on to Barag Gor. "
 "Catch up to us when your task is completed."
 msgstr ""
+"Ich hatte euch gewarnt, Zwerg. Reiter, verteilt euch in diesem Gebiet und "
+"kassiert Steuern von jedem dieser Häuser. Wenn sich jemand weigert zu "
+"bezahlen, dann lasst ihn wissen, das es nur der Großzügigkeit von mir zu "
+"verdanken ist, dass sie noch am Leben sind. Der Großteil der Truppe wird "
+"mich auf meinem Weg nach Barag Gor begleiten. Ihr könnt uns einholen, wenn "
+"ihr hiermit fertig seid."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:377
 msgid "Sounds like fun. Alright boys, lets go!"
-msgstr ""
+msgstr "Hört sich nach einem Haufen Spass an. Alles Klar Jungs. Auf gehts!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:439
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:462
-#, fuzzy
 msgid ""
 "We've succeeded! We've passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
@@ -3452,7 +3606,6 @@ msgstr ""
 "Horizont kann man bereits die Zinnen von Barag Gór erkennen."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:443
-#, fuzzy
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you like to join us "
 "in our journey with your son? Your help would be very appreciated!"
@@ -3480,7 +3633,6 @@ msgid "Thanks, father. Don't worry, I'll take care of myself."
 msgstr "Vater nicht braucht machen Sorgen. Grüü schon werden nix passieren."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:466
-#, fuzzy
 msgid ""
 "Grüü, many thanks for your help in this fight. I'm sorry for your father. "
 "Would you like to join us in our journey? Your help would be very "
@@ -3700,7 +3852,7 @@ msgstr "Ballista"
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:48
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:64
 msgid "Ouch! This hurts!"
-msgstr "Ouch! Diese Schmerzen!"
+msgstr "Autsch! Diese Schmerzen!"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:20
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:36
@@ -3711,16 +3863,15 @@ msgstr "Der Rat wird niemals wieder vollständig sein. Es war alles vergebens."
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:104
 msgid "Ahhh!"
-msgstr ""
+msgstr "Ahhh!"
 
 #: Son_Of_The_Black_Eye/utils/deaths.cfg:109
-#, fuzzy
 msgid ""
 "Blast it, without Inarix to lead his saurians, we can no longer count on "
 "their help."
 msgstr ""
-"Ohne Inarix haben die Saurianer ihren Anführer und wir unsere Hoffnung "
-"verloren."
+"Vergesst es! Ohne Inarix haben die Saurianer ihren Anführer verloren und wir "
+"können nicht mehr auf ihre Hilfe zählen."
 
 #: Son_Of_The_Black_Eye/utils/utils.cfg:193
 msgid "Pirate Galleon"
@@ -3839,7 +3990,7 @@ msgstr "Galleone der Piraten"
 #~ msgstr ""
 #~ "Wir waren dieses mal siegreich, aber die Menschen haben eine große Armee "
 #~ "aufgestellt. Wir haben nur eine Vorhut vernichtet, aber sie werden in "
-#~ "Scharen wiederkommen."
+#~ "Schaaren wiederkommen."
 
 #~ msgid "Death of more than 5 saurians"
 #~ msgstr "Mehr als fünf Saurianer fallen in der Schlacht"
@@ -3856,7 +4007,7 @@ msgstr "Galleone der Piraten"
 #~ "Wir haben keine andere Wahl, als uns zu ergeben."
 
 #~ msgid "Chase all elves from the western bank of river Bork"
-#~ msgstr "Tötet alle Elfen des Stillen Waldes"
+#~ msgstr "Verfolge alle Elfen auf dem Westufer des Flusses Bork "
 
 #~ msgid ""
 #~ "So here is the Silent Forest ... why is it named that way? Is it really "
@@ -3907,13 +4058,13 @@ msgstr "Galleone der Piraten"
 #~ "Hilfe eilen. Aber dieses dreckige Pack hat viele Truppen."
 
 #~ msgid "They are retreating at last!"
-#~ msgstr "Sie ziehen sich zurück."
+#~ msgstr "Sie ziehen sich zurück!"
 
 #~ msgid ""
 #~ "We're not out of the woods yet. I can see that more are pouring from the "
 #~ "forest. We are not yet safe."
 #~ msgstr ""
-#~ "Noch ist es nicht vorbei. Seht dort am Waldrand. Die Elfen sammeln sich "
+#~ "Noch ist es nicht vorbei. Seht, dort am Waldrand. Die Elfen sammeln sich "
 #~ "erneut. Wir sind noch nicht in Sicherheit."
 
 #~ msgid ""
@@ -3937,17 +4088,17 @@ msgstr "Galleone der Piraten"
 #~ "führt."
 
 #~ msgid "Bring the Shamans and then Kapou'e to the signpost"
-#~ msgstr "Bringt die Schamanen und Kapou'e zum Hinweisschild"
+#~ msgstr "Bringt die Schamanen und Kapou'e zum Wegweiser"
 
 #~ msgid ""
 #~ "We're safe, finally. Hurry up Kapou'e, come with us, we need to reach "
 #~ "Tirigaz as soon as possible."
 #~ msgstr ""
-#~ "Wir sind für's erste in Sicherheit. Beeilt euch, Kapou'e. Wir müssen "
+#~ "Wir sind für's Erste in Sicherheit. Beeilt euch, Kapou'e. Wir müssen "
 #~ "Tirigaz so schnell wie möglich erreichen."
 
 #~ msgid "Bring Kapou'e to the signpost"
-#~ msgstr "Bringt Kapou'e zum Hinweisschild"
+#~ msgstr "Bringt Kapou'e zum Wegweiser"
 
 #~ msgid "Filiel"
 #~ msgstr "Filiel"
@@ -3959,17 +4110,17 @@ msgstr "Galleone der Piraten"
 
 #~ msgid "We've made it! Our journey is still long. Hurry up, my people!"
 #~ msgstr ""
-#~ "Wir haben es geschafft. Aber es bleibt keine Zeit zum ausruhen. Der Weg "
+#~ "Wir haben es geschafft! Aber es bleibt keine Zeit zum Ausruhen. Der Weg "
 #~ "ist noch weit."
 
 #~ msgid "They are destroying our castle! To my rescue my merry Elves!"
-#~ msgstr "Sie greifen unsere Burg an! An meine Seite, Krieger!"
+#~ msgstr "Sie zerstören unsere Burg! An meine Seite, Krieger!"
 
 #~ msgid ""
 #~ "At your service, Etheliel. Let us push these evil creatures back to their "
 #~ "quag!"
 #~ msgstr ""
-#~ "Wir ihr befehlt, Etheliel. Wir werden diese Kreaturen dahin zurück "
+#~ "Wie ihr befehlt, Etheliel. Wir werden diese Kreaturen dahin zurück "
 #~ "treiben, wo sie hergekommen sind!"
 
 #~ msgid "What are these orcs doing here? They should be too tired to live."
