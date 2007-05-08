@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2007-04-15 13:15+0200\n"
+"PO-Revision-Date: 2007-05-08 13:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -2702,12 +2702,11 @@ msgstr "Ha ha! Løb i kujoner! Dette land tilhører nu mennesket!"
 msgid ""
 "In your dreams buddy. When the time comes you will pay for all this with "
 "your life!"
-msgstr ""
+msgstr "I dine drømme. Når tiden kommer skal du betale for dette med dit liv!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:4
-#, fuzzy
 msgid "The Siege Of Barag Gór"
-msgstr "Bryd belejringen af Barag Gor"
+msgstr "Belejringen af Barag Gór"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:26
 msgid "Break the Siege of Barag Gor"
@@ -2737,13 +2736,15 @@ msgstr "Sammual"
 msgid ""
 "When the party finally reached Barag Gór, they were met with a most "
 "startling sight."
-msgstr ""
+msgstr "Da følgeskabet endelig nåede Barag Gór, blev de udsat for et chok."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:336
 msgid ""
 "What the...! Barag Gór is being besieged by elves. I knew the elves were "
 "always jealous of us but what reason do they have to attack us like this!"
 msgstr ""
+"Hvad i alverden...! Barag Gór er belejret af elver. Jeg vidste at elverne "
+"var jaloux på os, men hvilken grund har de til at angribe os sådan!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:340
 msgid "What can you expect chief, they're elves after all."
@@ -2866,6 +2867,7 @@ msgstr "..."
 msgid ""
 "Then, Kapou'e launched his desperate attack to stop the siege of Barag Gór."
 msgstr ""
+"Kapou'e startede sit desperate angreb for at bryde belejringen af Barag Gór."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:555
 msgid "Jetto"
@@ -2998,6 +3000,8 @@ msgid ""
 "Leaving most of his people at Barag Gór, Kapou'e, accompinied by the shamans "
 "and his warriors set off to Tirigaz."
 msgstr ""
+"Efterladende de fleste af sit folk ved Barag Gór tog Kapou'e sammen med "
+"shamanerne og sine krigere mod Tirigaz."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:286
 msgid ""
@@ -3044,6 +3048,10 @@ msgid ""
 "of turmoil, we don't know what lies ahead, so it is best not to leave any "
 "threats in our rear."
 msgstr ""
+"Grüü har ret venner. Det er ikke klogt at efterlade disse udøde her til at "
+"afbryde vores forsyningslinjer og mulighed for tilbagetrækning. I disse "
+"urolige tider, ved vi ikke hvad der venter, så det er bedst ikke at "
+"efterlade en trussel i ryggen."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:328
 msgid "But..."
