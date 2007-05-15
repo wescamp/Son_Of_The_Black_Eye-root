@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2007-05-08 13:15+0200\n"
+"PO-Revision-Date: 2007-05-14 13:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -227,34 +227,36 @@ msgid ""
 "Good, everyone move out. I will stay here and start the attack. I want "
 "everyone to be in position by first watch at the latest. Is that clear?"
 msgstr ""
+"Godt, alle tager af sted. Jeg bliver her og starter angrebet. Jeg ønsker at "
+"alle skal være i position senest på første vagt. Er det forstået?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:290
 msgid "Yeah sure."
-msgstr ""
+msgstr "Ja da."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:295
 msgid "Whatever."
-msgstr ""
+msgstr "Ja ja."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:378
 msgid "I am in position cheif."
-msgstr ""
+msgstr "Jeg er i position chef."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:383
 msgid "Awesome. Now were are the others..."
-msgstr ""
+msgstr "Glimrende. Hvor er de andre..."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:428
 msgid "We made it."
-msgstr ""
+msgstr "Vi nåede det."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:433
 msgid "Good, but where is Grüü?"
-msgstr ""
+msgstr "Godt, men hvor er Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:438
 msgid "Dumb trolls, you can never rely on them."
-msgstr ""
+msgstr "Dumme trolde, du kan aldrig stole på dem."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:490
 msgid "I'm here chief!"
@@ -319,6 +321,8 @@ msgid ""
 "Ok ok, Shan Taum the Smug told us that that's were the shamans were, and "
 "that it was a rally point and weapons depot for you orcs."
 msgstr ""
+"Shan Taum den Selvtilfredse fortalte os hvor shamanere var, og at det var et "
+"opsamlingspunkt og våbendepot for jer orker."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:590
 msgid "Pah, don't try to break the unity of the horde with your stupid lies!"
@@ -330,6 +334,9 @@ msgid ""
 "says all the shamans 'suck up' to him just because his father had a black "
 "eye or something like that."
 msgstr ""
+"Nej det er sandt. Han er jaloux på en ny ung »stjerne« kaldt Kapou'e. Han "
+"siger at alle shamanerne »ser op« ham kun på grund af at hans far havde et "
+"sort øje eller noget i den du'r."
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:600
 msgid ""
@@ -611,6 +618,14 @@ msgid ""
 "Bitok was on the other side of orcish territory, this would also give him a "
 "good chance to clobber the orcs together again - the old fashioned way."
 msgstr ""
+"Kapou'e svor at dette ikke skulle ske. Hele sagen havde en lugt af forræderi "
+"hængende over sig med det formål at ødelægge enheden blandt orkerne. Hvis "
+"der kunne stoles på elven, så stod Shum Taum den Selvtilfredse bag det hele. "
+"Hvad han forventede at opnå ved at ødelægge sin egen race var ikke noget "
+"Kapou'e kunne forstå, men han besluttede sig for at marchere til Bitok for "
+"personligt at konfrontere ham. Da Bitok var på den anden side af orkernes "
+"territorium, ville det også give ham en god chance for at få orkerne samlet "
+"igen - på den gamle måde."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:118
 msgid ""
@@ -1982,13 +1997,15 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:605
 msgid "Agreed. Let's get to it."
-msgstr ""
+msgstr "Enig lad os komme i gang."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:625
 msgid ""
 "Blast! The human has escaped. Men, kill this looser and report back to me. I "
 "must get to my camp and assault the city."
 msgstr ""
+"Forbandet! Menneskene er undsluppet. Mænd dræb denne løse ende og rapporter "
+"tilbage til mig. Jeg må til lejren og angribe byen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:638
 msgid "Shan Taum big coward. Never want to fight."
@@ -2008,6 +2025,8 @@ msgid ""
 "Stick his head at the end of a pike and let the buzzards pick it clean. I "
 "wasn't joking about making a mug from his skull."
 msgstr ""
+"Put hans hovede på enden af en pike og lad kragerne hakke det rent. Det var "
+"ikke for sjov at jeg ville lave hans kranie om et et ølkrus."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:96
 msgid "Saving Inarix"
@@ -2018,10 +2037,12 @@ msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to the fort on River Gork"
 msgstr ""
+"For at kunne rekruttere øgler senere, så flyt Inarix og mindst fire øgler "
+"til vadestedet på floden Gork"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:270
 msgid "Plonk"
-msgstr ""
+msgstr "Smide"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:317
 msgid ""
@@ -2029,10 +2050,13 @@ msgid ""
 "fortified bridge over the Gork river was taken this morning by a small "
 "commando of elves, we have already tried to assault it twice without success."
 msgstr ""
+"Endelig forstærkninger! Hvem i end er så er i velkomne i Prestim! De "
+"befæstede bro over Gorkfloden blev indtaget denne morgen af en lille "
+"kommandogruppe af elver, vi har allerede forsøgt to angreb uden succes."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:321
 msgid "Ah! They are no match against my mace."
-msgstr ""
+msgstr "Ah! De er intet over for min krigskølle."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:325
 msgid ""
@@ -2040,26 +2064,34 @@ msgid ""
 "are still trapped on the other side of the river some miles away. They won't "
 "be able to cross the river."
 msgstr ""
+"Dette er værre, vore spejdere har rapporteret at vores øgleallierede anført "
+"af Inarix stadig er fanget på den anden side af floden nogle kilometer væk. "
+"De vil ikke være i stand til at krydse floden."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:329
 msgid ""
 "Elves and dwarves have joined humans against us and have set up camp nearby. "
 "Humans will arrive soon. We must destroy the southern bridge on the river."
 msgstr ""
+"Elver og dværge har sluttet sig til menneskene mod os og har sat en lejr op "
+"tæt herpå. Menneskene vil snart ankomme. Vi må ødelægge den sydlige bro over "
+"floden."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:333
 msgid ""
 "If Inarix falls prey to those humans then we won't be able to count on their "
 "help in this struggle. We must do something!"
 msgstr ""
+"Hvis Inarix falder til menneskene så vil vi ikke kunne trække på deres hjælp "
+"i kampen. Vi må gøre noget!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:337
 msgid "I know what we must do. Kill elves and help Inarix cross."
-msgstr ""
+msgstr "Jeg ved hvad vi skal gøre. Dræb elverne og hjælp Inarix over floden."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:341
 msgid "It won't be that easy! Our enemies are well entrenched."
-msgstr ""
+msgstr "Det bliver ikke så nemt! Vores fjender er godt befæstet."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:345
 msgid ""
@@ -2067,6 +2099,8 @@ msgid ""
 "crossed. Any warriors trapped on the bridge or on the other side of the "
 "river will perish!"
 msgstr ""
+"Vi vil sabotere den sydlige bro når hovedparten af øglernes hær er ovre. "
+"Alle krigere fanget på broen eller på den anden side af floden vil gå under!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:351
 msgid ""
@@ -2077,7 +2111,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:356
 msgid "Ahhh, it's "
-msgstr ""
+msgstr "Ahhh, det er det "
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:392
 msgid ""
@@ -2087,15 +2121,15 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:417
 msgid "The Saurians are safe chief, should we blow the bridge?"
-msgstr ""
+msgstr "Øglerne er sikre chef, skal vi sprænge broen?"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:422
 msgid "Ah...."
-msgstr ""
+msgstr "Ah...."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:425
 msgid "Let her blow!"
-msgstr ""
+msgstr "Spræng hende!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:441
 msgid "Just wait a sec."
@@ -2103,7 +2137,7 @@ msgstr "Vent lige et sekund."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:446
 msgid "Argh! Hurry up, let's get a move on this!"
-msgstr ""
+msgstr "Argh! Hurtigt, lad os komme i gang!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:451
 msgid "Shut up, I'm in charge here not you!"
@@ -2115,7 +2149,7 @@ msgstr "Skynd jer! Den sydlige bro eksploderer! Tilbage!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:487
 msgid "I hurry up!"
-msgstr ""
+msgstr "Jeg skynder mig!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:514
 msgid ""
@@ -2131,7 +2165,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:552
 msgid "It won't be said that Elves were braver than us, everyone attack!"
-msgstr ""
+msgstr "Det skal ikke siges at elver var modigere end os, alle til angreb!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:602
 msgid "At the saurians! Rip them to the last!"
@@ -2520,6 +2554,11 @@ msgid ""
 "horde was dispersed he appointed three more shamans - with the unanimous "
 "consent of all - to make the great conceal complete again."
 msgstr ""
+"Tro mod sit ord så spredte Howgarth 3. Jarlens styrker og trak dem tilbage "
+"fra orkernes territorium, da jarl Lanbec'h var dræbt. Kapou'e trak sig "
+"tilbage fra Dorset og opløste sin hær. Men før hæren blev opløst havde han "
+"dog udnævnt tre yderligere shamaner - med enstemmig opbakning - for at gøre "
+"rådet fuldt igen."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:103
 msgid ""
@@ -2528,6 +2567,10 @@ msgid ""
 "Barag Gor and making that his capital, established himself as Sovereign over "
 "all the northern tribes."
 msgstr ""
+"Da dette var gjort, udsendte Howgarth 3. en invitation til Kapou'e om at "
+"slutte sig til den nordlige alliance. Kapou'e sagde dog nej. I steden for "
+"vendte han tilbage til Barag Gor og gjorde den til sin hovedstad med sig "
+"selv som overhovede over alle de nordlige stammer."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:108
 msgid ""
@@ -2538,6 +2581,11 @@ msgid ""
 "the effect that orcs desiring to trade would have free passage anywhere in "
 "orcish territory without hinderance from other tribes."
 msgstr ""
+"Kapou'e regerede i mange år og denne tid var med en ikke tidligere set "
+"rigdom og enhed for orkerne. Under Kapou'es lederskab sikrede de forenede "
+"orkere sig deres territorium mod mennesker, dværge, elver, udøde og alle "
+"andre. Der blev lavet aftaler, så alle orker som måtte ønske det kunne "
+"handle over hele orkernes territorium uden forhindringer fra andre stammer."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:113
 msgid ""
@@ -2547,6 +2595,10 @@ msgid ""
 "- both attacks were quickly and decisively crushed, even before the Northern "
 "Alliance could intervene."
 msgstr ""
+"Under det 8. år med Kapou'es styre, og så igen i det 14. var orkerne udsat "
+"for en massiv invasion, først af elverne, og så igen fra menneskene. Næsten "
+"som et symbol på orkernes forenede magt blev begge angreb hurtigt og med "
+"fasthed knust, selv før den nordlige alliance kunne intervenere."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:118
 msgid ""
@@ -2557,6 +2609,11 @@ msgid ""
 "thirsting for battle got more then enough to keep them from attacking their "
 "nearest neighbor."
 msgstr ""
+"For at holde kampene mellem de forskellige stammer på et minimum, så "
+"opretholdt Kapou'e også en stor hær, hentet fra alle steder af riget. Han "
+"hyrede ofte dele af den ud som lejesoldater i fremmede kampe. Folk fra alle "
+"racer fik fordel af dette og som en konsekvens fik de orker som ønskede kamp "
+"mere end nok til at holde dem fra deres nærmeste naboer."
 
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:123
 msgid ""
@@ -2564,6 +2621,9 @@ msgid ""
 "and swift troll soon became even more well known then Kapou'e himself. Tales "
 "of his courage, bravery and cunning reached as far as Wesnoth itself."
 msgstr ""
+"Grüü i særdeleshed havde stor fornøjelse af disse udlejninger. Den store, "
+"udspekulerede og hurtige trold blev snart mere berømt end selv Kapou'e. Sagn "
+"om hans mod, styrke og udspekulerethed nåede til selv Wesnoth."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:4
 msgid "The Human Army"
@@ -2582,12 +2642,16 @@ msgid ""
 "Refusing to yield to fear, Kapou'e rallied his warriors in preparation for "
 "the upcoming battle."
 msgstr ""
+"Nægtende at vige for frygt gjorde Kapou'e sine krigere klar til det "
+"forestående slag."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:72
 msgid ""
 "He was not disappointed. A few days later the main body of the human army "
 "arrived."
 msgstr ""
+"Han blev ikke skuffet. Et par dage senere ankom hoveddelen af menneskenes "
+"hær."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:94
 msgid "So this is the bold orc who has dared kill my son-in-law."
@@ -2610,10 +2674,12 @@ msgid ""
 "As Kapou'e saw the hardened troops pour out of the human camp, he began to "
 "have second thoughts."
 msgstr ""
+"Da Kapou'e så veterantropper komme ud i stort tal fra menneskenes lejr "
+"begyndte han at få andre tanker."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:117
 msgid "Geez, that is a lot of troops. I am not sure if we can handle them."
-msgstr ""
+msgstr "Uha, det er en stor styrke. Jeg er ikke sikker på at vi kan klare dem."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:122
 msgid "I told you so!"
@@ -2636,6 +2702,8 @@ msgid ""
 "The Son of the Black Eye will never 'flee'. But making a 'strategic "
 "withdrawal' is another matter."
 msgstr ""
+"Sønne til Det sorte Øje vil aldrig »flygte«. Men at foretage et »strategisk« "
+"tilbagetog er en anden sag."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:143
 msgid ""
@@ -2890,6 +2958,8 @@ msgid ""
 "The Barag Gór council sent to assassinate the elvish leaders. Unfortunately "
 "I was captured. But not anymore! Those filthy elves shall feel my wrath!"
 msgstr ""
+"Rådet i Barag Gór udsendte lejemordere for at snigmyrde elvernes ledere. "
+"Desværre blev jeg fanget. Men ikke mere! De fæle elver skal føle min vrede!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:600
 msgid "Hurrah! Reinforcements at last!"
@@ -3155,7 +3225,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:162
 msgid " *snicker*"
-msgstr ""
+msgstr " *grine*"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:167
 msgid ""
@@ -3341,6 +3411,8 @@ msgid ""
 "Would you like to join us in our journey? Your help would be very "
 "appreciated!"
 msgstr ""
+"Grüü mange tak for din hjælp i denne kamp. Du har min sympati vedrørende din "
+"far. Vil du slutte dig til vores rejse? Din hjælp vil være meget velkommen!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:470
 msgid ""
@@ -3362,6 +3434,10 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Leader is lost, so is the battle."
 msgstr ""
+"Orkernes ledere er de ledende i deres stamme. De foretager de vigtige "
+"beslutninger og anfører deres folk i kamp. De bærer en bue af nødvendighed, "
+"men er bedre med sværdet; alt i alt er de magtfulde kæmpere. Deres naturlige "
+"lederskab gør dem værdifulde i kamp: Hvis lederen dør, så tabes slaget."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Leader.cfg:30
@@ -3393,7 +3469,7 @@ msgstr "stik"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Orkerregent"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Ruler.cfg:27
 msgid ""
@@ -3403,6 +3479,11 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Ruler is lost, so is the battle."
 msgstr ""
+"Orkerregenter er ledere i deres stamme. De foretager de vigtige beslutninger "
+"og anfører deres folk i krig. De bærer en bue af nødvendighed, men er bedre "
+"med sværdet; alt i alt er de magtfulde kæmpere. Deres naturlige evner "
+"indenfor lederskab gør dem værdifulde i kamp: Hvis regenten dør, så tabes "
+"slaget."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
@@ -3417,6 +3498,12 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Orkershamaner er vogtere af orkernes magi. De er respekteret blandt orkernes "
+"stammer, de danner orkernes råd, som tager vitige beslutninger for hele "
+"orkernes samfund og mægler i de mange konflikter som opstår mellem stammerne "
+"i denne diskussionslystne race. Selvom de er fysisk svage (for orker), så er "
+"de gode trolddomskastere og de kan forbande deres fjender ved at dræne deres "
+"liv."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:30
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:106
@@ -3440,7 +3527,7 @@ msgstr "forband"
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:127
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:203
 msgid "drain"
-msgstr ""
+msgstr "dræn"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:80
 msgid "Novice Orcish Shaman"
@@ -3456,6 +3543,13 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Orkershamaner er vogtere af orkernes magi. De er respekteret blandt orkernes "
+"stammer, de danner orkernes råd, som tager vitige beslutninger for hele "
+"orkernes samfund og mægler i de mange konflikter som opstår mellem stammerne "
+"i denne diskussionslystne race. Selvom de er fysisk svage (for orker), så er "
+"de gode trolddomskastere og de kan forbande deres fjender ved at dræne deres "
+"liv. Unge orkershamaner er stadig præget af deres ungdoms ivrige sind, men "
+"deres trolddomskastning har stadig brug for forbedringer."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:156
 msgid "Old Orcish Shaman"
@@ -3471,10 +3565,17 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Orkershamaner er vogtere af orkernes magi. De er respekteret blandt orkernes "
+"stammer, de danner orkernes råd, som tager vitige beslutninger for hele "
+"orkernes samfund og mægler i de mange konflikter som opstår mellem stammerne "
+"i denne diskussionslystne race. Selvom de er fysisk svage (for orker), så er "
+"de gode trolddomskastere og de kan forbande deres fjender ved at dræne deres "
+"liv. Ældre orkershamaner er shamaner som har mestret magi, selvom deres "
+"fysiske styrke er aftaget med alderen."
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Orkermonark"
 
 #: Son_Of_The_Black_Eye/units/Orcish_Sovereign.cfg:29
 msgid ""
@@ -3484,6 +3585,11 @@ msgid ""
 "powerful fighters. Their natural leadership skills make them very precious "
 "in battle: if the Sovereign is lost, so is the battle."
 msgstr ""
+"Orkermonarker er ledere i deres stamme. De foretager de vigtige beslutninger "
+"og anfører deres folk i krig. De bærer en bue af nødvendighed, men er bedre "
+"med sværdet; alt i alt er de magtfulde kæmpere. Deres naturlige evner "
+"indenfor lederskab gør dem værdifulde i kamp: Hvis monarken dør, så tabes "
+"slaget."
 
 #: Son_Of_The_Black_Eye/units/Watch_Tower.cfg:4
 msgid "Watch Tower"
