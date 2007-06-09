@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2007-05-14 13:15+0200\n"
+"PO-Revision-Date: 2007-06-09 13:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -552,7 +552,7 @@ msgid ""
 msgstr ""
 "Oh satans. Det betyder vi skal krydse Dødsørkenen som er fuld af giftige "
 "gigantskorpioner og fredløse. At tage uden om den vil tage evigheder! For "
-"ikke at nævne vejen efter ørkenen, vi må krydse den stille skov!"
+"ikke at nævne vejen efter ørkenen, vi må krydse Den Stille Skov!"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:419
 msgid ""
@@ -639,12 +639,23 @@ msgid ""
 "towards Bitok. They were all to meet in Dorset that spring to repel the "
 "human attack which was sure to come."
 msgstr ""
+"Endelig var tropperne, som Kapou'e indtil nu havde anført, begyndt at "
+"respektere ham som en klog og slagkraftig leder og de lod dem forstå at han "
+"var loyal. I godt humør sendte Kapou'e dem af sted i forskellige retninger "
+"for at samle de andre stammer, med magt hvis nødvendigt. Al'Brock blev sendt "
+"mod vest, langs med den ruten som Kapou'e flygtede af fra menneske for et "
+"når siden. Flar'Tar blev sendt mod syd for at samle stammerne langs Haags "
+"bjerge og de østlige Mourned Bakker. Kapou'e selv gik mod sydvest og Bitok. "
+"De skulle mødes i Dorset det følgende forår for at slå menneskenes "
+"forventede angreb tilbage."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:123
 msgid ""
 "Having thus made his plans, Kapou'e set out for Bitok to get to the root of "
 "this treachery."
 msgstr ""
+"Efter den færdige plan var klar tog Kapou'e af sted mod Bitok for at finde "
+"årsagen til dette forræderi."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:140
 msgid ""
@@ -653,6 +664,10 @@ msgid ""
 "possible. Defeat all opposition in your path, I want this area to be firmly "
 "under my control by the time we are through here."
 msgstr ""
+"Hør mænd hvis vi skal nå til Bitok og tilbage til Dorset før foråret skal vi "
+"rejse hurtigt. Vi må bryde lejren op så hurtigt som muligt. Ødelæg al "
+"modstand på vores vej, jeg vil have dette område under min kontrol når vi er "
+"færdige her."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:770
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:286
@@ -665,11 +680,11 @@ msgstr "Argh! Jeg er færdig. Mit folk er fortabt!"
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:178
 msgid "This rabble won't be a problem anymore."
-msgstr ""
+msgstr "Denne snak vil ikke være et problem mere."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:197
 msgid "Got this tribe under control."
-msgstr ""
+msgstr "Fik denne stamme under kontrol."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:216
 msgid "This is what you get for deserting the Son of the Black Eye."
@@ -823,10 +838,12 @@ msgid ""
 "It is now time to show them who we are and to lead the Great Horde in "
 "pursuit! We will not rest until we destitute Earl Lanbec'h!"
 msgstr ""
+"Det er nu tid at vise dem hvem vi er og sætte hæren i forfølgelse! Vi vil "
+"ikke stoppe før vi har forarmet Earl Lanbec'h!"
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:500
 msgid "No! The walls of Prestim are destroyed, we are done!"
-msgstr ""
+msgstr "Nej! Prestims mure er ødelagt, vi er færdige!"
 
 #: Son_Of_The_Black_Eye/scenarios/Coward.cfg:4
 msgid "The Coward"
@@ -1099,7 +1116,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:224
 msgid "There you go Grüü, there is your giant scorpion!"
-msgstr ""
+msgstr "Der er den Grüü, der er din gigantskorpion!"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:229
 msgid "Oh great, perfect timing."
@@ -1128,7 +1145,7 @@ msgstr "AD! Modbydeligt! De smager jo frygteligt!"
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:286
 msgid ""
 "I don't know if you should have eaten that Grüü, you don't look so good."
-msgstr ""
+msgstr "Jeg tror ikke at du skulle have spist den Grüü, du ser ikke godt ud."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:291
 msgid "Ugg... I feel sick."
@@ -1140,12 +1157,14 @@ msgstr "Hmmm, det ser ud til at skorpioner er giftige."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:301
 msgid "But what about Grüü?"
-msgstr ""
+msgstr "Men hvad med Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:306
 msgid ""
 "Ahh, he will be ok in a few minuets. He is a troll after all. Right Grüü?"
 msgstr ""
+"Ahh, han vil være i orden igen om nogle minutter. Han er jo en trold. Ikke "
+"Grüü?"
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:311
 msgid " *puke*"
@@ -1261,6 +1280,11 @@ msgid ""
 "river froze solid. Beaching their crafts they marched the last leg of their "
 "journey through the deepening snow of the Mourned Hills."
 msgstr ""
+"Orkerne sejlede op ad floden Grok til den mødt Bork. De havde travlt da de "
+"skulle nå Borstep før floden frøs til for vinteren. Hæren roede dag og nat "
+"men nåede knap igennem Den Stille Skov før floden frøs til. Skibene blev sat "
+"på land og de marcherede den sidste del af deres rejse igennem den tykke sne "
+"i Mourned Bakkerne."
 
 #: Son_Of_The_Black_Eye/scenarios/Dwarvish_Stand.cfg:130
 msgid ""
@@ -1621,11 +1645,11 @@ msgid ""
 "orcish territory."
 msgstr ""
 "Hovedhæren blev opdelt i to styrker. Efter råd fra shamanerne placerede "
-"Kapou'e en styrke under ledelse af Shan Taum the Smug, som - på trods af sin "
-"fornærmende natur - var en mægtig og velegnet leder. Han blev sendt til "
-"bitok, de mest sydvestlige af orkernes byer, for at afskære menneskene der "
-"var i gang med en invasion af havnen i Tirigaz, og for at stoppe yderligere "
-"angreb ind i orkernes territorium."
+"Kapou'e en styrke under ledelse af Shan Taum den Selvtilfredse, som - på "
+"trods af sin fornærmende natur - var en mægtig og velegnet leder. Han blev "
+"sendt til bitok, de mest sydvestlige af orkernes byer, for at afskære "
+"menneskene der var i gang med en invasion af havnen i Tirigaz, og for at "
+"stoppe yderligere angreb ind i orkernes territorium."
 
 #: Son_Of_The_Black_Eye/scenarios/Giving_Some_Back.cfg:158
 msgid ""
@@ -1712,6 +1736,11 @@ msgid ""
 "remaining shamans of the great council were also present to help in whatever "
 "way they could to preserve this orcish unity."
 msgstr ""
+"Da han kom frem fandt han sine generaler, Al'Brock og Flair'Tar var ankommet "
+"sammen med hundredvis af blodtørstige orker. Stammekrigerne som Kapou'e "
+"havde slået til undergivelse var der også. Herudover var de resterende "
+"shamaner fra det store råd også til stede for at hjælpe som du nu kunne for "
+"at bevare orkernes enhed."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:107
 msgid ""
@@ -1722,12 +1751,19 @@ msgid ""
 "Younger grunts especially worshiped him with such fervor that he found it "
 "almost frightening."
 msgstr ""
+"Deres tilstedeværelse viste sig dog unødvendig. Det kom som et chok for "
+"Kapou'e, efter et par dage, at opdage at folket havde stor respekt for ham. "
+"Nyheden om Kapou'es bedrifter havde spredt sig - fra hans redning af "
+"shamanerne ved Barag Gor, til hans march igennem de nordlige storme. "
+"Specielt de yngre så op til ham i en grad der virkede helt skræmmende."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:112
 msgid ""
 "Days passed, the snows melted and Kapou'e readied his defenses. A few weeks "
 "after Kapou'e's arrival, riders caught sight of Earl Lanbec'h's army."
 msgstr ""
+"Dagene gik, sneen smeltede og Kapou'e gjorde forsvaret klar. Et par uger "
+"efter Kapou'es ankomst fik ryttere øje på Earl Lanbec'hs hær."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:268
 msgid ""
@@ -1735,6 +1771,9 @@ msgid ""
 "done to us. Attack and spare no orc! Let us take back this land which is "
 "rightfully ours!"
 msgstr ""
+"Så er det nu mænd! Det er på tide at lade di orker betale for alt de har "
+"gjort mod os. Angrib og spar ingen ork! Lad os tage dette vores retmæssige "
+"land tilbage."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:273
 msgid "Come here you little humans. Grüü has a little present for you."
@@ -1800,6 +1839,10 @@ msgid ""
 "both of you are no doubt violating. It is our duty as the orchestrator and "
 "witness of this treaty to see that it is withheld."
 msgstr ""
+"Du kan rende mig Earl Lanbec'h, den nordlige alliance var vidne til et "
+"forræderi for 20 år siden mellem dit folk og orkerne, som i begge uden tvivl "
+"overtræder. Det er vores pligt som udfærdiger og vidne til denne traktat at "
+"overvåge at den bliver holdt."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:690
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:809
@@ -1809,6 +1852,10 @@ msgid ""
 "your precious treaty as human territory. So if you are so keen on being all "
 "high and noble then get your men up and help us push back this orcish menace."
 msgstr ""
+"Godt for dig. Det er en kendskabning at dette land er klart defineret som "
+"menneskes under din glorværdige traktat. Så hvis du er så opsat på at være "
+"ædel så få dine mænd i gang og hjælp os med at trænge denne orkondskab "
+"tilbage."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:695
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:814
@@ -1818,6 +1865,9 @@ msgid ""
 "this war. But enough, it is time for all this to end. I call for both sides "
 "to parley and we shall discuss this matter."
 msgstr ""
+"Stop med dit vrøvl Labec'h. Vi ved alle at du var den som startede denne "
+"krig. Men nok om det, alt dette må stoppe. Jeg indkalder begge parter til "
+"forhandlinger så vi kan få diskuteret igennem."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:700
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:819
@@ -1826,6 +1876,8 @@ msgid ""
 "Ha ha, very funny human. You think we are dumb enough to fall for that? We "
 "haven't forgotten what you people did to my father."
 msgstr ""
+"Ha ha, meget morsomt menneske. Tror du vi er så dumme at vi falder for det "
+"trik? Vi har ikke glemt hvad dit folk gjorde mod min far."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:705
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:824
@@ -1840,6 +1892,8 @@ msgid ""
 "I am Kapou'e, son of the Black Eye Karun. Twenty seven years ago you people "
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
+"Jeg er Kapou'e søn af Det sorte Øje Karun. For 20 år siden snigmyrdede dig "
+"folk min far efter en invitation til medlemskab af den nordlige alliance."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:715
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:834
@@ -1849,6 +1903,9 @@ msgid ""
 "of the matter. I know nothing of his assassination. As a matter of fact, I "
 "was there when the orcish messenger brought Rahul Karun's reply."
 msgstr ""
+"Hvad? Vi modtog nyhed om at han afslog vores invitation og det afgjorde den "
+"sag. Geg kender intet til hans snigmord. Rent faktisk var jeg til stede da "
+"orkbudbringeren overbragt Rahul Karuns svar."
 
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:720
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:839
@@ -1899,6 +1956,13 @@ msgid ""
 "land they had stolen from the orcs. Only then would he return Dorset and "
 "disperse the Horde."
 msgstr ""
+"Menneskenes angreb var stoppe for nu, begge sider mødtes i midten af "
+"slagmarken. Howgarth 3. krævede at Kapou'e gav Dorset tilbage til menneskene "
+"og returnerede til deres land som skrevet i traktaten. Kapou'e nægtede så "
+"længe at menneskene fortsat angreb hans land. Han krævede at menneskene "
+"opløste deres styrker og gav det land tilbage som de havde stjålet fra "
+"orkerne. Kun i dette tilfælde ville han returnere til Dorset og opløse sin "
+"hær."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:134
 msgid ""
@@ -1906,6 +1970,9 @@ msgid ""
 "his aggression then under the dictates of the Northern Alliance, he himself "
 "would be forced to move against the Earl."
 msgstr ""
+"Howgarth 3. indvilgede og tilføjede at hvis Earl Lanhec'h nægtede at stoppe "
+"hans aggression ville han under den nordlige alliances direktiver selv være "
+"tvunget til at marchere imod ham."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:139
 msgid ""
@@ -1914,24 +1981,33 @@ msgid ""
 "Black Eye Kauran was the message declining their invitation to join the "
 "Northern Alliance, brought by none other then Shaun Taum himself."
 msgstr ""
+"Med det slået fast, begyndte Kapou'e at spørge ind til sin fars død. "
+"Howgarth 3. gentog sin historie om at det sidste han hørte fra Sort Øje "
+"Kauran var afslaget på invitationen til at blive en del af den nordlige "
+"alliance, overrakt af ingen anden end Shaun Taum selv."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:144
 msgid ""
 "As they were discussing the matter, a group of orcs suddenly burst from the "
 "surrounding trees and hills and surrounded the parley."
 msgstr ""
+"Mens de snakkede brød en gruppe af orker pludselig frem fra de "
+"omkringliggende træer og bakker og omringede konferencen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:479
 msgid ""
 "Now now now, what do we have here. Collaborating with the enemy again just "
 "like your disgusting father are you?"
 msgstr ""
+"Nådada, hvad har vi her. Samarbejde med fjende ligesom din modbydelige far "
+"gjorde?"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:484
 msgid ""
 "Collaborating with the humans pfff. Look who is talking. What are you doing "
 "here Shan Taum?"
 msgstr ""
+"Samarbejde med menneskene pfff. Se hvem der taler. Hvad gør du her Shan Taum?"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:489
 msgid "I am here to do to you what I did to your father."
@@ -1962,12 +2038,20 @@ msgid ""
 "father before and I know he is trustworthy. And if that isn't enough, then "
 "we are here to protect you in case he violates the pact."
 msgstr ""
+"Stop Earl Lanbec'h. Jeg har nået en aftale med disse orker. Siden din hær er "
+"angriberen, må du øjeblikkeligt opløse din hær og trække dig tilbage fra "
+"orkernes område. Når det er gjort vil Kapou'e give dig Dorset tilbage og "
+"trække hæren tilbage. Jeg har handlet med Kapou'es far før og jeg ved vi kan "
+"stole på ham. Og hvis det ikke er nok, så er vi her for at beskytte dig "
+"ifald han overtræder aftalen."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:514
 msgid ""
 "You and your dammed compromises can go to hell. Your beloved Kapou'e will be "
 "joining you shortly."
 msgstr ""
+"Dig og dine forbanede kompromier kan gå ad helvede til. Din elskede Kapou'e "
+"vil snart slutte sig til dig."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:519
 msgid "You leave us no choice but to take military action against you."
@@ -1980,10 +2064,13 @@ msgid ""
 "as my orc friend here gives the order. And then your men will automatically "
 "assume that Kapou'e tricked and killed you."
 msgstr ""
+"Ha ha! Meget morsomt Howgarth. Se dig omkring du vil være død så snart min "
+"orkven her giver ordren. Og så vil dine mænd automatisk antage at Kapou'e "
+"snød og dræbte dig."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:529
 msgid "Not today my friend. *whistles*"
-msgstr ""
+msgstr "Ikke i dag min ven. *fløjter*"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:600
 msgid ""
@@ -1994,6 +2081,12 @@ msgid ""
 "traitors. Once they are dead and dispersed then I trust you will cary out "
 "your agreement."
 msgstr ""
+"Kapou'e det er meget vigtigt at jeg kommer tilbage til min lejr for at "
+"overbringe nyheden om vores aftale og dette forræderi. En af mine "
+"grifryttere vil være min ganger. Mine vagter og resten af grifferne vil "
+"hjælpe dig med at kæmpe dig ud af dette baghold. Når du er tilbage i din "
+"lejr vil vi foretage et fælles angreb på disse forrædere. Når de er døde og "
+"spredt tror jeg på, at du vil holde vores aftale."
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:605
 msgid "Agreed. Let's get to it."
@@ -2108,6 +2201,9 @@ msgid ""
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends - get them!"
 msgstr ""
+"Se den stamme af orker som ødelagde mit skjulested i Den Stille Skov har "
+"forstærket Prestim. Mine venner, det er på tide at hævne vores faldnes død. "
+"På dem!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:356
 msgid "Ahhh, it's "
@@ -2118,6 +2214,8 @@ msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind is on our tails, we must "
 "hurry up."
 msgstr ""
+"Her er vi mine venner. Earl Lanhec'h og hans følgeskab er i hælene på os, vi "
+"må skynde os."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:417
 msgid "The Saurians are safe chief, should we blow the bridge?"
@@ -2156,16 +2254,20 @@ msgid ""
 "Blast it! The saurians have had too many casualties in order for them to be "
 "of any real help to us. We won't be able to recruit them in the future."
 msgstr ""
+"Pokkers også! Øglerne har haft for mange tab til at de kan være en hjælp for "
+"os. Vi kan ikke rekruttere dem fremover."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:548
 msgid ""
 "This has taken too much time, we should send all of our troops and send "
 "these creatures back to hell."
 msgstr ""
+"Det har taget for lang tid, vi bør sende alle vores tropper og få disse "
+"skabninger tilbage til helvede."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:552
 msgid "It won't be said that Elves were braver than us, everyone attack!"
-msgstr "Det skal ikke siges at elver var modigere end os, alle til angreb!"
+msgstr "Det skal ikke siges, at elver var modigere end os. Alle til angreb!"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:602
 msgid "At the saurians! Rip them to the last!"
@@ -2177,7 +2279,7 @@ msgstr "Det er for sent, vi er besejret."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:4
 msgid "Shan Taum The Smug"
-msgstr "Shan Taum The Smug"
+msgstr "Shan Taum den Selvtilfredse"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:23
 msgid "Survive the Shan Taum menace for 20 turns"
@@ -2194,10 +2296,14 @@ msgid ""
 "reached the city of Lmarig in the Mourned Hills, which was then ruled by "
 "Shan Taum the Smug."
 msgstr ""
+"Efter fjernelse af elverne fra Den Stille Skov, sætter Kapou'e og hans "
+"følgeskab ud på den sidste del af deres rejse. Indenfor et par dage når de "
+"endelig byen Lmarig i Mourned-bakkerne, som var regeret af Shan Taum den "
+"Selvtilfredse."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:107
 msgid "At last, here are the mourned hills! I hope everything will be OK."
-msgstr ""
+msgstr "Endelig her er Mourned-bakkerne! Jeg håber at alt er i orden."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:111
 msgid "Why?"
@@ -2208,6 +2314,8 @@ msgid ""
 "You are a troll so you don't know. These lands are ruled by Shan Taum the "
 "Smug, who was a rival for Black Eye Karun."
 msgstr ""
+"Du er en trold så det ved du ikke noget om. Disse lande regeres af Shan Taum "
+"den Selvtilfredse, som var en rival til Sort Øje Karun."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:119
 msgid "I doubt he would welcome the son of the Black Eye."
@@ -2217,34 +2325,41 @@ msgstr "Jeg tvivler på at han byder sønnen af Det sorte Øje velkommen."
 msgid ""
 "Who is that? Kapou'e! What are you doing in my lands you ridiculous born "
 "loser?"
-msgstr ""
+msgstr "Hvem er det? Kapou'e! Hvad gør en sådan tåbelig født taber i mit land?"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:128
 msgid ""
 "Hold on, Shan Taum. We are not here to quarrel, we are here to escort our "
 "brothers and to deliberate about what we have to do."
 msgstr ""
+"Stop Shan Taum. Vi er her ikke for at skændes, vi er her for at eskortere "
+"vores brødre og tænke over hvad vi skal gøre."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:133
 msgid ""
 "Bwahaha! You are nothing! Where is your land? You became a beggar. You are "
 "as pathetic as your father!"
 msgstr ""
+"Bwahaha! Du er ingenting! Hvor er dit land? Du blev en tigger. Du er lige så "
+"patetisk som din far!"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:137
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I'll make "
 "a mug with your skull!"
 msgstr ""
+"Hvordan kan du tale på den måde om min far, din ynkelige kujon?! Jeg laver "
+"et krus ud af dit kranie!"
 
+# Mint cordial er en alkoholfri drink med en masse juice ingredienser.
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:142
 msgid "Really? What would you drink with it? Mint cordial?"
-msgstr ""
+msgstr "Virkelig? Hvad vil du drikke med kruset? Appelsinjuice?"
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:146
 msgid ""
 "Exasperated, Kapou'e launched an attack on his fellow orc Shan Taum the Smug."
-msgstr ""
+msgstr "Oprevet angreb Kapou'e sin fælleork Shan Taum den Selvtilfredse."
 
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:160
 #: Son_Of_The_Black_Eye/scenarios/Shan_Taum_The_Smug.cfg:234
@@ -2349,7 +2464,7 @@ msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:4
 msgid "Silent Forest"
-msgstr "Stille skov"
+msgstr "Den Stille Skov"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:24
 msgid "Defeat the elves"
@@ -2379,6 +2494,10 @@ msgid ""
 "and all the natural sounds of the forest died away - leaving everything "
 "deathly quiet."
 msgstr ""
+"Det var med stor lettelse at de endelig så Den Stille Skov om aftenen den "
+"anden dag. De slog hurtig lejr i håb om at kunne få et nødvendigt hvil. Men "
+"da morgengryet var på vej rullede en tyk tåge ind og alle de naturlige lyde "
+"i skoven døde væk - efterladende alt i en dødelig stilhed."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:166
 msgid ""
