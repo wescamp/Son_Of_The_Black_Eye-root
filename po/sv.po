@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-01 12:35+0200\n"
-"PO-Revision-Date: 2006-04-22 16:48+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,31 +11,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Son_Of_The_Black_Eye.cfg:8
 msgid "Son of the Black Eye (Updated)"
 msgstr ""
 
 #: Son_Of_The_Black_Eye.cfg:15
+#, fuzzy
 msgid "Grunt"
-msgstr ""
+msgstr "Soldat"
 
 #: Son_Of_The_Black_Eye.cfg:15
+#, fuzzy
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Utmanande)"
 
 #: Son_Of_The_Black_Eye.cfg:15
+#, fuzzy
 msgid "Warlord"
-msgstr ""
+msgstr "Krigsherre"
 
 #: Son_Of_The_Black_Eye.cfg:15
+#, fuzzy
 msgid "Warrior"
-msgstr ""
+msgstr "Krigare"
 
 #: Son_Of_The_Black_Eye.cfg:15
+#, fuzzy
 msgid "(Difficult)"
-msgstr ""
+msgstr "(Svårt)"
 
 #: Son_Of_The_Black_Eye.cfg:15
 msgid "(Experts Only)"
@@ -63,9 +68,8 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Giving_Some_Back.cfg:30
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:23
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:521
-#, fuzzy
 msgid "Defeat All Enemy Leaders."
-msgstr "Döda alla fiendeledare"
+msgstr "Besegra alla fiendeledare"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:32
 #: Son_Of_The_Black_Eye/scenarios/Human_Attack.cfg:32
@@ -268,8 +272,9 @@ msgid "Ok, buddy, we want some answers!"
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:555
+#, fuzzy
 msgid "Ugh!"
-msgstr ""
+msgstr "Ugh!"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:560
 msgid "SPEEK!"
@@ -351,7 +356,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:645
 #, fuzzy
 msgid "What should I do with this one?"
-msgstr "Vad skall vi göra, boss?"
+msgstr "Vad skall jag göra med den här?"
 
 #: Son_Of_The_Black_Eye/scenarios/Back_Home.cfg:650
 msgid "Throw him in the lake. If he freezes to death all the better."
@@ -364,7 +369,7 @@ msgstr "Svart Flagg"
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:41
 #, fuzzy
 msgid "Defeat Slowhand and Harman"
-msgstr "Besegra Trögnäve"
+msgstr "Besegra Trögnäve och Harman"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:76
 msgid "Slowhand"
@@ -382,7 +387,7 @@ msgstr "Transport"
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:220
 #, fuzzy
 msgid "Landing Galleon"
-msgstr "Transportgaljon"
+msgstr "Landstigningsgaljon"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:229
 msgid "So here is Tirigaz. But what in the world is going on?."
@@ -442,7 +447,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:291
 #, fuzzy
 msgid "Are the shamans safe?"
-msgstr "Rädda schamanerna"
+msgstr "Är schamanerna i säkerhet?"
 
 #: Son_Of_The_Black_Eye/scenarios/Black_Flag.cfg:296
 msgid ""
@@ -518,9 +523,8 @@ msgid "Civil War"
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:27
-#, fuzzy
 msgid "Defeat all rebel leaders and..."
-msgstr "Döda alla fiendeledare"
+msgstr "Besegra alla fiendeledare och..."
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:31
 #, fuzzy
@@ -534,7 +538,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:81
 #, fuzzy
 msgid "Meato"
-msgstr "Jetto"
+msgstr "Meato"
 
 #: Son_Of_The_Black_Eye/scenarios/Civil_War.cfg:92
 msgid "Ragvan"
@@ -683,7 +687,7 @@ msgstr "Fantastiskt! När kommer de?"
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:273
 #, fuzzy
 msgid "In four days minimum. I fear it will be too late."
-msgstr "Det tar åtminstone fyra dagar. Jag är rädd att det blir för sent."
+msgstr "Det tar åtminstone fyra dagar. Jag är rädd att de kommer för sent."
 
 #: Son_Of_The_Black_Eye/scenarios/Clash_Of_Armies.cfg:278
 msgid "I don't think so, there is still a way..."
@@ -900,7 +904,7 @@ msgstr "Dödens öken"
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:24
 #, fuzzy
 msgid "Reach the Oasis"
-msgstr "Rädda schamanerna"
+msgstr "Nå fram till oasen"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:36
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:38
@@ -1002,7 +1006,8 @@ msgid ""
 "Finally we've done it! Now let's wait out this sandstorm, resupply and get "
 "some rest before we continue on our journey."
 msgstr ""
-"Vi har klarat det! Nu behöver vi vila lite innan vi fortsätter vår färd."
+"Vi klarade det! Nu väntar vi ut den här sandstormen, bygger upp våra förråd "
+"igen, och vilar lite innan vi fortsätter vår färd."
 
 #: Son_Of_The_Black_Eye/scenarios/Desert_Of_Death.cfg:224
 msgid "There you go Grüü, there is your giant scorpion!"
@@ -1366,7 +1371,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:241
 #, fuzzy
 msgid "Hmmm..."
-msgstr "..."
+msgstr "Hmmm..."
 
 #: Son_Of_The_Black_Eye/scenarios/End_Of_Peace.cfg:244
 msgid ""
@@ -1684,7 +1689,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:40
 #, fuzzy
 msgid "Death of Howgarth III"
-msgstr "Inarix dör"
+msgstr "Howgarth III dör"
 
 #: Son_Of_The_Black_Eye/scenarios/Northern_Alliance.cfg:112
 #: Son_Of_The_Black_Eye/scenarios/SotBE_Epiloge.cfg:86
@@ -1839,7 +1844,9 @@ msgstr "Inarix räddning"
 msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to the fort on River Gork"
-msgstr "För Inarix och minst fyra ödlemän till fortet vid floden Gork"
+msgstr ""
+"För att kunna rekrytera trupper bland ödlefolket senare, för Inarix och "
+"minst fyra ödlemän till fortet vid floden Gork"
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:270
 msgid "Plonk"
@@ -1922,9 +1929,7 @@ msgstr ""
 msgid ""
 "Here we are, my friends. Earl Lanbec'h and his kind is on our tails, we must "
 "hurry up."
-msgstr ""
-"Vi är här, vänner. Greve Lanbec'h och hans gelikar är tätt bakom oss, vi "
-"måste skynda oss."
+msgstr "Greve Lanbec'h och hans gäng är tätt bakom oss, vi måste skynda oss."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:417
 msgid "The Saurians are safe chief, should we blow the bridge?"
@@ -1933,15 +1938,16 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:422
 #, fuzzy
 msgid "Ah...."
-msgstr "..."
+msgstr "Eh..."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:425
 msgid "Let her blow!"
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:441
+#, fuzzy
 msgid "Just wait a sec."
-msgstr ""
+msgstr "Vänta lite, bara."
 
 #: Son_Of_The_Black_Eye/scenarios/Saving_Inarix.cfg:446
 msgid "Argh! Hurry up, let's get a move on this!"
@@ -2181,9 +2187,8 @@ msgid "Silent Forest"
 msgstr "Tysta skogen"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:24
-#, fuzzy
 msgid "Defeat the elves"
-msgstr "Döda alla fiendeledare"
+msgstr "Besegra alverna"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:95
 msgid "Lucile"
@@ -2221,8 +2226,9 @@ msgid ""
 "there and fish in the Bork river. But that all changed a few years ago. Now, "
 "no one would enter there unless forced."
 msgstr ""
-"Den har inte alltid varit så tyst. Jägare från stammarna brukade jaga i "
-"skogen och fiska i Bork-floden. Men nu går ingen frivilligt in i skogen."
+"Den har inte alltid varit så här. Jägare från stammarna brukade jaga i "
+"skogen och fiska i Bork-floden. Men allt det förändrades för ett par år sen. "
+"Nu går ingen frivilligt in i skogen."
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:174
 msgid "What happened? Why did people stop coming here?"
@@ -2334,8 +2340,9 @@ msgid "Behead him."
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:294
+#, fuzzy
 msgid "Ahhhhh!"
-msgstr ""
+msgstr "Ahhhh!"
 
 #: Son_Of_The_Black_Eye/scenarios/Silent_Forest.cfg:305
 msgid ""
@@ -2418,13 +2425,13 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:25
 #, fuzzy
 msgid "Defeat Lanbec'h"
-msgstr "Greve Lanbec'h"
+msgstr "Besegra Lanbec'h"
 
 #
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:54
 #, fuzzy
 msgid "Lanbec'h"
-msgstr "Greve Lanbec'h"
+msgstr "Lanbec'h"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:67
 msgid ""
@@ -2439,8 +2446,9 @@ msgid ""
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:94
+#, fuzzy
 msgid "So this is the bold orc who has dared kill my son-in-law."
-msgstr ""
+msgstr "Så detta är den djärva orch som vågade döda min svärson."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:98
 msgid ""
@@ -2463,8 +2471,9 @@ msgid "Geez, that is a lot of troops. I am not sure if we can handle them."
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:122
+#, fuzzy
 msgid "I told you so!"
-msgstr ""
+msgstr "Det var ju det jag sa!"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:127
 msgid ""
@@ -2532,7 +2541,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:243
 #, fuzzy
 msgid "Move Kapou'e to the signpost in the Northeast"
-msgstr "För Kapou'e till bergens slut"
+msgstr "För Kapou'e till vägskylten i nordöst"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Human_Army.cfg:277
 msgid "We'll be back you foul humans!"
@@ -2555,7 +2564,7 @@ msgstr "Barag Górs belägring"
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:26
 #, fuzzy
 msgid "Break the Siege of Barag Gor"
-msgstr "Barag Górs belägring"
+msgstr "Häv Barag Górs belägring"
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:68
 msgid "Etheliel"
@@ -2594,13 +2603,15 @@ msgid "What can you expect chief, they're elves after all."
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:344
+#, fuzzy
 msgid "Hmmm, $name.user_description go find out what they are up to."
 msgstr ""
+"Hmmm. $name.user_description, se om du kan utröna vad de har i kikaren."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:350
 #, fuzzy
 msgid "Sure."
-msgstr "förbannelse"
+msgstr "Javisst."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:388
 msgid ""
@@ -2644,7 +2655,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:429
 #, fuzzy
 msgid "Well..."
-msgstr "Nä, äähum..."
+msgstr "Tja..."
 
 #: Son_Of_The_Black_Eye/scenarios/The_Siege_Of_Barag_Gor.cfg:434
 msgid ""
@@ -2789,7 +2800,7 @@ msgstr "Till Tirigaz hamn"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:123
 msgid "Defeat all enemy leaders"
-msgstr "Döda alla fiendeledare"
+msgstr "Besegra alla fiendeledare"
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:161
 msgid "Na-Mana"
@@ -2871,7 +2882,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:328
 #, fuzzy
 msgid "But..."
-msgstr "..."
+msgstr "Men..."
 
 #: Son_Of_The_Black_Eye/scenarios/To_The_Harbour_Of_Tirigaz.cfg:333
 msgid ""
@@ -2950,7 +2961,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:141
 #, fuzzy
 msgid "Halt! Who goes there?"
-msgstr "Fantastiskt! När kommer de?"
+msgstr "Halt! Vem där?"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:146
 msgid "It is I Kapou'e, Son of the Black eye. What do you want dwarf?"
@@ -2969,8 +2980,9 @@ msgid ""
 msgstr ""
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:162
+#, fuzzy
 msgid " *snicker*"
-msgstr ""
+msgstr "*gnägg*"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:167
 msgid ""
@@ -3082,7 +3094,9 @@ msgstr ""
 msgid ""
 "Our troll friends are done. We will desperately need their help in the "
 "coming battles. Without them there is no hope."
-msgstr "Det är ute med våra trollvänner. Utan dem finns det inget hopp."
+msgstr ""
+"Det är ute med våra trollvänner. Vi har desperat behov av deras hjälp i de "
+"stundande striderna. Utan dem finns det inget hopp."
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:357
 msgid "Argh! I die!"
@@ -3147,8 +3161,8 @@ msgid ""
 "Would you like to join us in our journey? Your help would be very "
 "appreciated!"
 msgstr ""
-"Grüü, vi tackar dig för din hjälp i striden. Jag beklagar din faders öde. "
-"Vill du slå följe med oss? Vi skulle verkligen uppskatta din hjälp!"
+"Grüü, vi tackar dig för din hjälp i striden. Jag beklagar din fars öde. Vill "
+"du slå följe med oss? Vi skulle verkligen uppskatta din hjälp!"
 
 #: Son_Of_The_Black_Eye/scenarios/Towards_Mountains_of_Haag.cfg:470
 msgid ""
@@ -3361,246 +3375,10 @@ msgstr ""
 msgid ""
 "Blast it, without Inarix to lead his saurians, we can no longer count on "
 "their help."
-msgstr "Utan Inarix att leda ödlemännen, så finns det inget hopp."
+msgstr ""
+"Tusan också, utan Inarix som ledare för ödlefolket så kan vi inte räkna med "
+"deras hjälp."
 
 #: Son_Of_The_Black_Eye/utils/utils.cfg:193
 msgid "Pirate Galleon"
 msgstr "Piratgaljon"
-
-#~ msgid "Kult The Red"
-#~ msgstr "Kult den Röde"
-
-#~ msgid "So here is Tirigaz."
-#~ msgstr "Så det här är Tirigaz."
-
-#~ msgid ""
-#~ "Looks like they are facing attack from pirates of the High Sea. We should "
-#~ "help them."
-#~ msgstr ""
-#~ "Det ser ut som att de kommer att anfallas av pirater från havet. Vi bör "
-#~ "hjälpa dem."
-
-#~ msgid "I propose that Gork, you and I call for reinforcements."
-#~ msgstr "Jag föreslår att Gork, du och jag hämtar truppförstärkningar."
-
-#~ msgid ""
-#~ "Call for reinforcements? Do you mean you don't want to fight for our "
-#~ "brothers? Are you a coward, Vraurk?"
-#~ msgstr ""
-#~ "Hämtar truppförstärkningar? Menar du att du inte vill slåss för våra "
-#~ "bröder? Är du feg, Vraurk?"
-
-#~ msgid "Me? I'll show you if I'm a coward!"
-#~ msgstr "Jag? Jag skall minsann visa dig!"
-
-#~ msgid ""
-#~ "It is not time for quarreling! I will contain them, go find "
-#~ "reinforcements."
-#~ msgstr "Gräla inte nu! Jag håller dem tillbaka, hämta truppförstärkningar."
-
-#~ msgid ""
-#~ "We are attacked from both sides! Grüü, hold them while I run to Tirigaz "
-#~ "to find forces for a counter attack. We can't defeat those pirates "
-#~ "without naval forces, but we can still wipe humans out of this region."
-#~ msgstr ""
-#~ "Vi är under attack från båda sidor! Grüü, håll dem tillbaka medan jag "
-#~ "skyndar till Tirigaz för att hämta styrkor för en motattack. Även om vi "
-#~ "inte kan besegra piraterna utan styrkor till havs, så kan vi rensa det "
-#~ "här området på människor."
-
-#~ msgid ""
-#~ "We're back! We have bad news, the humans are regrouping on our tails, we "
-#~ "must leave."
-#~ msgstr ""
-#~ "Vi är tillbaka! Vi har dåliga nyheter, människorna omgrupperar sig precis "
-#~ "bakom oss, vi måste ge oss av."
-
-#~ msgid ""
-#~ "But where is the rest of the council? We haven't made such a long journey "
-#~ "just to flee!"
-#~ msgstr ""
-#~ "Men var är resten av rådet? Vi har inte kommit hela den här vägen bara "
-#~ "för att fly!"
-
-#~ msgid ""
-#~ "We had news from them, all of them fled to the East, near the Mourned "
-#~ "Hills. I think we should go for them as soon as possible and evacuate "
-#~ "this city."
-#~ msgstr ""
-#~ "De har skickat besked att de alla har flytt österut, till trakten av de "
-#~ "Begråtna kullarna. Vi bör evakuera staden och ta oss till dem så snart "
-#~ "som möjligt."
-
-#~ msgid "End of Chapter I"
-#~ msgstr "Slut på Kapitel I"
-
-#~ msgid ""
-#~ "Kapou'e will come back in Son of the Black Eye, chapter II: 'The Great "
-#~ "Horde'."
-#~ msgstr ""
-#~ "Kapou'e kommer tillbaka i Svartögats son, kapitel II, 'Den Stora Horden'."
-
-#~ msgid ""
-#~ "It's been two days since we entered this desert. I have never been so hot "
-#~ "and we have nearly finished our food."
-#~ msgstr ""
-#~ "Det har gått två dagar sedan vi gick in i öknen. Jag har aldrig i hela "
-#~ "mitt liv varit så varm, och dessutom är maten nästan slut."
-
-#~ msgid ""
-#~ "The sun is rising, we should resume our journey and find this oasis "
-#~ "mentioned on the map before the sun gets high."
-#~ msgstr ""
-#~ "Solen går upp, vi måste fortsätta vår resa och hitta oasen som angavs på "
-#~ "kartan innan solen står alltför högt på himlen."
-
-#~ msgid ""
-#~ "Stay alert! This oasis is known to be a den of outlaws and desert "
-#~ "pillagers."
-#~ msgstr ""
-#~ "Var på er vakt! Oasen är känd för att härbärgera fredlösa och ökenpirater."
-
-#~ msgid ""
-#~ "We are attacked by these humans! Hurry up, we must defend our fathers' "
-#~ "land!"
-#~ msgstr ""
-#~ "Vi blir anfallna av människorna! Skynda er, vi måste försvara våra "
-#~ "förfäders land!"
-
-#~ msgid ""
-#~ "We are victorious this time, but humans are organizing themselves in a "
-#~ "huge army. We have just defeated a vanguard, they will soon overwhelm us."
-#~ msgstr ""
-#~ "Den här gången vann vi, men människorna håller på att samla ihop en stor "
-#~ "armé. Vi har bara besegrat en liten förtrupp, snart kommer de vara för "
-#~ "många för oss."
-
-#~ msgid "Death of more than 5 saurians"
-#~ msgstr "Fler än 5 ödlemän dör"
-
-#~ msgid "We must do something!"
-#~ msgstr "Vi måste göra något!"
-
-#~ msgid ""
-#~ "We've had too many casualties to be able to resist the humans, we have no "
-#~ "choice but to surrender."
-#~ msgstr ""
-#~ "Alltför många har stupat och vi kan inte längre hålla stånd mot "
-#~ "människorna. Vi måste kapitulera."
-
-#~ msgid "Chase all elves from the western bank of river Bork"
-#~ msgstr "Jaga bort alla alver från floden Borks västra strand"
-
-#~ msgid ""
-#~ "So here is the Silent Forest ... why is it named that way? Is it really "
-#~ "that silent?"
-#~ msgstr ""
-#~ "Så det här är Tysta skogen... Varför kallas den så? Är den verkligen så "
-#~ "tyst?"
-
-#~ msgid "Some people say these woods are haunted."
-#~ msgstr "Det finns de som säger att skogen är hemsökt."
-
-#~ msgid ""
-#~ "What is that? Orcs entering our forest? Fools! None of them will return "
-#~ "alive!"
-#~ msgstr ""
-#~ "Vad är det? Orcher som går in i vår skog. Dårar! Ingen av dem kommer ut "
-#~ "levande."
-
-#~ msgid "I agree. We'll attack them on both sides."
-#~ msgstr "Jag instämmer. Vi anfaller på båda sidor."
-
-#~ msgid "No more elves? Where are you cowards!?"
-#~ msgstr "Inga fler alver? Var är ni, fega hundar?!"
-
-#~ msgid ""
-#~ "Don't shout that loud, stupid troll. Do you remember we are in the Silent "
-#~ "Forest? Perhaps there more are to come."
-#~ msgstr ""
-#~ "Skrik inte så högt, dumma troll. Kom ihåg att vi är i Tysta skogen! "
-#~ "Kanske det kommer fler."
-
-#~ msgid ""
-#~ "I don't think so. They must have fled. Now that this forest has been "
-#~ "cleared of elves, we can have a rest and then continue our journey."
-#~ msgstr ""
-#~ "Det tror jag inte. De måste ha flytt. Nu när skogen är rensad på alver, "
-#~ "så kan vi vila lite och sedan fortsätta vår färd."
-
-#~ msgid "Here is Barag Gór."
-#~ msgstr "Här är Barag Gór."
-
-#~ msgid ""
-#~ "Oh no! They are besieged by elves. We must help our brothers to get rid "
-#~ "of this mob. But these filthy elves are so numerous."
-#~ msgstr ""
-#~ "Åh nej! Alverna belägrar staden. Vi måste hjälpa våra bröder att jaga dem "
-#~ "på flykten. Men de smutsiga alverna är så många."
-
-#~ msgid "They are retreating at last!"
-#~ msgstr "Äntligen drar de sig tillbaka!"
-
-#~ msgid ""
-#~ "We're not out of the woods yet. I can see that more are pouring from the "
-#~ "forest. We are not yet safe."
-#~ msgstr ""
-#~ "Vi är inte ute ur skogen än. Jag kan se hur fler av dem väller fram ur "
-#~ "skogen. Än är vi inte säkra."
-
-#~ msgid ""
-#~ "You are right, we have to leave to a safer place. You have helped us. "
-#~ "Would you help us again and escort us to the Harbour of Tirigaz?"
-#~ msgstr ""
-#~ "Du har rätt, vi måste ge oss av till ett säkrare ställe. Du har hjälpt "
-#~ "oss förut. Vill du hjälpa oss igen, och eskortera oss till Tirigaz hamn?"
-
-#~ msgid ""
-#~ "Yes, I need to ask for assistance from the whole council. I'm with you."
-#~ msgstr "Ja, jag behöver söka hjälp från hela rådet. Jag följer med er."
-
-#~ msgid ""
-#~ "Excellent. This is a dangerous journey, as we have to take a road near "
-#~ "the elvish forest. This is the road near that yellow farm."
-#~ msgstr ""
-#~ "Utmärkt. Det är en farlig resa, då vi måste följa en väg som går nära "
-#~ "alvernas skog. Det är vägen som går förbi den gula gården där."
-
-#~ msgid "Bring the Shamans and then Kapou'e to the signpost"
-#~ msgstr "För schamanerna och därefter Kapou'e till vägskylten"
-
-#~ msgid ""
-#~ "We're safe, finally. Hurry up Kapou'e, come with us, we need to reach "
-#~ "Tirigaz as soon as possible."
-#~ msgstr ""
-#~ "Äntligen är vi säkra. Skynda dig Kapou'e, kom med oss, vi måste ta oss "
-#~ "till Tirigaz snarast möjligt."
-
-#~ msgid "Bring Kapou'e to the signpost"
-#~ msgstr "För Kapou'e till vägskylten"
-
-#~ msgid "Filiel"
-#~ msgstr "Filiel"
-
-#~ msgid "Aha! Surprise! You thought you could cross elvish lands safely!"
-#~ msgstr ""
-#~ "Aha! Överraskning! Ni trodde att ni kunde passera igenom alvmarker ostört!"
-
-#~ msgid "We've made it! Our journey is still long. Hurry up, my people!"
-#~ msgstr "Vi klarade det! Vår resa är fortfarande lång. Skynda er, mitt folk!"
-
-#~ msgid "They are destroying our castle! To my rescue my merry Elves!"
-#~ msgstr "De förstör vårt slott! Kom och hjälp mig, mina glada alver!"
-
-#~ msgid ""
-#~ "At your service, Etheliel. Let us push these evil creatures back to their "
-#~ "quag!"
-#~ msgstr ""
-#~ "Till din tjänst, Etheliel. Låt oss jaga tillbaka dessa onda varelser ner "
-#~ "i deras sörja!"
-
-#~ msgid "What are these orcs doing here? They should be too tired to live."
-#~ msgstr "Vad gör de där orcherna här? De borde vara för trötta för att leva."
-
-#~ msgid "Argh! I'm done. My people are doomed!"
-#~ msgstr "Argh! Det är ute med mig. Mitt folk är dödsdömt!"
